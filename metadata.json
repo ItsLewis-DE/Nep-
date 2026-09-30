@@ -1,0 +1,8 @@
+{
+  "name": "Remix Tiệm May Nếp",
+  "description": "Ứng dụng khám phá và phối trang phục truyền thống Việt Nam",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
