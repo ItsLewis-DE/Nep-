@@ -1,5 +1,3 @@
-File: docs/08-assets/chapter-3/c3-s2-phong-phong-thuy/bg-mat-phai/README.md
-
 # Nền Phòng Phong Thủy Mặt Phải (`bg-mat-phai`)
 
 - **Tên tiếng Việt:** Nền gian phòng phong thủy Thầy Ba Càn năm 1962 (Mặt Phải)

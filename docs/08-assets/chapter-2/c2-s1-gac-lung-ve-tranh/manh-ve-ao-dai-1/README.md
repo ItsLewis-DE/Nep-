@@ -1,5 +1,3 @@
-File: docs/08-assets/chapter-2/c2-s1-gac-lung-ve-tranh/manh-ve-ao-dai-1/README.md
-
 # Vật Phẩm Ghép Hình: Mảnh Bản Vẽ 1 (`manh-ve-ao-dai-1`)
 
 - **Tên tiếng Việt:** Mảnh bản vẽ 1: Phần cổ đứng hạ thấp và hàng khuy bấm chéo

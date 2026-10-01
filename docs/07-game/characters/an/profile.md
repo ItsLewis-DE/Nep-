@@ -1,5 +1,3 @@
-File: docs/07-game/characters/an/profile.md
-
 # Hồ Sơ Nhân Vật: An
 
 ## 1. Thông tin căn bản
@@ -7,7 +5,7 @@ File: docs/07-game/characters/an/profile.md
 - **Mã định danh (ID):** `an`
 - **Họ và tên đầy đủ:** Nguyễn Hoàng An
 - **Năm sinh / Tuổi:** Sinh năm 2004, 22 tuổi (năm 2026).
-- **Vai trò trong cốt truyện:** Nhân vật chính (Protagonist), người thừa kế thế hệ thứ năm của Tiệm May Nếp, cầu nối thời gian kết nối quá khứ và hiện đại.
+- **Vai trò trong cốt truyện:** Nhân vật chính (Protagonist), người thừa kế thế hệ thứ năm tiếp quản Tiệm May Nếp tại phố Hàng Đào, Hà Nội sau khi bà Mai qua đời năm 2024; là cầu nối thời gian kết nối di sản y phục năm thế hệ phụ nữ trong gia đình từ Bắc chí Nam.
 - **Tính cách:**
   - Năng động, tháo vát, có tư duy thẩm mỹ hiện đại của thế hệ Gen Z tốt nghiệp ngành thiết kế mỹ thuật ứng dụng.
   - Trọng tình cảm gia đình, hiếu thảo với người bà quá cố, sâu sắc và biết lắng nghe.

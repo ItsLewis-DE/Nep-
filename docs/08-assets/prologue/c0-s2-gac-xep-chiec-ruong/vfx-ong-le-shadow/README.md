@@ -1,5 +1,3 @@
-File: docs/08-assets/prologue/c0-s2-gac-xep-chiec-ruong/vfx-ong-le-shadow/README.md
-
 # Hiệu Ứng Hoạt Ảnh: Bóng Mờ Ông Lệ Lướt Qua (`vfx-ong-le-shadow`)
 
 - **Tên tiếng Việt:** Hiệu ứng bóng mờ tro tàn của Thực thể Ông Lệ lướt qua góc gác xép

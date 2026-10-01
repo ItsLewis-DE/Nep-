@@ -1,5 +1,3 @@
-File: docs/02-plan/requirements.md
-
 # Yêu Cầu Đề Thi Và Ràng Buộc Thể Lệ
 
 Tài liệu này ghi lại toàn bộ yêu cầu của đề bài Audition "Việt phục Remix", các tiêu chí chấm điểm của ban giám khảo, cùng các quy định bắt buộc về công cụ AI, bảo mật dữ liệu và quyền sở hữu trí tuệ. Đây là căn cứ để nhóm mình kiểm soát phạm vi tính năng của app Tiệm May Nếp.
@@ -64,16 +62,16 @@ Về sở hữu trí tuệ và tính liêm chính:
 
 | Yêu cầu của đề bài | Tính năng tương ứng trong Tiệm May Nếp | Khu vực thực hiện trong app | Mức độ ưu tiên |
 | :--- | :--- | :--- | :--- |
-| Chọn loại trang phục | Chọn phom dáng áo: tứ thân, ngũ thân tay chẽn, ngũ thân tay thụng (áo tấc), áo dài tân thời | Bàn may (Studio) | Bắt buộc |
-| Chọn sự kiện sử dụng | Bộ lọc ngữ cảnh: Tết Nguyên đán, lễ cưới, bế giảng, đi lễ chùa, đi viếng tang | Bàn may (Studio) | Bắt buộc |
-| Chọn màu sắc và phụ kiện | Bảng chọn màu vải dệt, phụ kiện (khăn vấn, nón ba tầm, quạt giấy, guốc mộc, chuỗi hạt) | Bàn may (Studio) & Tủ gỗ | Bắt buộc |
-| Xem kết quả phối đồ | Nhân vật pixel art cập nhật trang phục tức thì trên bục thử đồ | Bàn may (Studio) | Bắt buộc |
-| Đọc nguồn gốc, ý nghĩa trang phục | Thẻ thông tin văn hóa trích dẫn nguồn lịch sử có ghi chép rõ ràng | Kệ sách (Bảo tàng) | Bắt buộc |
-| Tải ảnh / chọn nhân vật đại diện | Nhân vật pixel mặc định có thể đổi kiểu tóc, giới tính hoặc tạo nét từ ảnh chụp | Sảnh tiệm & Bàn may | Bổ sung |
-| Gợi ý theo thời tiết và sự kiện | Mèo mướp Nếp gợi ý 3 bộ đồ phù hợp với bối cảnh sự kiện và điều kiện thời tiết | Bàn may (Studio) | Bổ sung |
-| Kiểm tra độ hài hòa màu sắc | Thước đo chấm điểm phối màu dựa trên nguyên lý tương phản và sắc độ | Bàn may (Studio) | Bổ sung |
-| So sánh các phương án phối đồ | Khung hiển thị song song 2 đến 3 bộ trang phục đã phối để người dùng đối chiếu | Bàn may (Studio) | Bổ sung |
-| Tạo và chia sẻ lookbook | Gemini sinh 4 bức ảnh chân thực mô phỏng ảnh chụp tại studio truyền thống | Bàn may (Studio) | Bổ sung |
-| Cảnh báo sai lệch đặc trưng văn hóa | Hệ thống thông báo nhắc nhở khi phối sai ngữ cảnh nghi lễ hoặc nhầm lẫn dáng áo | Bàn may & Xưởng may | Bổ sung |
-| Nhận diện áo thật và phân biệt | Quét ảnh áo ngoài đời thực thành đồ pixel; giải thích điểm khác sườn xám, hanbok | Xưởng may (Tủ gỗ) | Sáng tạo riêng |
-| Trải nghiệm lịch sử và lề thói cũ | Trò chơi giải đố point-and-click với cơ chế Lật vải qua từng thời kỳ áo dài | Cái rương cũ (Hành trình) | Sáng tạo riêng |
+| Chọn loại trang phục | Chọn phom dáng áo: tứ thân, ngũ thân tay chẽn, ngũ thân tay thụng (áo tấc), áo dài tân thời | Phòng phối đồ (Studio) | Bắt buộc |
+| Chọn sự kiện sử dụng | Bộ lọc ngữ cảnh: Tết Nguyên đán, lễ cưới, bế giảng, đi lễ chùa, đi viếng tang | Phòng phối đồ (Studio) | Bắt buộc |
+| Chọn màu sắc và phụ kiện | Bảng chọn màu vải truyền thống, phụ kiện (khăn vấn, nón ba tầm, quạt giấy, guốc mộc, chuỗi hạt) | Phòng phối đồ (Studio) & Tủ đồ | Bắt buộc |
+| Xem kết quả phối đồ | Nhân vật pixel art cập nhật trang phục tức thì trên bục thử đồ | Phòng phối đồ (Studio) | Bắt buộc |
+| Đọc nguồn gốc, ý nghĩa trang phục | Thẻ thông tin văn hóa trích dẫn nguồn lịch sử có ghi chép rõ ràng | Bảo tàng (Museum) | Bắt buộc |
+| Tải ảnh / chọn nhân vật đại diện | Nhân vật pixel mặc định tại sảnh, tự chọn giới tính, AI chỉ bóc tách tóc/kính từ selfie | Sảnh sân nhà & Phòng phối đồ | Bổ sung |
+| Gợi ý theo thời tiết và sự kiện | Mèo mướp Nếp gợi ý 3 bộ đồ phù hợp với bối cảnh sự kiện và điều kiện thời tiết | Phòng phối đồ (Studio) | Bổ sung |
+| Kiểm tra độ hài hòa màu sắc | Thước đo chấm điểm phối màu dựa trên nguyên lý tương phản và sắc độ | Phòng phối đồ (Studio) | Bổ sung |
+| So sánh các phương án phối đồ | Khung hiển thị song song 2 đến 3 bộ trang phục đã phối để người dùng đối chiếu | Phòng phối đồ (Studio) | Bổ sung |
+| Tạo và chia sẻ lookbook | Gemini sinh 4 góc nhìn chân thực mô phỏng ảnh chụp tại studio truyền thống | Phòng phối đồ (Studio) | Bổ sung |
+| Cảnh báo sai lệch đặc trưng văn hóa | Hệ thống thông báo nhắc nhở khi phối sai ngữ cảnh nghi lễ hoặc nhầm lẫn dáng áo | Phòng phối đồ & Xưởng may | Bổ sung |
+| Nhận diện áo thật và phân biệt | Quét ảnh áo ngoài đời thực thành đồ pixel; giải thích điểm khác sườn xám, hanbok | Xưởng may (Tủ đồ) | Sáng tạo riêng |
+| Trải nghiệm lịch sử và lề thói cũ | Trò chơi giải đố point-and-click với cơ chế Lật vải qua từng thời kỳ áo dài | Cốt truyện (Hành trình) | Sáng tạo riêng |

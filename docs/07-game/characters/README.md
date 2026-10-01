@@ -1,5 +1,3 @@
-File: docs/07-game/characters/README.md
-
 # Danh Mục Hồ Sơ Nhân Vật Trò Chơi (Characters)
 
 Thư mục này lưu trữ hồ sơ thiết kế chi tiết cho toàn bộ các nhân vật có lời thoại trong trò chơi giải đố "Cái Rương Cũ" và ứng dụng Tiệm May Nếp. Mỗi nhân vật được đặc tả đầy đủ về tính cách, phục trang lịch sử, bảng biểu cảm và prompt tiếng Anh để tạo sprite pixel art.
@@ -22,6 +20,8 @@ Thư mục này lưu trữ hồ sơ thiết kế chi tiết cho toàn bộ các 
 ### Tuyến nhân vật Chương 3 (Năm 1962 - Đa Kao, Sài Gòn)
 - `ba-mai/profile.md`: Bà Ngoại Lê Thị Mai (22 tuổi) - Thợ may áo dài raglan Sài Gòn phá tan định kiến "gò má cao sát phu".
 - `thay-ba-can/profile.md`: Thầy Địa lý Ba Càn (60 tuổi) - Phản diện người Chương 3, kẻ buôn thần bán thánh thao túng quẻ bói.
+- `vinh/profile.md`: Nguyễn Thế Vinh (24 tuổi) - Chàng trai trí thức thợ in sách, người yêu đồng hành cùng bà Mai chống lại định kiến.
+- `ba-lon/profile.md`: Bà Lớn Hội đồng Vĩnh (55 tuổi) - Phản diện người Chương 3, quý bà tư sản phong kiến cay nghiệt toan tính ép làm vợ lẽ.
 
 ### Tuyến nhân vật Chương 4 (Năm 1982 - Dệt Nam Định)
 - `me-phuong/profile.md`: Cô Nguyễn Mai Phương (18 tuổi) - Nữ công nhân dệt thời bao cấp đòi lại danh dự trong gia phả dòng họ.

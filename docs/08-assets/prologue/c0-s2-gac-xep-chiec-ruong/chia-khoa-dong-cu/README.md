@@ -1,5 +1,3 @@
-File: docs/08-assets/prologue/c0-s2-gac-xep-chiec-ruong/chia-khoa-dong-cu/README.md
-
 # Vật Phẩm: Chìa Khóa Đồng Cổ (`chia-khoa-dong-cu`)
 
 - **Tên tiếng Việt:** Chìa khóa đồng có tua chỉ đỏ sờn

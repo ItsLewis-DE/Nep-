@@ -1,5 +1,3 @@
-File: docs/08-assets/chapter-3/c3-s1-tiem-may-da-kao/bg-mat-phai/README.md
-
 # Nền Tiệm May Đa Kao Mặt Phải (`bg-mat-phai`)
 
 - **Tên tiếng Việt:** Nền tiệm may Mai Sài Gòn tại Đa Kao năm 1962 (Mặt Phải)

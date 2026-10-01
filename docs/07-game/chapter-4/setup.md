@@ -1,5 +1,3 @@
-File: docs/07-game/chapter-4/setup.md
-
 # Thiết Lập Kỹ Thuật Và Mỹ Thuật: Chương 4 (Năm 1982)
 
 Tài liệu này xác định chi tiết các thông số kỹ thuật, mô tả mỹ thuật pixel art cho từng phân cảnh, danh sách tọa độ điểm chạm (hitboxes) theo tỷ lệ phần trăm chính xác, danh mục nhân vật, vật phẩm và prompt tiếng Anh chuẩn hóa để tạo hình nền pixel cho Chương 4.

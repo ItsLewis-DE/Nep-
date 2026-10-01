@@ -1,5 +1,3 @@
-File: docs/08-assets/chapter-4/c4-s3-san-tu-duong-doi-dau/bg-mat-phai/README.md
-
 # Nền Sân Nhà Từ Đường Họ Nguyễn Mặt Phải (`bg-mat-phai`)
 
 - **Tên tiếng Việt:** Nền sân gạch nhà từ đường họ Nguyễn chiều mùa đông năm 1982

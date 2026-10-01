@@ -1,5 +1,3 @@
-File: docs/08-assets/chapter-2/c2-s1-gac-lung-ve-tranh/hitbox-french-window/README.md
-
 # Điểm Chạm: Cửa Sổ Vòm Kiểu Pháp Ra Ban Công (`hitbox-french-window`)
 
 - **Tên tiếng Việt:** Khung cửa sổ vòm gỗ kiểu Pháp mở ra ban công phố cổ

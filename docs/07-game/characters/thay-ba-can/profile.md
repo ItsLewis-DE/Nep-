@@ -1,5 +1,3 @@
-File: docs/07-game/characters/thay-ba-can/profile.md
-
 # Hồ Sơ Nhân Vật: Thầy Địa Lý Ba Càn
 
 ## 1. Thông tin căn bản

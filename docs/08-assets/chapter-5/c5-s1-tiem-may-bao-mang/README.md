@@ -1,5 +1,3 @@
-File: docs/08-assets/chapter-5/c5-s1-tiem-may-bao-mang/README.md
-
 # Phân Cảnh: Sảnh Tiệm May Trong Cơn Bão Mạng (`c5-s1-tiem-may-bao-mang`)
 
 Sảnh Tiệm May Nếp trong đêm khuya mùa thu năm 2026. Ánh đèn neon xanh lạnh từ máy tính bảng và màn hình laptop chiếu sáng bàn may, luồng bình luận ác ý trôi cuồn cuộn. An phải đưa ảnh chụp mẫu áo nhái của Hoàng Lâm vào bàn quét Xưởng may số hóa để Gemini phân tích và trích xuất hồ sơ giám định chứng minh sai phạm.

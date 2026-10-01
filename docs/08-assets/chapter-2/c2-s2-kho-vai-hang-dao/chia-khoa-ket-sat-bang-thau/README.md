@@ -1,5 +1,3 @@
-File: docs/08-assets/chapter-2/c2-s2-kho-vai-hang-dao/chia-khoa-ket-sat-bang-thau/README.md
-
 # Vật Phẩm: Chìa Khóa Két Sắt Bằng Thau (`chia-khoa-ket-sat-bang-thau`)
 
 - **Tên tiếng Việt:** Chiếc chìa khóa két sắt bằng thau đúc răng cưa phức tạp

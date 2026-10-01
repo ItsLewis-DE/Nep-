@@ -1,5 +1,3 @@
-File: docs/08-assets/chapter-1/c1-s2-ban-tho-nha-tho-ho/bg-mat-phai/README.md
-
 # Nền Gian Nhà Thờ Họ Mặt Phải (`bg-mat-phai`)
 
 - **Tên tiếng Việt:** Nền gian nhà thờ họ Bùi ba gian uy nghiêm (Mặt Phải)

@@ -1,5 +1,3 @@
-File: docs/07-game/characters/cu-cam/profile.md
-
 # Hồ Sơ Nhân Vật: Cụ Cố Tổ Nguyễn Thị Cầm
 
 ## 1. Thông tin căn bản
@@ -7,7 +5,7 @@ File: docs/07-game/characters/cu-cam/profile.md
 - **Mã định danh (ID):** `cu-cam`
 - **Họ và tên:** Nguyễn Thị Cầm
 - **Năm sinh / Tuổi:** Sinh năm 1865, 23 tuổi trong Chương 1 (năm 1888).
-- **Vai trò trong cốt truyện:** Nhân vật chính của Chương 1, Cụ Cố Tổ đời thứ nhất, nghệ nhân dệt lụa Vạn Phúc quật cường phá vỡ hủ tục ép góa phụ thủ tiết.
+- **Vai trò trong cốt truyện:** Nhân vật chính của Chương 1, Cụ Cố Tổ đời thứ nhất, nghệ nhân dệt lụa Vạn Phúc quật cường phá vỡ hủ tục ép góa phụ thủ tiết. Sau khi giải thoát năm 1888, cụ tái giá và sinh một người con gái (khoảng năm 1890), là thân mẫu của Cụ Loan (Chương 2). Cụ là bà cố tổ của An.
 - **Tính cách:**
   - Cần cù, nhẫn nại, đôi bàn tay tài hoa nức tiếng vùng lụa Hà Đông.
   - Mang nỗi đau mất chồng sâu sắc nhưng không yếu mềm; giàu lòng tự trọng và dũng khí.

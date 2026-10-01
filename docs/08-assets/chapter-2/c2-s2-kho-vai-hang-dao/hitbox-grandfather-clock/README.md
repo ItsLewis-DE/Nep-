@@ -1,5 +1,3 @@
-File: docs/08-assets/chapter-2/c2-s2-kho-vai-hang-dao/hitbox-grandfather-clock/README.md
-
 # Điểm Chạm: Chiếc Đồng Hồ Quả Lắc Pháp Cao 2m (`hitbox-grandfather-clock`)
 
 - **Tên tiếng Việt:** Đồng hồ quả lắc kiểu Pháp bằng gỗ sồi cao 2 mét

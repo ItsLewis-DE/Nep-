@@ -1,5 +1,3 @@
-File: docs/08-assets/prologue/c0-s1-tiem-may-chieu/hitbox-table/README.md
-
 # Điểm Chạm: Bàn Cắt Vải Lớn Giữa Phòng (`hitbox-table`)
 
 - **Tên tiếng Việt:** Chiếc bàn cắt may bằng gỗ sẫm màu

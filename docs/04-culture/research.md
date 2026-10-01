@@ -1,5 +1,3 @@
-File: docs/04-culture/research.md
-
 # Khảo Cứu Lịch Sử Áo Dài Và Các Vấn Đề Xã Hội Của Phụ Nữ Người Kinh
 
 Tài liệu này tổng hợp kết quả tra cứu lịch sử trang phục truyền thống của người Kinh và các hủ tục từng tác động trực tiếp lên đời sống người phụ nữ trong xã hội cũ. Mỗi nội dung đều được ghi rõ nguồn tham khảo và mức độ chắc chắn nhằm bảo đảm tính liêm chính học thuật cho dự án Tiệm May Nếp.
@@ -20,12 +18,12 @@ Tài liệu này tổng hợp kết quả tra cứu lịch sử trang phục tru
   - Khảo cứu kết cấu và bản vẽ phục dựng ngũ thân: **Cao** (Nguồn: Đoàn Thị Tình, *Trang phục Việt Nam*, NXB Mỹ thuật, 2006; Phan Huy Chú, *Lịch triều hiến chương loại chí*).
   - Ý nghĩa tượng trưng tứ thân phụ mẫu và ngũ thường: **Trung bình** (Nguồn: Ghi chép truyền khẩu và phân tích văn hóa dân gian của các nhà nghiên cứu trang phục cận - hiện đại; chưa thấy ghi trực tiếp trong văn bản đạo dụ của triều đình).
 
-### 1.2. Áo dài tân thời thập niên 1930 (Phong trào Le Mur và Lê Phổ)
+### 1.2. Áo dài tân thời (Phong trào Lemur và giai đoạn cuối thập niên 1930)
 - **Nội dung lịch sử:**
-  - Đầu thập niên 1930, họa sĩ Nguyễn Cát Tường (bút danh Lemur) tốt nghiệp Cao đẳng Mỹ thuật Đông Dương đã khởi xướng cuộc canh tân trang phục trên tuần báo *Phong Hóa* (từ số 85, năm 1934). Mẫu áo "Le Mur" lược bỏ thân con và các đường ráp thừa, may ôm sát đường cong cơ thể, mở rộng cổ áo thành cổ lá sen hoặc viền đăng ten, vai bồng, tà dài quét đất.
+  - Mẫu áo Lemur đầu tiên của họa sĩ Nguyễn Cát Tường (bút danh Lemur, tốt nghiệp Cao đẳng Mỹ thuật Đông Dương) đăng trên báo *Phong Hóa* số 90, ngày 23/3/1934. Mẫu áo "Le Mur" lược bỏ thân con và các đường ráp thừa, may ôm sát đường cong cơ thể, mở rộng cổ áo thành cổ lá sen hoặc viền đăng ten, vai bồng, tà dài quét đất.
   - Áo Le Mur ban đầu vấp phải phản ứng gay gắt từ giới bảo thủ Nho học vì bị coi là quá táo bạo, phô trương da thịt.
-  - Khoảng năm 1934 - 1935, họa sĩ Lê Phổ đã cải tiến lại: dung hòa áo Le Mur với nét kín đáo của áo ngũ thân truyền thống. Ông giữ lại cổ đứng kín đáo nhưng hạ thấp độ cao, khuy cài chéo bên nách phải, thân áo ôm nhẹ theo eo, hai tà rủ tự nhiên. Đây là mẫu áo bản lề định hình cho áo dài tân thời hiện đại.
-- **Mức độ chắc chắn:** **Cao** (Nguồn: Báo *Phong Hóa* số 85-115, năm 1934-1935 và Báo *Ngày Nay*, năm 1935-1940; nghiên cứu lịch sử mỹ thuật Đông Dương và mỹ thuật hiện đại Việt Nam).
+  - Đến giai đoạn sau Lemur (cuối thập niên 1930), xuất hiện các mẫu áo dài tân thời cổ đứng, không vai bồng: dung hòa tính cách tân với nét kín đáo của áo ngũ thân truyền thống. Dáng áo này giữ lại cổ đứng kín đáo nhưng hạ thấp độ cao, khuy cài chéo bên nách phải, thân áo ôm nhẹ theo eo, hai tà rủ tự nhiên, bỏ hẳn tay bồng và các chi tiết Tây hóa rườm rà. Đây là mẫu áo bản lề định hình cho áo dài tân thời hiện đại.
+- **Mức độ chắc chắn:** **Cao** (Nguồn: Báo *Phong Hóa* số 90-115, năm 1934-1935 và Báo *Ngày Nay*, năm 1935-1940; nghiên cứu lịch sử mỹ thuật Đông Dương và mỹ thuật hiện đại Việt Nam).
 
 ### 1.3. Áo dài cổ thuyền và tay raglan (Cuối 1950 - Đầu 1960)
 - **Nội dung lịch sử:**
@@ -57,11 +55,11 @@ Tài liệu này tổng hợp kết quả tra cứu lịch sử trang phục tru
 - **Nội dung:** Phụ nữ góa chồng bị gia đình và họ hàng nhà chồng ép không được tái giá để giữ gìn danh tiết cho dòng họ. Dưới triều Nguyễn, triều đình ban thưởng biển ngạch "Tiết hạnh khả phong" bằng gỗ sơn son thếp vàng cho các phụ nữ góa phụ thủ tiết nuôi con, vô hình trung trở thành sợi dây tinh thần ràng buộc, khiến nhiều phụ nữ trẻ phải chôn vùi cả thanh xuân trong cô đơn.
 - **Mức độ chắc chắn:** **Cao** (Nguồn: *Đại Nam thực lục*; *Khâm định Đại Nam hội điển sự lệ* quy định cụ thể tiêu chuẩn ban tặng biển "Tiết hạnh khả phong").
 
-### 2.3. Lệ làng phạt vạ (Gọt đầu bôi vôi, thả bè chuối)
-- **Nội dung:** Trong các hương ước làng xã phong kiến Bắc Bộ, phụ nữ mang thai ngoài giá thú ("chửa hoang") hoặc bị quy kết tội thông gian phải chịu các hình phạt sỉ nhục công khai mang tính bạo lực cộng đồng như cạo trọc đầu bôi vôi dắt đi quanh làng, bắt gia đình nộp tiền cheo phạt vạ cho làng. Trong các trường hợp tàn nhẫn nhất từng ghi nhận ở dân gian, nạn nhân bị trói vào bè chuối thả trôi sông. Trong khi đó, người đàn ông gây ra hậu quả thường chỉ bị phạt tiền nhẹ hoặc hoàn toàn vô can.
+### 2.3. Lệ làng phạt vạ (Phạt tiền, phạt lợn, bêu ở đình)
+- **Nội dung:** Trong các hương ước làng xã phong kiến Bắc Bộ, phụ nữ mang thai ngoài giá thú ("chửa hoang") hoặc bị quy kết vi phạm lễ giáo phải chịu các hình thức phạt vạ nặng nề như bắt gia đình nộp tiền cheo, nộp lợn cho làng mổ ăn khoán, hoặc bị bêu riếu công khai ở sân đình. Đối với các hình phạt bạo lực tàn nhẫn như "gọt đầu bôi vôi, thả bè chuối", đây là chi tiết phản ánh trong giai thoại dân gian và lời kể truyền khẩu, chưa thấy ghi nhận trực tiếp trong các văn bản hương ước gốc đã được dịch nghĩa.
 - **Mức độ chắc chắn:**
-  - Tục phạt vạ khoán làng, bắt nộp lợn, sỉ nhục công khai: **Cao** (Nguồn: Các văn bản Hương ước cổ vùng đồng bằng Bắc Bộ; nghiên cứu xã hội học nông thôn của Pierre Gourou).
-  - Tục gọt đầu bôi vôi, thả bè chuối: **Trung bình** (Nguồn: Phản ánh đậm nét trong văn học hiện thực phê phán, ca dao tục ngữ và lời kể dân gian; luật chính thức của triều đình cấm tư hình nhưng lệ làng ở các vùng xa xôi vẫn lén lút thực hiện).
+  - Hình thức phạt vạ bằng tiền, lợn, bêu ở sân đình: **Cao** (Nguồn: Các văn bản Hương ước cổ vùng đồng bằng Bắc Bộ; nghiên cứu xã hội học nông thôn của Pierre Gourou).
+  - Tục "gọt đầu bôi vôi, thả bè chuối": **Dân gian / chưa kiểm chứng** (Nguồn: Truyền khẩu dân gian, văn học hiện thực; không thấy trong hương ước gốc; nếu xuất hiện trong kịch bản chỉ được thể hiện dưới dạng lời đồn hoặc lời dọa của nhân vật làng xã, có nhãn "theo truyền khẩu").
 
 ### 2.4. Gả con trừ nợ
 - **Nội dung:** Trong bối cảnh bần cùng hóa nông thôn dưới thời phong kiến suy tàn và thời Pháp thuộc, người nghèo vay nợ nặng lãi của địa chủ không có khả năng chi trả đành phải gả con gái làm vợ lẽ, con hầu hoặc ở đày trừ nợ.

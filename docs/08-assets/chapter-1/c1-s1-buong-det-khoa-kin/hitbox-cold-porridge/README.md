@@ -1,5 +1,3 @@
-File: docs/08-assets/chapter-1/c1-s1-buong-det-khoa-kin/hitbox-cold-porridge/README.md
-
 # Điểm Chạm: Bát Cháo Hoa Nguội Ngắt (`hitbox-cold-porridge`)
 
 - **Tên tiếng Việt:** Bát gốm hoa lam đựng cháo hoa nguội lạnh trên chõng tre

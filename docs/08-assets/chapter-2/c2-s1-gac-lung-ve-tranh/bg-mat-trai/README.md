@@ -1,5 +1,3 @@
-File: docs/08-assets/chapter-2/c2-s1-gac-lung-ve-tranh/bg-mat-trai/README.md
-
 # Nền Gác Lửng Vẽ Tranh Mặt Trái (`bg-mat-trai`)
 
 - **Tên tiếng Việt:** Nền gác lửng cõi Lật Vải (Mặt Trái)

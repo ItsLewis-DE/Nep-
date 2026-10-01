@@ -1,5 +1,3 @@
-File: docs/08-assets/chapter-1/c1-s3-cong-dinh-doi-dau/hitbox-stone-step/README.md
-
 # Điểm Chạm: Thềm Đá Đình Làng Nơi Đối Chất (`hitbox-stone-step`)
 
 - **Tên tiếng Việt:** Thềm đá xanh đình làng nơi Cụ Cầm đứng gõ thước gỗ

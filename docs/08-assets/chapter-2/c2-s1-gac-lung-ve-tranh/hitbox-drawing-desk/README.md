@@ -1,5 +1,3 @@
-File: docs/08-assets/chapter-2/c2-s1-gac-lung-ve-tranh/hitbox-drawing-desk/README.md
-
 # Điểm Chạm: Bàn Vẽ Mỹ Thuật Chứa Dụng Cụ (`hitbox-drawing-desk`)
 
 - **Tên tiếng Việt:** Chiếc bàn vẽ mỹ thuật dài bằng gỗ thông

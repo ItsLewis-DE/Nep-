@@ -1,47 +1,52 @@
-File: docs/03-features/onboarding.md
-
-# Đặc Tả Tính Năng Khởi Tạo Nhân Vật (Onboarding)
+# Đặc Tả Luồng Khởi Tạo Nhân Vật Tại Sảnh (Onboarding)
 
 ## 1. Mục đích của khu vực
 
-Màn hình Khởi tạo nhân vật (Onboarding) giúp người dùng mới thiết lập nhanh nhân vật đại diện pixel art đầu tiên của mình trước khi bước vào sảnh tiệm may. Trải nghiệm này loại bỏ hoàn toàn rào cản đăng ký tài khoản, tập trung vào việc tạo sự gắn kết cá nhân ngay lập tức, với hình ảnh xuất phát điểm đồng nhất là chiếc áo dài trắng truyền thống.
+Luồng Khởi tạo nhân vật được tích hợp trực tiếp ngay tại Sảnh sân nhà, loại bỏ hoàn toàn màn hình chào mừng tách rời để người dùng mới không gặp bất kỳ rào cản đăng nhập hay khảo sát ban đầu nào. Ngay khi mở ứng dụng, người dùng được trải nghiệm ngay không gian tiệm may thông qua thẻ tương tác "Bắt đầu câu chuyện của bạn", đồng thời được toàn quyền chủ động quyết định diện mạo nhân vật pixel (tự chọn giới tính và phong cách, hoặc để AI trích xuất nhanh thuộc tính tóc và kính từ ảnh selfie mà không lưu trữ dữ liệu khuôn mặt cá nhân).
 
 ## 2. Các bước người dùng thao tác
 
-Bước 1: Người dùng mở ứng dụng, màn hình chào mừng xuất hiện với lời chào ngắn từ tiệm may và hình ảnh chiếc áo dài trắng đang treo trên giá.
+- **Bước 1: Tiếp cận tại sảnh**
+  Người dùng bước thẳng vào Sảnh chính (Sân nhà hoàng hôn). Ở cạnh dưới trung tâm, thẻ *"Bắt đầu câu chuyện của bạn"* hiển thị trang trọng với hai tùy chọn rõ ràng:
+  - **Lựa chọn A - "Dạo quanh sân nhà":** Người dùng vào tiệm ngay với nhân vật mẫu mặc định (mặc áo dài trắng truyền thống thanh lịch). Thẻ hướng dẫn tự động thu gọn để người dùng tự do tham quan 4 khu vực.
+  - **Lựa chọn B - "Tạo nhân vật từ ảnh":** Mở bảng điều khiển (modal / bottom sheet) tạo nhân vật pixel hóa.
 
-Bước 2: Người dùng chọn một trong hai phương thức tạo nhân vật:
-- Phương thức 1 (Nhanh): Chọn nhân vật có sẵn từ danh sách hình mẫu đại diện (nam hoặc nữ), sau đó chọn kiểu tóc, màu tóc và phụ kiện kính mắt cơ bản.
-- Phương thức 2 (Tải ảnh selfie): Tải lên một bức ảnh chụp khuôn mặt từ điện thoại. Hệ thống gửi ảnh tới Gemini để bóc tách 3 đặc điểm: chiều dài tóc (ngắn/ngang vai/dài), màu tóc cơ bản (đen/nâu), và có đeo kính hay không. Hệ thống tự động ghép các sprite tương ứng để tạo nhân vật pixel.
+- **Bước 2: Chọn giới tính và phương thức tạo diện mạo**
+  Người dùng tự tay chọn định danh giới tính cho nhân vật (Nam hoặc Nữ), hệ thống **tuyệt đối không dùng AI suy đoán giới tính** từ hình ảnh. Sau đó, người dùng chọn một trong hai phương thức tạo chi tiết:
+  - **Cách 1 - Tạo từ ảnh selfie:** Người dùng tải ảnh chân dung/selfie từ thiết bị. Mô hình Gemini chỉ bóc tách 3 đặc điểm đồ họa: chiều dài kiểu tóc (ngắn / ngang vai / dài), màu tóc cơ bản (đen / nâu hạt dẻ / vàng khói) và phụ kiện kính mắt (có đeo kính hay không). Hệ thống không lưu trữ hay nhận diện khuôn mặt chân thực, chỉ ánh xạ các đặc điểm này thành các mảnh sprite pixel art tương ứng.
+  - **Cách 2 - Chọn mẫu thủ công:** Người dùng tự chọn nhanh từ bảng danh sách kiểu tóc, màu tóc và màu da được vẽ sẵn.
 
-Bước 3: Người dùng đặt một tên hiển thị ngắn (tối đa 12 ký tự, không bắt buộc, mặc định là "Thợ May Mới").
+- **Bước 3: Tinh chỉnh và đặt tên nhân vật**
+  Người dùng có thể bấm đổi nhanh kiểu tóc hoặc kính nếu muốn thay đổi gợi ý từ AI, sau đó nhập tên hiển thị ngắn (tối đa 12 ký tự, mặc định: *"Thợ May Mới"*).
 
-Bước 4: Người dùng nhấn nút "Vào Tiệm", dữ liệu nhân vật được lưu vào bộ nhớ cục bộ (localStorage) và màn hình tự động chuyển sang Sảnh tiệm may.
+- **Bước 4: Hoàn tất và lưu trữ**
+  Nhấn nút *"Xác nhận diện mạo"*, bảng tạo nhân vật đóng lại, nhân vật pixel mới tạo xuất hiện ngay trên tâm vòng hoa văn tròn giữa sân nhà. Dữ liệu nhân vật được lưu an toàn vào `localStorage` của trình duyệt.
 
 ## 3. Các trạng thái màn hình
 
 ### Trạng thái bình thường
-Hiển thị khung hình nhân vật pixel mặc áo dài trắng ở chính giữa, bên dưới là hai nút lựa chọn lớn: "Chọn mẫu có sẵn" và "Dùng ảnh của tôi". Khi chọn mẫu có sẵn, xuất hiện hàng nút cuộn ngang để đổi kiểu tóc và tông da.
+Thẻ "Bắt đầu câu chuyện của bạn" hiển thị nổi bật ở nửa dưới sảnh chính với nền kem đào (`cream-100`), viền ngoài mận chín (`plum-800`), viền trong vàng đồng (`gold-500`) và hoa sen hai bên. Nút chính *"Tạo nhân vật từ ảnh ▶"* mang sắc hồng sen (`pink-500`) với bóng nổi dày 4px.
 
 ### Trạng thái đang tải (Loading)
-Xuất hiện khi người dùng chọn phương thức tải ảnh selfie. Màn hình hiển thị hoạt ảnh con thoi dệt vải chạy qua lại kèm dòng thông báo: "Đang ướm thử nếp áo cho bạn...". Toàn bộ nút bấm bị khóa tạm thời để tránh bấm trùng lặp.
+Xuất hiện khi người dùng tải ảnh selfie để AI phân tích thuộc tính tóc và kính. Hiển thị hoạt ảnh con thoi dệt lụa dập nổi kèm dòng thông báo: *"Đang chọn nếp tóc và dáng kính pixel..."*. Các nút thao tác tạm thời vô hiệu hóa để tránh gửi yêu cầu lặp lại.
 
 ### Trạng thái trống (Empty)
-Chỉ xảy ra khi thiết bị không hỗ trợ đọc ảnh từ tệp hoặc danh sách hình mẫu tải lên bị lỗi bộ nhớ đệm. Giao diện tự động gán nhân vật mặc định (nữ tóc đen ngang vai, áo dài trắng trơn) và bật nút "Tiếp tục ngay".
+Khi người dùng chưa thực hiện tạo nhân vật (mới truy cập lần đầu), sảnh mặc định hiển thị nhân vật mẫu trong tà áo dài ngũ thân trắng tinh khôi, sẵn sàng cho mọi tính năng phối đồ hay chơi game cốt truyện.
 
 ### Trạng thái lỗi (Error)
-Xuất hiện khi người dùng tải lên tệp không đúng định dạng hình ảnh (không phải PNG, JPG, WEBP) hoặc tệp vượt quá dung lượng 5MB. Màn hình hiện khung thông báo màu nâu đỏ: "Ảnh không đúng định dạng hoặc quá nặng. Bạn thử chọn lại ảnh khác nhé!".
+Xuất hiện khi tệp tải lên không phải hình ảnh hợp lệ (chỉ chấp nhận PNG, JPG, WEBP) hoặc dung lượng vượt quá 5MB. Khung thông báo viền hồng sen xuất hiện: *"Tệp ảnh chưa phù hợp hoặc quá lớn (tối đa 5MB). Bạn thử chọn ảnh khác nhé!"*.
 
 ### Trạng thái dự phòng khi AI lỗi (Fallback)
-Nếu lệnh gọi Gemini phân tích ảnh selfie bị quá thời gian (timeout quá 5 giây) hoặc API trả về lỗi mạng:
-- Hệ thống không chặn người dùng lại.
-- Tự động bỏ qua bước nhận diện AI, hiển thị thông báo nhẹ: "Không nhận diện được ảnh, tiệm đã chọn sẵn hình mẫu áo dài trắng giúp bạn!".
-- Giữ nguyên ảnh mẫu cơ bản và đưa thẳng các nút chọn tóc thủ công để người dùng tự điều chỉnh trong 2 giây rồi vào tiệm.
+Nếu kết nối mạng bị ngắt hoặc dịch vụ Gemini không phản hồi trong vòng 5 giây:
+- Không chặn người dùng hay dừng ứng dụng.
+- Tự động chuyển thẳng sang chế độ chọn mẫu thủ công với thông báo thân thiện: *"Tín hiệu AI gián đoạn, tiệm đã mở sẵn bảng chọn tóc và kính thủ công để bạn tự do lựa chọn!"*.
+- Người dùng chỉ mất 1-2 lần chạm tay là hoàn thành diện mạo và tiếp tục trải nghiệm.
 
 ## 4. Tiêu chí để coi là làm xong (Acceptance Criteria)
 
-- Người dùng không phải nhập mật khẩu hay email mà vẫn tạo được nhân vật.
-- Luôn hiển thị được nhân vật mặc áo dài trắng trên bục đứng.
-- Thời gian từ lúc mở màn hình đến khi vào được sảnh tiệm không quá 30 giây đối với phương thức chọn mẫu có sẵn.
-- Trạng thái nhân vật được ghi thành công vào localStorage và giữ nguyên khi người dùng tải lại trang web.
-- Xử lý mượt mà phương án dự phòng khi ngắt mạng hoặc API AI không phản hồi.
+- Người dùng mới vào thẳng Sảnh chính mà không bị chặn bởi bất kỳ màn hình trung gian nào.
+- Thẻ "Bắt đầu câu chuyện của bạn" hiển thị đầy đủ hai lựa chọn ("Tạo nhân vật từ ảnh" và "Dạo quanh sân nhà").
+- Tuyệt đối không để AI đoán giới tính từ ảnh; người dùng luôn là người chủ động chọn định danh giới tính.
+- Ảnh selfie chỉ dùng để ánh xạ 3 thuộc tính (kiểu tóc, màu tóc, kính mắt) sang sprite pixel, không lưu trữ ảnh gốc lên máy chủ.
+- Cơ chế dự phòng ngoại tuyến/lỗi API chuyển mượt mà sang giao diện chọn mẫu thủ công trong tích tắc.
+- Trạng thái nhân vật được ghi nhận tức thì vào `localStorage` và duy trì chính xác qua các lần mở lại trang web.

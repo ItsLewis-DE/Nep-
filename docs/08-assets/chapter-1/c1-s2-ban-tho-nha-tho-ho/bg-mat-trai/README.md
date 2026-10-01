@@ -1,5 +1,3 @@
-File: docs/08-assets/chapter-1/c1-s2-ban-tho-nha-tho-ho/bg-mat-trai/README.md
-
 # Nền Gian Nhà Thờ Họ Mặt Trái (`bg-mat-trai`)
 
 - **Tên tiếng Việt:** Nền gian nhà thờ họ cõi Lật Vải (Mặt Trái)

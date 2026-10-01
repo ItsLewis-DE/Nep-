@@ -1,8 +1,6 @@
-File: docs/07-game/README.md
-
 # Thư Mục Thiết Kế Kịch Bản Trò Chơi (07-game)
 
-Thư mục này chứa toàn bộ kịch bản, thiết kế câu đố, hồ sơ nhân vật và tài liệu nghệ thuật phục vụ phân khu trò chơi giải đố point-and-click "Cái Rương Cũ" trong ứng dụng Tiệm May Nếp.
+Thư mục này chứa toàn bộ kịch bản, thiết kế câu đố, hồ sơ nhân vật và tài liệu nghệ thuật phục vụ phân khu trò chơi giải đố point-and-click "Cốt truyện" (hành trình khám phá chiếc rương cũ) trong ứng dụng Tiệm May Nếp.
 
 ## Danh sách tài liệu
 

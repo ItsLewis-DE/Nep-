@@ -1,5 +1,3 @@
-File: docs/07-game/chapter-4/script.md
-
 # Kịch Bản Chi Tiết: Chương 4 - Tấm Lụa Đáy Rương (Năm 1982)
 
 Chương 4 đưa người chơi về thành phố dệt Nam Định vào năm 1982, giữa thời kỳ kinh tế bao cấp gian khó với chế độ sổ gạo, tem phiếu. Câu chuyện xoay quanh Cô Nguyễn Mai Phương (18 tuổi, mẹ của An), một nữ công nhân dệt trẻ tuổi yêu thiết kế y phục. Cô đang chuẩn bị tổ chức lễ cưới giản dị nhưng vấp phải bức tường định kiến gia tộc: tư tưởng *"Trọng nam khinh nữ, Nhất nam viết hữu - thập nữ viết vô"*, xóa tên phụ nữ khỏi gia phả và âm mưu tước đoạt căn nhà hương hỏa của gia đình.
@@ -124,7 +122,7 @@ Sau ngày đoàn tụ, tên của cô Phương và mẹ được trân trọng g
 
 ## 4. Phần thưởng và giá trị giáo dục lịch sử
 
-- **Phần thưởng tài nguyên:** 150 xu thưởng.
+- **Phần thưởng tài nguyên:** 150 Sen Ngọc thưởng.
 - **Mở khóa 2 mẫu áo độc quyền vào Tủ đồ:**
   1. `ao_dai_cuoi_vai_phin_1982`: Chiếc áo cưới giản dị của nữ thanh niên thời bao cấp, may từ vải phin trắng thêu cành hoa đào nhỏ, biểu trưng cho tình yêu thủy chung son sắt qua năm tháng khó khăn.
   2. `ao_dai_hoa_cuc_dai_poplin`: Mẫu áo dài họa tiết hoa cúc dại nền nã may từ vải pô-pơ-lin công nghiệp dệt Nam Định.

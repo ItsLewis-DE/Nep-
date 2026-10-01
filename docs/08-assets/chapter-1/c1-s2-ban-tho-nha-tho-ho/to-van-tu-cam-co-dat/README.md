@@ -1,5 +1,3 @@
-File: docs/08-assets/chapter-1/c1-s2-ban-tho-nha-tho-ho/to-van-tu-cam-co-dat/README.md
-
 # Vật Phẩm Chứng Cứ: Tờ Văn Tự Bán Đất Gian Trá (`to-van-tu-cam-co-dat`)
 
 - **Tên tiếng Việt:** Tờ văn tự bán đất làng của Trưởng tộc Bùi Văn Thân

@@ -1,5 +1,3 @@
-File: docs/04-culture/differentiation-guide.md
-
 # Hướng Dẫn Đối Chiếu Phân Biệt Áo Dài Với Sườn Xám Và Hanbok
 
 Tài liệu này xác lập các tiêu chí hình thái học và cấu trúc may cắt nhằm giúp mô hình Gemini và hệ thống Xưởng may nhận diện chính xác áo dài người Kinh, đồng thời giải thích rõ ràng sự khác biệt khi người dùng tải lên hình ảnh sườn xám (qipao/cheongsam) của Trung Quốc hoặc hanbok của Hàn Quốc.

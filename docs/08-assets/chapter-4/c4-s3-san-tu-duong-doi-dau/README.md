@@ -1,5 +1,3 @@
-File: docs/08-assets/chapter-4/c4-s3-san-tu-duong-doi-dau/README.md
-
 # Phân Cảnh: Sân Nhà Từ Đường Họ Nguyễn (`c4-s3-san-tu-duong-doi-dau`)
 
 Khoảng sân gạch đỏ rộng lớn trước gian từ đường họ Nguyễn vào buổi chiều mùa đông năm 1982. Nơi diễn ra màn đối chất cao trào đập tan tư tưởng gia trưởng "trọng nam khinh nữ": Cô Phương mặc chiếc áo dài cưới vải phin thêu hoa đào bước lên thềm đá, giơ cao các trang gia phả gốc buộc ban khánh tiết phải nhận sai và phục hồi tên tuổi của phụ nữ trong dòng tộc.

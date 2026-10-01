@@ -1,5 +1,3 @@
-File: docs/07-game/prologue/script.md
-
 # Kịch Bản Chi Tiết: Màn Mở Đầu (Prologue) - Căn Gác Thu 2026
 
 Màn mở đầu thiết lập không khí chung của trò chơi: sự giao hòa giữa nhịp sống hiện đại của một người trẻ Gen Z và chiều sâu trầm lắng của nếp nhà phố cổ Hà Nội. Màn này hướng dẫn người chơi làm quen với lối chơi tương tác point-and-click, đồng thời kích hoạt cơ chế "Lật vải" đầu tiên gắn liền với kỷ vật của người bà.
@@ -8,8 +6,8 @@ Màn mở đầu thiết lập không khí chung của trò chơi: sự giao hò
 
 ## 1. Bối cảnh không gian và thời gian
 
-- **Thời gian:** 16:30, một buổi chiều cuối thu năm 2026. Gió heo may lay nhẹ những tán bàng lá đỏ góc phố Hàng Bông.
-- **Không gian:** Tiệm May Nếp, căn nhà gỗ ba gian lợp ngói âm dương có gác lửng, nằm nép mình giữa lòng phố cổ Hà Nội.
+- **Thời gian:** 16:30, một buổi chiều cuối thu năm 2026. Gió heo may lay nhẹ những tán bàng lá đỏ góc phố Hàng Đào.
+- **Không gian:** Tiệm May Nếp, căn nhà gỗ ba gian lợp ngói âm dương có gác lửng, nằm nép mình giữa phố Hàng Đào, phố cổ Hà Nội.
 - **Tâm trạng chủ đạo:** Lặng lẽ, hoài niệm, nhưng ấm áp và nhen nhóm quyết tâm tiếp bước tiền nhân.
 
 ---
@@ -97,6 +95,6 @@ Chiếc thước thợ may bằng gỗ chia khắc cổ kính nằm trên nếp 
 
 ## 4. Phần thưởng và thẻ tri thức mở khóa
 
-- **Tài nguyên:** 50 xu thưởng (phần thưởng khích lệ bước vào hành trình).
-- **Vật phẩm thu thập vĩnh viễn:** `thước_gỗ_thợ_may_1888` (kỷ vật của cụ Cầm, dùng làm phụ kiện cầm tay trang trọng trong Bàn may Studio).
+- **Tài nguyên:** 50 Sen Ngọc thưởng (phần thưởng khích lệ bước vào hành trình).
+- **Vật phẩm thu thập vĩnh viễn:** `thước_gỗ_thợ_may_1888` (kỷ vật của cụ Cầm, dùng làm phụ kiện cầm tay trang trọng trong Studio).
 - **Thẻ tri thức Bảo tàng mở khóa:** Thẻ `card-tiem-may-nep-origins` (Nguồn gốc nghề may truyền thống Hà Nội và nếp nhà người Kinh).

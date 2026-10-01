@@ -1,5 +1,3 @@
-File: docs/08-assets/chapter-2/c2-s1-gac-lung-ve-tranh/manh-ve-ao-dai-3/README.md
-
 # Vật Phẩm Ghép Hình: Mảnh Bản Vẽ 3 (`manh-ve-ao-dai-3`)
 
 - **Tên tiếng Việt:** Mảnh bản vẽ 3: Hai tà áo lụa rủ dài bay bổng
@@ -12,7 +10,7 @@ File: docs/08-assets/chapter-2/c2-s1-gac-lung-ve-tranh/manh-ve-ao-dai-3/README.m
 - **Thay đổi khi lật vải:** Viền mép giấy rách phát sáng màu vàng kim
 
 ## 1. Mô tả hình dáng cho họa sĩ pixel
-Mảnh giấy phác thảo rách góc dưới bên trái. Nét vẽ phác họa hai vạt tà áo dài phía trước và sau buông thẳng rủ xuống mắt cá chân, các nếp gấp tà lụa mềm mại bay nhẹ trong gió thu Hà Nội, thể hiện rõ sự khác biệt giữa tà áo quét đất của Le Mur và tà áo lửng vừa phải của Lê Phổ.
+Mảnh giấy phác thảo rách góc dưới bên trái. Nét vẽ phác họa hai vạt tà áo dài phía trước và sau buông thẳng rủ xuống mắt cá chân, các nếp gấp tà lụa mềm mại bay nhẹ trong gió thu Hà Nội, thể hiện rõ sự khác biệt giữa tà áo quét đất của Le Mur và tà áo lửng vừa phải của áo dài tân thời cổ đứng giai đoạn sau.
 
 ## 2. Prompt tiếng Anh (Dán sau Khối Style Chung)
 ```text

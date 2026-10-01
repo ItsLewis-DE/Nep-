@@ -1,5 +1,3 @@
-File: docs/08-assets/chapter-4/c4-s1-can-ho-tap-the/hitbox-phin-fabric/README.md
-
 # Điểm Chạm: Thêu Hoa Đào Trên Áo Cưới Vải Phin (`hitbox-phin-fabric`)
 
 - **Tên tiếng Việt:** Tấm vải phin trắng may áo cưới và cành hoa đào thêu dở

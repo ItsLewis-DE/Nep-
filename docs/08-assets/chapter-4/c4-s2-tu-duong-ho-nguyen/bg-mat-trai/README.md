@@ -1,5 +1,3 @@
-File: docs/08-assets/chapter-4/c4-s2-tu-duong-ho-nguyen/bg-mat-trai/README.md
-
 # Nền Gian Từ Đường Cõi Lật Vải (`bg-mat-trai`)
 
 - **Tên tiếng Việt:** Nền gian nhà từ đường cõi Lật Vải (Mặt Trái)

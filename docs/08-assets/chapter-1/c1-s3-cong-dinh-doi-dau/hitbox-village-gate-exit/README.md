@@ -1,5 +1,3 @@
-File: docs/08-assets/chapter-1/c1-s3-cong-dinh-doi-dau/hitbox-village-gate-exit/README.md
-
 # Điểm Chạm: Cổng Đình Làng Ngập Nắng Xuân (`hitbox-village-gate-exit`)
 
 - **Tên tiếng Việt:** Vòm cổng đình làng mở rộng đón ánh nắng xuân

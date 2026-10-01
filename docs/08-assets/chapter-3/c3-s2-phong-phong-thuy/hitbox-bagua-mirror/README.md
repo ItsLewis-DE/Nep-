@@ -1,5 +1,3 @@
-File: docs/08-assets/chapter-3/c3-s2-phong-phong-thuy/hitbox-bagua-mirror/README.md
-
 # Điểm Chạm: Gương Bát Quái Treo Tường (`hitbox-bagua-mirror`)
 
 - **Tên tiếng Việt:** Gương bát quái bằng gỗ đào viền đồng treo tường

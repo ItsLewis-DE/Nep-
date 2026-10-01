@@ -1,8 +1,6 @@
-File: docs/07-game/chapter-5/script.md
-
 # Kịch Bản Chi Tiết: Chương 5 - Nếp Áo Hồi Sinh (Năm 2026 - Chương Cuối)
 
-Chương cuối cùng đưa người chơi trở lại thực tại năm 2026 tại Tiệm May Nếp (phố cổ Hà Nội). An - thế hệ thứ năm trong gia đình - phải đối mặt với thử thách thời đại số: sự lãng quên cội nguồn, vấn nạn trục lợi thương mại làm hàng nhái kém chất lượng, và sự trỗi dậy tối thượng của Thực thể Ông Lệ - kẻ đang tìm cách biến y phục truyền thống thành một thứ phục trang giải trí rỗng tuếch, xóa sổ tinh thần dân tộc.
+Chương cuối cùng đưa người chơi trở lại thực tại năm 2026 tại Tiệm May Nếp (phố Hàng Đào, Hà Nội). An - thế hệ thứ năm trong gia đình - phải đối mặt với thử thách thời đại số: sự lãng quên cội nguồn, vấn nạn trục lợi thương mại làm hàng nhái kém chất lượng, và sự trỗi dậy tối thượng của Thực thể Ông Lệ - kẻ đang tìm cách biến y phục truyền thống thành một thứ phục trang giải trí rỗng tuếch, xóa sổ tinh thần dân tộc.
 
 ---
 
@@ -121,7 +119,7 @@ Người bà hiện lên trong làn khói trầm mỏng manh, nở nụ cười 
 
 ## 4. Phần thưởng và giá trị giáo dục lịch sử
 
-- **Phần thưởng tài nguyên:** 200 xu thưởng (hoàn tất cốt truyện game).
+- **Phần thưởng tài nguyên:** 200 Sen Ngọc thưởng (hoàn tất cốt truyện game).
 - **Mở khóa 2 mẫu áo tối thượng vào Tủ đồ:**
   1. `ao_tu_than_mo_ba_mo_bay`: Bộ áo tứ thân hội hè lộng lẫy bằng lụa tơ tằm cổ truyền Bắc Bộ, kết tinh của sự duyên dáng nghìn năm.
   2. `ao_ngu_than_remix_2026`: Thiết kế độc quyền của An kết hợp phom dáng ngũ thân tay chẽn chuẩn mực thời Nguyễn với chất liệu sợi dệt tự nhiên đương đại, năng động và kiêu hãnh.

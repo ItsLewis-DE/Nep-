@@ -1,5 +1,3 @@
-File: docs/08-assets/chapter-1/c1-s3-cong-dinh-doi-dau/README.md
-
 # Phân Cảnh: Sân Và Cổng Đình Làng Vạn Phúc (`c1-s3-cong-dinh-doi-dau`)
 
 Khoảng sân đình làng Vạn Phúc lát gạch nghiêng cổ kính dưới gốc cây đa trăm năm vào buổi sáng mùa xuân. Nơi diễn ra màn đối chất lịch sử cao trào của Chương 1: Cụ Cầm công khai di thư và chứng cứ gian lận, phá hủy thực thể Ông Lệ và bước qua cổng làng giành lại quyền tự do.

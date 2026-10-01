@@ -1,8 +1,6 @@
-File: docs/04-culture/color-and-etiquette.md
-
 # Quy Chuẩn Màu Sắc Và Ứng Xử Trang Phục
 
-Tài liệu này hệ thống hóa các quy tắc về sắc độ, chất liệu và chuẩn mực ứng xử trang phục người Kinh theo từng bối cảnh đời sống. Các quy chuẩn này làm cơ sở thuật toán cho thước đo hài hòa màu sắc và bộ cảnh báo văn hóa trong phân khu Bàn may (Studio).
+Tài liệu này hệ thống hóa các quy tắc về sắc độ, chất liệu và chuẩn mực ứng xử trang phục người Kinh theo từng bối cảnh đời sống. Các quy chuẩn này làm cơ sở thuật toán cho thước đo hài hòa màu sắc và bộ cảnh báo văn hóa trong phân khu Phòng phối đồ (Studio).
 
 ## 1. Hệ thống màu sắc truyền thống của người Kinh
 
@@ -40,7 +38,7 @@ Y phục người Kinh xưa sử dụng nguồn thuốc nhuộm hoàn toàn từ
 - Trang phục khách đến viếng: Mặc áo ngũ thân hoặc áo dài màu tối giản (đen, chàm, xám đậm, trắng trơn). Cử chỉ điềm đạm, khiêm nhường.
 - Cảnh báo nghiêm cấm: Tuyệt đối không mặc y phục màu đỏ rực, vàng cam chói chang hoặc áo có thêu hoa văn chim phượng, chữ Hỷ khi đi viếng đám tang.
 
-## 3. Năm quy tắc văn hóa cốt lõi áp dụng vào mã nguồn Studio
+## 3. Năm quy tắc văn hóa cốt lõi áp dụng vào mã nguồn Phòng phối đồ (Studio)
 
 Hệ thống kiểm tra văn hóa trong app Tiệm May Nếp cài đặt 5 quy tắc logic sau để hiển thị lời nhắc nhẹ nhàng khi người dùng chọn cách phối đồ chưa phù hợp:
 

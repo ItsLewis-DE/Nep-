@@ -1,5 +1,3 @@
-File: docs/08-assets/chapter-1/c1-s2-ban-tho-nha-tho-ho/buc-thu-tay-chong-cu-cam/README.md
-
 # Vật Phẩm Cốt Truyện: Bức Thư Tay Của Người Chồng (`buc-thu-tay-chong-cu-cam`)
 
 - **Tên tiếng Việt:** Bức di thư viết mực Nho trên giấy dó của người chồng quá cố

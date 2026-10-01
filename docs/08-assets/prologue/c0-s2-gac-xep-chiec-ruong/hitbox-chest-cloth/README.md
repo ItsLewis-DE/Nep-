@@ -1,5 +1,3 @@
-File: docs/08-assets/prologue/c0-s2-gac-xep-chiec-ruong/hitbox-chest-cloth/README.md
-
 # Điểm Chạm: Tấm Vải Bố Phủ Nắp Rương (`hitbox-chest-cloth`)
 
 - **Tên tiếng Việt:** Tấm vải bố thô phủ trên nắp rương cũ

@@ -1,5 +1,3 @@
-File: docs/08-assets/chapter-1/c1-s1-buong-det-khoa-kin/bg-mat-phai/README.md
-
 # Nền Buồng Dệt Khóa Then Mặt Phải (`bg-mat-phai`)
 
 - **Tên tiếng Việt:** Nền buồng dệt lụa Vạn Phúc mùa đông năm 1888 (Mặt Phải)

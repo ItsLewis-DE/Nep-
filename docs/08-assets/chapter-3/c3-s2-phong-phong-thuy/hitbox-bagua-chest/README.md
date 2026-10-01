@@ -1,5 +1,3 @@
-File: docs/08-assets/chapter-3/c3-s2-phong-phong-thuy/hitbox-bagua-chest/README.md
-
 # Điểm Chạm: Tráp Gỗ Bát Giác Khóa Xoay Bát Quái (`hitbox-bagua-chest`)
 
 - **Tên tiếng Việt:** Chiếc tráp gỗ mun hình bát giác có ổ khóa xoay Bát Quái

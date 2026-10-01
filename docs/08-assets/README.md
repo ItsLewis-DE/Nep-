@@ -1,5 +1,3 @@
-File: docs/08-assets/README.md
-
 # Không Gian Làm Việc Đồ Họa & Tạo Ảnh Pixel Art (08-assets)
 
 Thư mục này là trung tâm làm việc dành riêng cho đội ngũ thiết kế đồ họa và tạo ảnh (Prompt Engineers / Pixel Artists) của dự án **Tiệm May Nếp**.
@@ -24,7 +22,7 @@ Dựa trên tài liệu hệ thống thiết kế `docs/06-design/design-system.
 | **Sprite Mèo Nếp (Linh thú)** | 32 × 32 px | 1:1 | PNG trong suốt (Alpha) |
 | **Sprite Boss Thực thể Ông Lệ** | 96 × 128 px | 3:4 (áp đảo kích thước người) | PNG trong suốt (Alpha) |
 | **Khung hình chân dung hội thoại (Avatar Portrait)** | 48 × 48 px | 1:1 | PNG trong suốt |
-| **Trang phục áo dài (Bàn may Studio)** | 64 × 96 px | 2:3 (khớp khung nhân vật) | PNG thang xám (Grayscale) |
+| **Trang phục áo dài (Phòng phối đồ Studio)** | 64 × 96 px | 2:3 (khớp khung nhân vật) | PNG thang xám (Grayscale) |
 | **Phụ kiện đội đầu, giày guốc, quạt** | 32 × 32 px | 1:1 | PNG trong suốt |
 | **Vật phẩm túi đồ (Inventory Items)** | 24 × 24 px | 1:1 | PNG trong suốt |
 | **Hoa văn dệt (Patterns Overlay)** | 32 × 32 px | 1:1 (lặp vô tận / seamless tile) | PNG trong suốt |
@@ -120,7 +118,7 @@ Dưới đây là bảng thống kê toàn bộ các tài nguyên hình ảnh c�
 | **Chương 4 (Nam Định 1982)** | 3 | 5 (2 cảnh có lật vải) | 9 | **14 món** |
 | **Chương 5 (Hà Nội 2026)** | 3 | 4 (1 cảnh siêu thực hợp nhất) | 11 | **15 món** |
 | **Nhân vật & Sprite (Characters)** | - | - | 10 nhân vật (60+ biểu cảm & tư thế) | **60+ sprite** |
-| **Bàn may Studio (Trang phục & Phụ kiện)** | - | - | 10 áo dài, 8 phụ kiện, 5 hoa văn | **23 món** |
+| **Phòng phối đồ Studio (Trang phục & Phụ kiện)** | - | - | 10 áo dài, 8 phụ kiện, 5 hoa văn | **23 món** |
 | **Giao diện người dùng (UI / HUD)** | - | 5 nền phân khu | 15 khung viền, thanh HUD, nút bấm | **20 món** |
 | **TỔNG CỘNG TOÀN DỰ ÁN** | **17 cảnh** | **27 nền** | **124+ tài nguyên riêng biệt** | **~189 tài nguyên** |
 

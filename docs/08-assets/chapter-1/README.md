@@ -1,5 +1,3 @@
-File: docs/08-assets/chapter-1/README.md
-
 # Chương 1: Nếp Áo Khóa Then (Năm 1888 - Làng Lụa Vạn Phúc)
 
 Thư mục này quản lý toàn bộ các tài nguyên hình ảnh pixel art cần tạo cho Chương 1, đặt trong bối cảnh lịch sử thời vua Đồng Khánh (1888) tại làng dệt lụa Vạn Phúc, phủ Hoài Đức, tỉnh Hà Đông.

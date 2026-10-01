@@ -1,5 +1,3 @@
-File: docs/08-assets/chapter-3/c3-s3-dinh-thu-doi-dau/hitbox-salon-table/README.md
-
 # Điểm Chạm: Bàn Salon Cẩm Lai Tiếp Khách (`hitbox-salon-table`)
 
 - **Tên tiếng Việt:** Chiếc bàn salon gỗ cẩm lai khảm xà cừ tiếp khách

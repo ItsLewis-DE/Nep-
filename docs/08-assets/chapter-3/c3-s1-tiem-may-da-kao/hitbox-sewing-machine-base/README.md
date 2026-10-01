@@ -1,5 +1,3 @@
-File: docs/08-assets/chapter-3/c3-s1-tiem-may-da-kao/hitbox-sewing-machine-base/README.md
-
 # Điểm Chạm: Chân Máy Khâu Con Bướm Giấu Bùa (`hitbox-sewing-machine-base`)
 
 - **Tên tiếng Việt:** Bệ gang chân bàn máy khâu con bướm và viên gạch bông lỏng

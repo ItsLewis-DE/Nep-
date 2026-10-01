@@ -1,5 +1,3 @@
-File: docs/08-assets/prologue/c0-s2-gac-xep-chiec-ruong/hitbox-sewing-hoop/README.md
-
 # Điểm Chạm: Khung Thêu Tròn Để Dở (`hitbox-sewing-hoop`)
 
 - **Tên tiếng Việt:** Khung thêu tròn bằng tre căng vải dang dở

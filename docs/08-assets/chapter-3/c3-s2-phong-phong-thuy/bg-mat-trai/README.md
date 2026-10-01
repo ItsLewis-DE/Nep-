@@ -1,5 +1,3 @@
-File: docs/08-assets/chapter-3/c3-s2-phong-phong-thuy/bg-mat-trai/README.md
-
 # Nền Phòng Phong Thủy Mặt Trái (`bg-mat-trai`)
 
 - **Tên tiếng Việt:** Nền phòng phong thủy cõi Lật Vải (Mặt Trái)

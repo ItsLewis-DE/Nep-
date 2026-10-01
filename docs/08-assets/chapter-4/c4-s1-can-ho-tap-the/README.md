@@ -1,5 +1,3 @@
-File: docs/08-assets/chapter-4/c4-s1-can-ho-tap-the/README.md
-
 # Phân Cảnh: Căn Hộ Tập Thể Dệt Nam Định (`c4-s1-can-ho-tap-the`)
 
 Căn hộ tập thể công nhân dệt điển hình của thành phố Nam Định trong mùa đông rét buốt thời bao cấp năm 1982. Cô thợ dệt trẻ Mai Phương chuẩn bị may chiếc áo dài cưới giản dị bằng vải phin trắng, phải tìm chiếc kim thêu bị rơi và cuộn chỉ hồng đào để thêu cành hoa đào trước ngực áo.

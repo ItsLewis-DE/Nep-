@@ -1,13 +1,11 @@
-File: docs/07-game/characters/cat-nep/profile.md
-
 # Hồ Sơ Nhân Vật: Mèo Mướp Nếp
 
 ## 1. Thông tin căn bản
 
 - **Mã định danh (ID):** `cat-nep`
 - **Tên thường gọi:** Nếp (Mèo Nếp / Trợ lý Nếp)
-- **Tuổi / Nguồn gốc:** Mèo mướp 4 tuổi, được người bà nhặt về nuôi từ khi còn là chú mèo con bị lạc trong một đêm mưa bão ở phố Hàng Bông.
-- **Vai trò trong cốt truyện:** Linh thú trợ thủ (Sidekick), hoa tiêu dẫn đường, người canh giữ căn gác xép và sợi dây liên kết tâm linh giữa An và người bà. Trong Bàn may Studio, Nếp là trợ lý thông minh gợi ý phối đồ theo thời tiết.
+- **Tuổi / Nguồn gốc:** Mèo mướp 4 tuổi, được người bà nhặt về nuôi từ khi còn là chú mèo con bị lạc trong một đêm mưa bão ở phố Hàng Đào.
+- **Vai trò trong cốt truyện:** Linh thú trợ thủ (Sidekick), hoa tiêu dẫn đường, người canh giữ căn gác xép và sợi dây liên kết tâm linh giữa An và người bà. Trong Phòng phối đồ (Studio), Nếp là trợ lý thông minh gợi ý phối đồ theo thời tiết.
 - **Tính cách:**
   - Khôn ngoan, lém lỉnh, thích sưởi nắng bên những súc vải lụa tơ tằm ấm áp.
   - Cực kỳ nhạy cảm với năng lượng sợi dệt thời gian; mỗi khi thực thể Ông Lệ xuất hiện, lông đuôi Nếp dựng đứng báo hiệu nguy hiểm.

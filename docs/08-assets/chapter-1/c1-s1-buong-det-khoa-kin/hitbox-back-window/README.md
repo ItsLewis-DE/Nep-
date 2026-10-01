@@ -1,5 +1,3 @@
-File: docs/08-assets/chapter-1/c1-s1-buong-det-khoa-kin/hitbox-back-window/README.md
-
 # Điểm Chạm: Khung Cửa Chớp Gỗ Phía Sau (`hitbox-back-window`)
 
 - **Tên tiếng Việt:** Khung cửa chớp gỗ hai cánh cài then ngoài

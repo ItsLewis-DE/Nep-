@@ -1,5 +1,3 @@
-File: docs/07-game/characters/ca-nghi/profile.md
-
 # Hồ Sơ Nhân Vật: Ông Cả Nghị
 
 ## 1. Thông tin căn bản

@@ -1,5 +1,3 @@
-File: docs/08-assets/prologue/c0-s2-gac-xep-chiec-ruong/hitbox-chest-lock/README.md
-
 # Điểm Chạm: Ổ Khóa Đồng Ba Hoa Cúc (`hitbox-chest-lock`)
 
 - **Tên tiếng Việt:** Ổ khóa đồng chạm ba hoa cúc trên nắp rương

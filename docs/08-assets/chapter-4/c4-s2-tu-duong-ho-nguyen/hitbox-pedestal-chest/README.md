@@ -1,5 +1,3 @@
-File: docs/08-assets/chapter-4/c4-s2-tu-duong-ho-nguyen/hitbox-pedestal-chest/README.md
-
 # Điểm Chạm: Tráp Gỗ Sơn Son Trên Sập Gụ (`hitbox-pedestal-chest`)
 
 - **Tên tiếng Việt:** Chiếc tráp gỗ sơn son chạm rồng đựng gia phả dòng họ

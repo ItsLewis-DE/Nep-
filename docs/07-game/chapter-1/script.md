@@ -1,5 +1,3 @@
-File: docs/07-game/chapter-1/script.md
-
 # Kịch Bản Chi Tiết: Chương 1 - Nếp Áo Khóa Chặt Thanh Xuân (Năm 1888)
 
 Chương 1 tái hiện bối cảnh làng lụa Vạn Phúc (phủ Hoài Đức, tỉnh Hà Đông) vào năm 1888 dưới triều vua Đồng Khánh. Câu chuyện xoay quanh Cụ Cố Tổ Nguyễn Thị Cầm (23 tuổi), một người thợ dệt lụa tài hoa nhưng đang bị lề thói làng xã và Trưởng tộc ép buộc phải giam mình thủ tiết thờ chồng trong căn buồng dệt khóa then để đổi lấy tấm biển "Tiết hạnh khả phong" cho dòng họ.
@@ -32,7 +30,7 @@ Cụ Cầm ngồi trên chiếc đòn gỗ, hai bàn chân đạp nhịp nhàng 
 - **Cụ Cầm:** *(Thở dài buốt giá, tiếng thoi dừng lại)* "Ba năm... Một ngàn ngày lẻ loi trong căn buồng này. Ban ngày dệt lụa nộp sưu, ban đêm ngồi đếm tiếng thạch sùng tặc lưỡi. Họ bảo chồng tôi chết trôi sông thì hồn tôi cũng phải chôn chặt trong bốn bức vách này để làm rạng danh dòng họ."
 - **Tiếng gõ gậy cồm cộp ngoài cửa:**
 - **Ông Trưởng tộc Bùi Văn Thân:** *(Giọng the thé, lạnh lùng xuyên qua khe cửa)* "Thím Cầm! Còn ngồi đó mà than vãn à? Làng đã đệ đơn lên quan Bố chánh tỉnh Hà Đông xin ban sắc phong 'Tiết hạnh khả phong'. Đây là đại phúc của họ Bùi ta! Thím phải giữ mình cho thanh tịnh, chớ có tơ tưởng bước chân ra khỏi ngõ mà bôi tro trát trấu vào mặt tổ tiên!"
-- **Cụ Cầm:** *(Bặm môi, hai bàn tay siết chặt con thoi gỗ)* "Đại phúc của họ... hay là cái cớ để các người chiếm đoạt hai sào ruộng dệt bên sông Đáy của mẹ con tôi?"
+- **Cụ Cầm:** *(Bặm môi, hai bàn tay siết chặt con thoi gỗ)* "Đại phúc của họ... hay là cái cớ để các người chiếm đoạt hai sào ruộng dệt bên sông Đáy của vợ chồng tôi để lại?"
 - **Trưởng tộc:** "Hừ! Ruộng đất của họ Bùi thì người họ Bùi giữ. Đàn bà góa không con trai, giữ ruộng làm gì cho kẻ khác dòm ngó? Lo mà dệt xong tấm lụa cống cho quan tỉnh đi!" *(Tiếng bước chân xa dần kèm tiếng xích sắt va vào then cửa)*
 
 #### Thử thách 1: Chế tạo dụng cụ mở then cửa sau
@@ -121,7 +119,7 @@ Giữa làn sương xám ấy, hình bóng khổng lồ của **Thực thể Ôn
 
 ### Thử thách phối đồ cuối chương (End-Chapter Fashion Challenge)
 
-Sau khi sự thật được sáng tỏ, dân làng trao lại hai sào ruộng dệt cho cụ Cầm. Cụ Cầm chuẩn bị rời làng để mở một xưởng dệt lụa tự do tại phố thị Hà Nội.
+Sau khi sự thật được sáng tỏ, dân làng trao lại hai sào ruộng dệt cho cụ Cầm. Cụ Cầm rời làng Vạn Phúc bước vào cuộc đời mới tự do. Về sau, cụ tái giá và sinh hạ một người con gái (khoảng năm 1890) - người sẽ nối nghiệp nếp tơ lụa và là thân mẫu của Cụ Loan (cháu ngoại cụ Cầm ở Chương 2).
 
 - **Đề bài thử thách:** "Hãy phối cho Cụ Cầm bộ y phục ngũ thân của người phụ nữ tự chủ: kín đáo, đĩnh đạc, đoan trang theo đúng chuẩn mực thời Nguyễn nhưng toát lên cốt cách kiên cường của người nghệ nhân dệt lụa."
 - **Tiêu chuẩn phối đúng:**
@@ -129,7 +127,7 @@ Sau khi sự thật được sáng tỏ, dân làng trao lại hai sào ruộng 
   - **Màu sắc:** Màu lam khói (thể hiện sự thanh tao, kiên định) hoặc Màu nâu sồng kết hợp quần lụa đen. Không chọn màu đỏ rực của cô dâu ngày cưới.
   - **Phụ kiện:** Khăn vấn đen quấn gọn gàng theo nếp tóc, chân đi guốc mộc quai nhung, tay cầm chiếc thước gỗ thợ may chia khắc năm 1888.
 - **Lời khen khi hoàn thành:**
-  Cụ Cầm đứng trước cổng làng Vạn Phúc, tà áo ngũ thân màu lam bay nhẹ trong gió xuân đang về. Cụ quay lại mỉm cười với An: *"Cảm ơn cháu gái tương lai. Nhờ có cháu, nếp áo này đã được gột rửa sự oan ức để trở về đúng với vẻ đẹp thuần khiết của nó."*
+  Cụ Cầm đứng trước cổng làng Vạn Phúc, tà áo ngũ thân màu lam bay nhẹ trong gió xuân đang về. Cụ quay lại mỉm cười với An: *"Cảm ơn cháu gái nhiều đời sau. Nhờ có cháu, nếp áo này đã được gột rửa sự oan ức để trở về đúng với vẻ đẹp thuần khiết của nó. Tự do này, cụ sẽ truyền lại cho con gái, cho cháu ngoại Loan và cho các thế hệ cháu chắt mai sau."*
 
 ---
 
@@ -149,7 +147,7 @@ Sau khi sự thật được sáng tỏ, dân làng trao lại hai sào ruộng 
 
 ## 4. Phần thưởng và giá trị giáo dục lịch sử
 
-- **Phần thưởng tài nguyên:** 100 xu thưởng (dùng mua phụ kiện cao cấp trong Tủ đồ).
+- **Phần thưởng tài nguyên:** 100 Sen Ngọc thưởng (dùng mua phụ kiện cao cấp trong Tủ đồ).
 - **Mở khóa 2 mẫu áo độc quyền trong Tủ đồ:**
   1. `ao_tac_gam_lam_khoi`: Lễ phục tay thụng vải gấm dệt thủ công thời Nguyễn, màu lam nhã nhặn biểu trưng cho sự ngay thẳng và tự do.
   2. `ao_ngu_than_chen_nau_song`: Áo ngũ thân tay chẽn bằng vải đũi tơ tằm dệt thủ công, bền bỉ và tôn vinh bàn tay người lao động dệt lụa Bắc Bộ.

@@ -1,5 +1,3 @@
-File: docs/08-assets/chapter-4/c4-s2-tu-duong-ho-nguyen/hitbox-roof-beam/README.md
-
 # Điểm Chạm: Xà Nóc Khắc Năm Dựng Nhà 1845 (`hitbox-roof-beam`)
 
 - **Tên tiếng Việt:** Thanh xà nóc bằng gỗ lim khắc niên đại Ất Tỵ 1845

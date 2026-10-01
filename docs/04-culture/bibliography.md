@@ -1,5 +1,3 @@
-File: docs/04-culture/bibliography.md
-
 # Thư Mục Tài Liệu Tham Khảo Và Khảo Cứu Lịch Sử
 
 Tài liệu này tổng hợp toàn bộ các nguồn tư liệu lịch sử, sách khảo cứu học thuật và tài liệu hình ảnh thực tế được nhóm mình đối chiếu làm căn cứ cho kho dữ liệu văn hóa của ứng dụng Tiệm May Nếp. Nhóm mình kiên quyết không bịa đặt nguồn, không trích dẫn sách giả định và ghi chú rõ ràng tình trạng kiểm chứng của từng tài liệu.
@@ -50,7 +48,7 @@ Tài liệu này tổng hợp toàn bộ các nguồn tư liệu lịch sử, s�
 
 5. *Tuần báo Phong Hóa* và *Tuần báo Ngày Nay* (Hà Nội, giai đoạn 1934-1940):
    - Lưu trữ tại Thư viện Quốc gia Việt Nam.
-   - Nội dung đối chiếu: Chuyên mục "Vẻ đẹp riêng" do họa sĩ Cát Tường phụ trách trên báo *Phong Hóa* số 85 (tháng 2/1934) công bố các mẫu áo dài tân thời Le Mur đầu tiên, phản ứng của dư luận xã hội đương thời và quá trình hoàn thiện thành áo dài Lê Phổ.
+   - Nội dung đối chiếu: Chuyên mục "Vẻ đẹp riêng" do họa sĩ Cát Tường phụ trách trên báo *Phong Hóa* số 90 (ngày 23/3/1934) công bố mẫu áo dài tân thời Le Mur đầu tiên, phản ứng của dư luận xã hội đương thời và quá trình hoàn thiện thành mẫu áo dài tân thời cổ đứng, không vai bồng cuối thập niên 1930.
 
 6. *Trang phục Việt Nam* - Đoàn Thị Tình, Nhà xuất bản Mỹ thuật, Hà Nội, 2006:
    - Công trình nghiên cứu mỹ thuật trang phục cổ truyền Việt Nam qua các thời kỳ lịch sử.

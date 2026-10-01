@@ -1,8 +1,6 @@
-File: docs/08-assets/chapter-2/README.md
-
 # Chương 2: Canh Tân Giữa Hai Làn Đạn (Năm 1935 - Hà Nội Thời Le Mur)
 
-Thư mục này quản lý toàn bộ các tài nguyên hình ảnh pixel art cần tạo cho Chương 2, đặt trong bối cảnh lịch sử thập niên 1930 tại Hà Nội thời kỳ phong trào Áo dài Tân thời Le Mur và Lê Phổ bùng nổ.
+Thư mục này quản lý toàn bộ các tài nguyên hình ảnh pixel art cần tạo cho Chương 2, đặt trong bối cảnh lịch sử thập niên 1930 tại Hà Nội thời kỳ phong trào Áo dài Tân thời bùng nổ.
 
 ## 1. Danh sách phân cảnh và số lượng món
 

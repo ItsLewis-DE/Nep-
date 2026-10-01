@@ -1,5 +1,3 @@
-File: docs/07-game/chapter-1/setup.md
-
 # Thiết Lập Kỹ Thuật Và Mỹ Thuật: Chương 1 (Năm 1888)
 
 Tài liệu này xác định chi tiết các thông số kỹ thuật, mô tả mỹ thuật pixel art cho từng phân cảnh (cả mặt phải thế giới thực và mặt trái lật vải), danh sách tọa độ điểm chạm (hitboxes) theo tỷ lệ phần trăm chính xác, hành vi tương tác âm thanh, danh mục nhân vật, vật phẩm và prompt tiếng Anh chuẩn hóa để tạo hình nền pixel cho Chương 1.

@@ -1,8 +1,6 @@
-File: docs/07-game/chapter-2/script.md
-
 # Kịch Bản Chi Tiết: Chương 2 - Tiếng Kéo Đêm Phố Cũ (Năm 1935)
 
-Chương 2 đưa người chơi về Hà Nội năm 1935, thời kỳ chuyển giao văn hóa sôi nổi giữa phong trào Âu hóa và lề thói Nho giáo phong kiến. Câu chuyện theo chân Cụ Bà Trần Thị Loan (20 tuổi, con gái cụ Cầm), một nữ sinh trường Đồng Khánh có tài cắt may và hội họa, đang đối diện với hủ tục ép duyên gả bán và định kiến hà khắc: *"Đàn bà biết chữ là mối họa, nữ nhi vô tài mới là đức"*.
+Chương 2 đưa người chơi về Hà Nội năm 1935, thời kỳ chuyển giao văn hóa sôi nổi giữa phong trào Âu hóa và lề thói Nho giáo phong kiến. Câu chuyện theo chân Cụ Bà Trần Thị Loan (20 tuổi, sinh 1915, cháu ngoại cụ Cầm), một nữ sinh trường Đồng Khánh có tài cắt may và hội họa, đang đối diện với hủ tục ép duyên gả bán và định kiến hà khắc: *"Đàn bà biết chữ là mối họa, nữ nhi vô tài mới là đức"*.
 
 ---
 
@@ -29,7 +27,7 @@ Căn gác lửng áp mái nhìn xuống dòng người đi lại trên phố Hà
 Cụ Loan đang cặm cụi dùng kéo cắt vải cắt từng đường lượn nách áo, nhưng ngoài cửa gác vang lên tiếng bước chân nặng nề và tiếng gõ ba-toong cộc cộc.
 
 #### Lời thoại mở cảnh
-- **Cụ Loan:** *(Tay cầm kéo ngập ngừng, nhìn bản vẽ)* "Phụ nữ phương Tây mặc váy đầm tự do đạp xe, đi dạo phố. Tại sao phụ nữ xứ mình cứ phải bó mình trong những lớp áo ngũ thân thụng tối tăm, bước đi không dám bước dài, cười không dám cười lớn?"
+- **Cụ Loan:** *(Tay cầm kéo ngập ngừng, nhìn bản vẽ)* "Bà ngoại Cầm của mình ngày trước từng can đảm phá bỏ hủ tục thủ tiết làng Vạn Phúc để tìm lại tự do. Mẹ mình cũng một đời cần lao bên nong tằm sợi chỉ. Nay đến lượt mình là cháu ngoại, lẽ nào lại chịu khuất phục trước sự ép duyên gán nợ vô lý này? Phụ nữ phương Tây mặc váy đầm tự do đạp xe, đi dạo phố. Tại sao phụ nữ xứ mình cứ phải bó mình trong những lớp áo ngũ thân thụng tối tăm, bước đi không dám bước dài, cười không dám cười lớn?"
 - **Cửa gác bật mở, Ông Cả Nghị bước vào, mặt lạnh như tiền:**
 - **Ông Cả Nghị:** *(Chỉ mũi gậy ba-toong bịt bạc vào đống bản vẽ trên bàn)* "Tân thời! Âu hóa! Đàn bà con gái học đòi vẽ vời những thứ hở hang đồi trụy này để làm gì? 'Nữ nhi vô tài tiện thị đức'! Con gái có học thức chỉ tổ sinh tật cãi lời cha chú!"
 - **Cụ Loan:** *(Đứng chắn trước bàn vẽ)* "Thưa bác, áo dài tân thời không hề đồi trụy. Áo vẫn kín đáo, tà vẫn dài chạm mu bàn chân, nhưng giúp phụ nữ bước đi năng động, hòa nhịp với đời sống mới!"
@@ -80,7 +78,7 @@ Sáng hôm sau tại phòng triển lãm nghệ thuật của nhóm Tự Lực V
 #### Lời thoại và đối chất cao trào
 - **Bóng đen Ông Lệ:** *(Gầm gừ trong làn sương xám)* "Gái tân thời ăn mặc lố lăng... Dám bỏ trốn hôn sự gia tộc... Tội bất hiếu với bề trên! Trả nợ môn đăng hộ đối là luật trời đã định!"
 - **Ông Cả Nghị:** *(Đắc ý ra lệnh)* "Bắt lấy nó! Trả nợ xong thì theo kiệu hoa về huyện, không lôi thôi!"
-- **Cụ Loan:** *(Bước ra giữa khán phòng, khoác trên mình chiếc áo dài Lê Phổ màu vàng mỡ gà thanh khiết, cổ đứng đoan trang nhưng tà áo buông rủ kiêu hãnh)* "Các người dừng lại!"
+- **Cụ Loan:** *(Bước ra giữa khán phòng, khoác trên mình chiếc áo dài tân thời cổ đứng, không vai bồng màu vàng mỡ gà thanh khiết, cổ đứng đoan trang nhưng tà áo buông rủ kiêu hãnh)* "Các người dừng lại!"
 - **Hành động người chơi (Bóc trần sự thật):**
   1. Kéo `bien_lai_tra_no_goc_1935` thả vào trước mặt các ký giả và quan Huyện.  
      *Quan Huyện tái mặt khi biết mình bị Cả Nghị lừa dối trong việc tiền bạc; các ký giả lập tức ghi chép và chụp ảnh lia lịa.*
@@ -100,7 +98,7 @@ Sau thắng lợi vang dội tại triển lãm, cụ Loan chính thức mở ti
 
 - **Đề bài thử thách:** "Hãy phối cho Cụ Loan một bộ áo dài tân thời thập niên 1930 thanh lịch nhất: kết hợp hài hòa giữa nét mới mẻ của thời đại và sự kín đáo đoan trang của người con gái Tràng An."
 - **Tiêu chuẩn phối đúng:**
-  - **Phom dáng:** Áo dài Le Mur hoặc Áo dài Lê Phổ.
+  - **Phom dáng:** Áo dài Le Mur hoặc Áo dài tân thời cổ đứng, không vai bồng.
   - **Màu sắc:** Màu hoa đào nhẹ nhàng hoặc vàng mỡ gà trang nhã. Không chọn màu nâu sồng lao động (thuộc bối cảnh làng quê thế kỷ 19).
   - **Phụ kiện:** Chuỗi ngọc trai thanh lịch đeo cổ, guốc cao gót mộc quai da thuộc, tay cầm chiếc ví đầm nhỏ hoặc quạt giấy trầm hương.
 - **Lời khen khi hoàn thành:**
@@ -124,10 +122,10 @@ Sau thắng lợi vang dội tại triển lãm, cụ Loan chính thức mở ti
 
 ## 4. Phần thưởng và giá trị giáo dục lịch sử
 
-- **Phần thưởng tài nguyên:** 120 xu thưởng.
+- **Phần thưởng tài nguyên:** 120 Sen Ngọc thưởng.
 - **Mở khóa 2 mẫu áo độc quyền vào Tủ đồ:**
-  1. `ao_dai_lemur_hoa_dao`: Áo dài tân thời dáng Lemur thập niên 1930 với cổ lá sen viền ren và vai bồng nữ tính.
-  2. `ao_dai_le_pho_vang_mo_ga`: Áo dài Lê Phổ cổ đứng thanh thoát bằng lụa Hà Đông mềm mại, tiền thân trực tiếp của áo dài truyền thống hôm nay.
+  1. `ao_dai_lemur_hoa_dao`: Áo dài tân thời dáng Lemur năm 1934 (báo Phong Hóa số 90) với cổ lá sen viền ren và vai bồng nữ tính.
+  2. `ao_dai_tan_thoi_vang_mo_ga`: Áo dài tân thời cổ đứng, không vai bồng (giai đoạn sau Lemur, cuối thập niên 1930) bằng lụa Hà Đông mềm mại, tiền thân trực tiếp của áo dài truyền thống hôm nay.
 - **Thẻ tri thức Bảo tàng mở khóa:**
   - `card-phong-trao-ao-dai-lemur-1934`: Lịch sử cải cách áo dài của họa sĩ Cát Tường và nhóm Tự Lực Văn Đoàn trên báo *Phong Hóa*.
   - `card-hu-tuc-tao-hon-ep-duyen`: Khảo cứu về nạn hôn nhân gán nợ thời thuộc địa và sự thức tỉnh của phong trào nữ quyền đầu thế kỷ 20.

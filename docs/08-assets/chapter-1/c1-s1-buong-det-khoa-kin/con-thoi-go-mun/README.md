@@ -1,5 +1,3 @@
-File: docs/08-assets/chapter-1/c1-s1-buong-det-khoa-kin/con-thoi-go-mun/README.md
-
 # Vật Phẩm: Con Thoi Gỗ Mun Bọc Sừng (`con-thoi-go-mun`)
 
 - **Tên tiếng Việt:** Con thoi dệt lụa bằng gỗ mun mũi bọc sừng trâu cong nhọn

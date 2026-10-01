@@ -1,5 +1,3 @@
-File: docs/08-assets/chapter-4/c4-s3-san-tu-duong-doi-dau/hitbox-uncle-suu/README.md
-
 # Điểm Chạm: Chú Họ Nguyễn Văn Sửu Bẽ Bàng (`hitbox-uncle-suu`)
 
 - **Tên tiếng Việt:** Hình bóng Chú Sửu run rẩy buông rơi tập hương ước lộng quyền

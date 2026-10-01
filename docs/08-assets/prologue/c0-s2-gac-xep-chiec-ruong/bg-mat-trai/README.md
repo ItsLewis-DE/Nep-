@@ -1,5 +1,3 @@
-File: docs/08-assets/prologue/c0-s2-gac-xep-chiec-ruong/bg-mat-trai/README.md
-
 # Nền Gác Xép Cõi Lật Vải (`bg-mat-trai`)
 
 - **Tên tiếng Việt:** Nền gác xép cõi dệt tâm thức (Mặt Trái Lật Vải)

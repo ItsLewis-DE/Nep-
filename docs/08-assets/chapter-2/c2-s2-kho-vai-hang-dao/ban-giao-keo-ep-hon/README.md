@@ -1,5 +1,3 @@
-File: docs/08-assets/chapter-2/c2-s2-kho-vai-hang-dao/ban-giao-keo-ep-hon/README.md
-
 # Vật Phẩm Chứng Cứ: Bản Giao Kèo Ép Hôn Gian Trá (`ban-giao-keo-ep-hon`)
 
 - **Tên tiếng Việt:** Tờ giao kèo ép duyên gả cô Loan làm vợ lẽ trừ nợ

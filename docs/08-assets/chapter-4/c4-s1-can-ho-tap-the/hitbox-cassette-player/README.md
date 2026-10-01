@@ -1,5 +1,3 @@
-File: docs/08-assets/chapter-4/c4-s1-can-ho-tap-the/hitbox-cassette-player/README.md
-
 # Điểm Chạm: Chiếc Đài Cát-sét Cũ Tháo Nam Châm (`hitbox-cassette-player`)
 
 - **Tên tiếng Việt:** Chiếc đài radio cát-sét cũ thời bao cấp

@@ -1,5 +1,3 @@
-File: docs/08-assets/chapter-2/c2-s1-gac-lung-ve-tranh/README.md
-
 # Phân Cảnh: Căn Gác Lửng Vẽ Tranh Phố Hàng Gai (`c2-s1-gac-lung-ve-tranh`)
 
 Căn gác xép mỹ thuật áp mái ngói của cụ Loan trên phố Hàng Gai năm 1935. Cụ Loan phải tìm và ghép lại 4 mảnh bản vẽ thiết kế áo dài cách tân bị xé nát để kịp mang tới xưởng may trước khi bị ép cưới.

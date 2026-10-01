@@ -1,5 +1,3 @@
-File: docs/08-assets/chapter-4/c4-s2-tu-duong-ho-nguyen/bg-mat-phai/README.md
-
 # Nền Gian Từ Đường Họ Nguyễn Mặt Phải (`bg-mat-phai`)
 
 - **Tên tiếng Việt:** Nền gian nhà từ đường họ Nguyễn năm 1982 (Mặt Phải)

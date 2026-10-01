@@ -1,5 +1,3 @@
-File: docs/08-assets/chapter-4/c4-s1-can-ho-tap-the/kim-theu-thep/README.md
-
 # Vật Phẩm: Chiếc Kim Thêu Bằng Thép (`kim-theu-thep`)
 
 - **Tên tiếng Việt:** Chiếc kim thêu tay bằng thép mảnh dẻ sáng bóng

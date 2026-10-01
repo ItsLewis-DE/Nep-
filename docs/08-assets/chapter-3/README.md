@@ -1,5 +1,3 @@
-File: docs/08-assets/chapter-3/README.md
-
 # Chương 3: Đường Kéo Đa Kao (Năm 1962 - Sài Gòn Thập Niên 1960)
 
 Thư mục này quản lý toàn bộ các tài nguyên đồ họa pixel art cần tạo cho Chương 3, đặt trong bối cảnh lịch sử năm 1962 tại khu Đa Kao (Sài Gòn), gắn liền với cuộc cách mạng áo dài tay raglan và áo dài cổ thuyền giải phóng bờ vai người phụ nữ.
@@ -37,6 +35,6 @@ Thư mục này quản lý toàn bộ các tài nguyên đồ họa pixel art c�
 Nhân vật không đặt trong thư mục cảnh, người vẽ xem chi tiết tại:
 - Bà Ngoại Lê Thị Mai (22 tuổi): `docs/08-assets/characters/ba-mai/`
 - Thầy bói Ba Càn (60 tuổi): `docs/08-assets/characters/thay-ba-can/`
-- Bà Lớn Hội đồng Vĩnh (55 tuổi): `docs/08-assets/characters/ba-hoi-dong/`
+- Bà Lớn Hội đồng Vĩnh (55 tuổi): `docs/08-assets/characters/ba-lon/`
 - Chàng thanh niên Vinh: `docs/08-assets/characters/vinh/`
 - Thực thể Ông Lệ (hình thái bùa ngải dị đoan): `docs/08-assets/characters/ong-le/`

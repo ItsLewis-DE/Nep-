@@ -1,5 +1,3 @@
-File: docs/08-assets/chapter-4/README.md
-
 # Chương 4: Khổ Tận Cam Lai (Năm 1982 - Dệt Nam Định Thời Bao Cấp)
 
 Thư mục này quản lý toàn bộ các tài nguyên đồ họa pixel art cần tạo cho Chương 4, đặt trong bối cảnh lịch sử thời kỳ tem phiếu bao cấp năm 1982 tại thành phố dệt Nam Định, gắn liền với chiếc áo dài cưới vải phin thêu hoa đào và cuộc đấu tranh đòi lại danh phận cho phụ nữ trong gia phả dòng tộc.

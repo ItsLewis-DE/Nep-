@@ -1,5 +1,3 @@
-File: docs/07-game/characters/ba-mai/profile.md
-
 # Hồ Sơ Nhân Vật: Bà Ngoại Lê Thị Mai
 
 ## 1. Thông tin căn bản
@@ -7,7 +5,7 @@ File: docs/07-game/characters/ba-mai/profile.md
 - **Mã định danh (ID):** `ba-mai`
 - **Họ và tên:** Lê Thị Mai
 - **Năm sinh / Tuổi:** Sinh năm 1940, 22 tuổi trong Chương 3 (năm 1962).
-- **Vai trò trong cốt truyện:** Nhân vật chính của Chương 3, Bà Ngoại của An, người thợ may sắc sảo tại Đa Kao (Sài Gòn), người tiên phong đưa kỹ thuật may raglan và cổ thuyền giải phóng nếp áo cho phụ nữ phương Nam.
+- **Vai trò trong cốt truyện:** Nhân vật chính của Chương 3, con gái cụ Loan, cháu cố cụ Cầm, Bà Ngoại của An. Giữa thập niên 1950, gia đình chuyển vào Nam sinh sống; tại Sài Gòn, bà trở thành chủ tiệm may nức tiếng tại khu Đa Kao (1962), tiên phong đưa kỹ thuật may raglan và cổ thuyền giải phóng nếp áo cho phụ nữ phương Nam. Chồng bà là người gốc Nam Định. Khi về già, bà trở ra Hà Nội, mở lại tiệm may trong căn nhà cũ của cụ Loan tại phố Hàng Đào và đặt tên là Tiệm May Nếp trước khi qua đời thanh thản năm 2024.
 - **Tính cách:**
   - Sắc sảo, thẳng thắn, mang trọn tinh thần phóng khoáng, nghĩa hiệp của đất Sài Gòn.
   - Tự tin vào đôi bàn tay lao động, khinh miệt thói bói toán lừa đảo và kiên quyết không chịu thân phận làm lẽ đi cửa sau.

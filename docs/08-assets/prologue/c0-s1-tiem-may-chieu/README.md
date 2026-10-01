@@ -1,5 +1,3 @@
-File: docs/08-assets/prologue/c0-s1-tiem-may-chieu/README.md
-
 # Phân Cảnh: Sảnh Chính Tiệm May Chiều Thu (`c0-s1-tiem-may-chieu`)
 
 Cảnh mở màn diễn ra tại sảnh tầng một của Tiệm May Nếp trong một chiều thu tháng 10 năm 2026. Ánh nắng vàng rọi xiên qua cửa kính, tạo cảm giác ấm áp hoài niệm.

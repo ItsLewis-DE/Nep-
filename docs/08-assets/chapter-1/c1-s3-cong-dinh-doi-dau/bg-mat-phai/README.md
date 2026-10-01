@@ -1,5 +1,3 @@
-File: docs/08-assets/chapter-1/c1-s3-cong-dinh-doi-dau/bg-mat-phai/README.md
-
 # Nền Sân Đình Làng Vạn Phúc Mặt Phải (`bg-mat-phai`)
 
 - **Tên tiếng Việt:** Nền sân đình làng Vạn Phúc buổi sáng mùa xuân (Mặt Phải)

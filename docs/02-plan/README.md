@@ -1,5 +1,3 @@
-File: docs/02-plan/README.md
-
 # Thư Mục Kế Hoạch Và Ràng Buộc Đề Bài (02-plan)
 
 Thư mục này lưu trữ các tài liệu phân tích đề thi Audition, tiêu chí đánh giá của ban giám khảo, cùng kế hoạch thực hiện chi tiết cho nhóm 3 người hướng tới mốc nộp bài 10/10/2026.

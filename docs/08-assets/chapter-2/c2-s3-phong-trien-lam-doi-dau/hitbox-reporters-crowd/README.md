@@ -1,5 +1,3 @@
-File: docs/08-assets/chapter-2/c2-s3-phong-trien-lam-doi-dau/hitbox-reporters-crowd/README.md
-
 # Điểm Chạm: Đám Đông Ký Giả Và Quan Khách (`hitbox-reporters-crowd`)
 
 - **Tên tiếng Việt:** Nhóm ký giả báo chí, nhiếp ảnh gia và quan viên chức sắc

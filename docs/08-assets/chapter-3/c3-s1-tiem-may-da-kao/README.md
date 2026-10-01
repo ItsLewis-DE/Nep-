@@ -1,5 +1,3 @@
-File: docs/08-assets/chapter-3/c3-s1-tiem-may-da-kao/README.md
-
 # Phân Cảnh: Tiệm May Mai Sài Gòn Tại Đa Kao (`c3-s1-tiem-may-da-kao`)
 
 Không gian tiệm may thời trang tràn ngập ánh nắng phương Nam của cô thợ may trẻ Lê Thị Mai tại Đa Kao, Sài Gòn năm 1962. Người chơi phải dùng cơ chế Lật Vải để tìm ra các lá bùa ếm và chứng cứ bị kẻ xấu gài hòng phá hoại danh dự tiệm may.

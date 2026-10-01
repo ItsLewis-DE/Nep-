@@ -1,5 +1,3 @@
-File: docs/08-assets/chapter-3/c3-s3-dinh-thu-doi-dau/bg-mat-phai/README.md
-
 # Nền Phòng Khách Dinh Thự Hội Đồng Vĩnh (`bg-mat-phai`)
 
 - **Tên tiếng Việt:** Nền phòng khách nguy nga dinh thự tư sản Sài Gòn năm 1962

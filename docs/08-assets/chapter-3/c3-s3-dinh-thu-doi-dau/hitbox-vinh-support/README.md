@@ -1,5 +1,3 @@
-File: docs/08-assets/chapter-3/c3-s3-dinh-thu-doi-dau/hitbox-vinh-support/README.md
-
 # Điểm Chạm: Chàng Thanh Niên Vinh Bước Sang Đồng Hành (`hitbox-vinh-support`)
 
 - **Tên tiếng Việt:** Hình bóng chàng thanh niên Vinh bước sang đứng cạnh bảo vệ bà Mai

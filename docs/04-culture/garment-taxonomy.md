@@ -1,5 +1,3 @@
-File: docs/04-culture/garment-taxonomy.md
-
 # Bảng Phân Loại Trang Phục Truyền Thống Người Kinh
 
 Tài liệu này hệ thống hóa các dạng thức y phục truyền thống của người Kinh được đưa vào ứng dụng Tiệm May Nếp. Mỗi loại trang phục được mô tả chi tiết về cấu trúc may mặc, bối cảnh lịch sử xác thực và phân định rõ ràng giữa quy chế lịch sử có văn bản chép lại với tập quán dân gian truyền khẩu.
@@ -41,11 +39,11 @@ Tên gọi "áo tấc" trong dân gian bắt nguồn từ phần viền tà áo 
 
 ### Cấu trúc hình học và may mặc
 Áo dài tân thời giảm từ năm thân xuống còn hai thân chính (vạt trước và vạt sau) nối liền không còn đường can sống lưng. Thân áo may ôm sát đường cong cơ thể, nhấn eo, ngực được cắt cúp vừa vặn.
-- Áo dài Lemur (thập niên 1930): Họa sĩ Cát Tường (bút danh Lemur) cải cách thêm các chi tiết Tây phương như cổ khoét tròn hoặc cổ lá sen, tay bồng, viền ren ở gấu áo.
-- Áo dài Lê Phổ (cuối thập niên 1930): Họa sĩ Lê Phổ lược bỏ những nét Tây hóa quá đà của Lemur, đưa cổ áo kín đứng trở lại nhưng may mềm mại hơn, tà áo rủ dài chấm gót, mặc cùng quần trắng hoặc đen ống rộng. Đây là tiền đề trực tiếp của áo dài truyền thống nữ sinh và áo dài hiện đại ngày nay.
+- Áo dài Lemur (năm 1934): Họa sĩ Nguyễn Cát Tường (bút danh Lemur) cải cách trên báo Phong Hóa số 90 ngày 23/3/1934, thêm các chi tiết Tây phương như cổ khoét tròn hoặc cổ lá sen, tay bồng, viền ren ở gấu áo.
+- Áo dài tân thời cổ đứng, không vai bồng (giai đoạn sau Lemur, cuối thập niên 1930): Lược bỏ những nét Tây hóa quá đà của Lemur, đưa cổ áo kín đứng trở lại nhưng may mềm mại hơn, không còn tay bồng hay viền ren, tà áo rủ dài chấm gót, mặc cùng quần trắng hoặc đen ống rộng. Đây là tiền đề trực tiếp của áo dài truyền thống nữ sinh và áo dài hiện đại ngày nay.
 
 ### Căn cứ lịch sử xác thực
-Sự ra đời của áo dài tân thời được ghi nhận rõ trên tuần báo *Phong Hóa* từ năm 1934 gắn liền với phong trào Tự Lực Văn Đoàn tại Hà Nội. Đây là cuộc cách tân y phục nhằm giải phóng phụ nữ đô thị khỏi sự gò bó của nếp cũ, giúp họ tự tin tham gia các hoạt động xã hội mới trong thời kỳ giao thời.
+Sự ra đời của áo dài tân thời được ghi nhận rõ trên tuần báo *Phong Hóa* từ ngày 23/3/1934 gắn liền với phong trào Tự Lực Văn Đoàn tại Hà Nội. Đây là cuộc cách tân y phục nhằm giải phóng phụ nữ đô thị khỏi sự gò bó của nếp cũ, giúp họ tự tin tham gia các hoạt động xã hội mới trong thời kỳ giao thời.
 
 ### Yếu tố truyền khẩu dân gian
-Nhiều giai thoại đô thị truyền miệng cho rằng áo dài tân thời ban đầu bị các gia đình cựu học chỉ trích dữ dội vì làm lộ đường cong người phụ nữ. Phải qua nhiều năm điều chỉnh từ dáng Lemur sang dáng Lê Phổ kín đáo hơn, tà áo dài mới dần được xã hội đón nhận và trở thành đồng phục nữ sinh trường Đồng Khánh (Huế), trường Gia Long (Sài Gòn).
+Nhiều giai thoại đô thị truyền miệng cho rằng áo dài tân thời ban đầu bị các gia đình cựu học chỉ trích dữ dội vì làm lộ đường cong người phụ nữ. Phải qua nhiều năm điều chỉnh từ dáng Lemur sang dáng áo dài tân thời cổ đứng, không vai bồng kín đáo hơn, tà áo dài mới dần được xã hội đón nhận và trở thành đồng phục nữ sinh trường Đồng Khánh (Huế), trường Gia Long (Sài Gòn).

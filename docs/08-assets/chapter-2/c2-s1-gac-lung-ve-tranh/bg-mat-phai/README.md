@@ -1,5 +1,3 @@
-File: docs/08-assets/chapter-2/c2-s1-gac-lung-ve-tranh/bg-mat-phai/README.md
-
 # Nền Gác Lửng Vẽ Tranh Mặt Phải (`bg-mat-phai`)
 
 - **Tên tiếng Việt:** Nền căn gác lửng họa sĩ phố Hàng Gai năm 1935 (Mặt Phải)

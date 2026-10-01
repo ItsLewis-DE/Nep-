@@ -1,5 +1,3 @@
-File: docs/08-assets/chapter-1/c1-s2-ban-tho-nha-tho-ho/README.md
-
 # Phân Cảnh: Gian Nhà Thờ Họ Bùi (`c1-s2-ban-tho-nha-tho-ho`)
 
 Gian chính giữa của nhà thờ họ Bùi ba gian uy nghiêm vào đêm đông năm 1888. Nơi đây diễn ra câu đố then chốt của Chương 1: Cụ Cầm kích hoạt cơ chế Lật Vải để tìm lại bức di thư của chồng và lật tẩy văn tự cầm cố đất đai gian trá của Trưởng tộc.

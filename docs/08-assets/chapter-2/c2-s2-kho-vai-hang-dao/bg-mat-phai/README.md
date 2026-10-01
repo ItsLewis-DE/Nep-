@@ -1,5 +1,3 @@
-File: docs/08-assets/chapter-2/c2-s2-kho-vai-hang-dao/bg-mat-phai/README.md
-
 # Nền Kho Vải Hàng Đào Mặt Phải (`bg-mat-phai`)
 
 - **Tên tiếng Việt:** Nền gian kho vải ngầm tiệm tơ lụa Hàng Đào năm 1935 (Mặt Phải)

@@ -1,6 +1,4 @@
-File: docs/08-assets/chapter-2/c2-s3-phong-trien-lam-doi-dau/hitbox-exhibition-podium/README.md
-
-# Điểm Chạm: Bục Danh Dự Trưng Bày Áo Dài Lê Phổ (`hitbox-exhibition-podium`)
+# Điểm Chạm: Bục Danh Dự Trưng Bày Áo Dài Tân Thời (`hitbox-exhibition-podium`)
 
 - **Tên tiếng Việt:** Bục gỗ tròn trải thảm nhung đỏ danh dự
 - **Mã item-id:** `hitbox-exhibition-podium`
@@ -12,7 +10,7 @@ File: docs/08-assets/chapter-2/c2-s3-phong-trien-lam-doi-dau/hitbox-exhibition-p
 - **Thay đổi khi lật vải:** Không có
 
 ## 1. Mô tả hình dáng cho họa sĩ pixel
-Cận cảnh bục gỗ tròn nâng cao hai bậc tam cấp, bề mặt phủ thảm nhung màu đỏ đun sang trọng. Ánh sáng đèn rọi chiếu thẳng vào trung tâm bục, nơi cụ Loan đứng trong tà áo dài Lê Phổ màu vàng mỡ gà kiêu hãnh, tay cầm bản vẽ thiết kế nguyên bản đối chất với công chúng.
+Cận cảnh bục gỗ tròn nâng cao hai bậc tam cấp, bề mặt phủ thảm nhung màu đỏ đun sang trọng. Ánh sáng đèn rọi chiếu thẳng vào trung tâm bục, nơi cụ Loan đứng trong tà áo dài tân thời cổ đứng màu vàng mỡ gà kiêu hãnh, tay cầm bản vẽ thiết kế nguyên bản đối chất với công chúng.
 
 ## 2. Prompt tiếng Anh (Dán sau Khối Style Chung)
 ```text

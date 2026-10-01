@@ -8,6 +8,8 @@ Phân cảnh kết thúc vinh quang của trò chơi tại sân khấu sàn catw
 | :--- | :--- | :--- | :--- | :---: |
 | `bg-mat-phai/` | Nền sàn diễn thời trang ngoài trời Hoàng thành | Nền cảnh chính | 320 × 240 px | Chưa có |
 | `hitbox-led-screen/` | Màn hình LED cong khổng lồ trình chiếu chứng cứ | Điểm chạm đối chất | 160 × 84 px | Chưa có |
+| `hitbox-catwalk-an/` | An sải bước catwalk tự hào nâng thước gỗ 1888 | Điểm chạm nhân vật chính | 64 × 110 px | Chưa có |
+| `hitbox-lam-confession/` | Hoàng Lâm cúi đầu hối lỗi bên cánh gà sân khấu | Điểm chạm phản diện | 54 × 88 px | Chưa có |
 | `vfx-silk-butterflies/`| Đàn bướm lụa ngũ sắc chuyển hóa từ Ông Lệ | Hiệu ứng hoạt cảnh VFX | 64 × 64 px | Chưa có |
 
 ## 2. Nhân vật xuất hiện

@@ -1,5 +1,3 @@
-File: docs/08-assets/chapter-3/c3-s3-dinh-thu-doi-dau/README.md
-
 # Phân Cảnh: Dinh Thự Hội Đồng Vĩnh (`c3-s3-dinh-thu-doi-dau`)
 
 Phòng khách nguy nga tráng lệ của dinh thự Hội đồng Vĩnh tại Sài Gòn năm 1962. Nơi diễn ra màn đối chất cao trào đập tan hủ tục bói toán mê tín dị đoan và tư tưởng vợ lẽ khinh khi phẩm giá phụ nữ.

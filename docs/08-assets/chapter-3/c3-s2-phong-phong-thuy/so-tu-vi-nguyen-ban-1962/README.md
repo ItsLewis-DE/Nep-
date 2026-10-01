@@ -1,5 +1,3 @@
-File: docs/08-assets/chapter-3/c3-s2-phong-phong-thuy/so-tu-vi-nguyen-ban-1962/README.md
-
 # Vật Phẩm Chứng Cứ: Sổ Tử Vi Nguyên Bản 1962 (`so-tu-vi-nguyen-ban-1962`)
 
 - **Tên tiếng Việt:** Cuốn sổ tử vi gốc ghi đúng ngày giờ sinh đại cát

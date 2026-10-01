@@ -1,5 +1,3 @@
-File: docs/08-assets/chapter-1/c1-s2-ban-tho-nha-tho-ho/hitbox-honor-plaque/README.md
-
 # Điểm Chạm: Tấm Biển "Tiết Hạnh Khả Phong" (`hitbox-honor-plaque`)
 
 - **Tên tiếng Việt:** Tấm biển gỗ sơn son thếp vàng "Tiết Hạnh Khả Phong"

@@ -1,5 +1,3 @@
-File: docs/07-game/characters/me-phuong/profile.md
-
 # Hồ Sơ Nhân Vật: Mẹ Nguyễn Mai Phương
 
 ## 1. Thông tin căn bản
@@ -7,7 +5,7 @@ File: docs/07-game/characters/me-phuong/profile.md
 - **Mã định danh (ID):** `me-phuong`
 - **Họ và tên:** Nguyễn Mai Phương
 - **Năm sinh / Tuổi:** Sinh năm 1964, 18 tuổi trong Chương 4 (năm 1982).
-- **Vai trò trong cốt truyện:** Nhân vật chính của Chương 4, Mẹ của An, nữ công nhân xưởng dệt sợi Nam Định thời bao cấp, người can đảm đứng lên bảo vệ tên tuổi mẹ con mình trong gia phả dòng họ.
+- **Vai trò trong cốt truyện:** Nhân vật chính của Chương 4, con gái bà Mai, Mẹ của An. Sau năm 1975, gia đình theo quê nội về Nam Định, cô Phương vào làm nữ công nhân xưởng dệt sợi Nam Định thời bao cấp, người can đảm đứng lên bảo vệ tên tuổi mẹ con mình trong gia phả dòng họ Nguyễn.
 - **Tính cách:**
   - Chất phác, chịu thương chịu khó, giàu đức hy sinh và lòng tự trọng.
   - Mang nét đẹp mộc mạc của thế hệ thanh niên thời bao cấp: sống giản dị, cần kiệm, yêu lao động và luôn tin vào lẽ phải.

@@ -1,5 +1,3 @@
-File: docs/08-assets/chapter-3/c3-s2-phong-phong-thuy/README.md
-
 # Phân Cảnh: Gian Phòng Phong Thủy Thầy Ba Càn (`c3-s2-phong-phong-thuy`)
 
 Căn phòng cúng bái mù mịt khói nhang của thầy địa lý Ba Càn trong con hẻm Tân Định năm 1962. Người chơi phải giải câu đố xoay khóa Bát Quái Càn - Tốn và kích hoạt cơ chế Lật Vải để tìm ra cuốn sổ tử vi gốc bị đánh tráo cùng bức thư tay cấu kết bất chính.

@@ -1,5 +1,3 @@
-File: docs/08-assets/chapter-4/c4-s3-san-tu-duong-doi-dau/hitbox-ancestral-stone-step/README.md
-
 # Điểm Chạm: Thềm Đá Từ Đường Đối Chất (`hitbox-ancestral-stone-step`)
 
 - **Tên tiếng Việt:** Bậc thềm đá hoa cương nơi Cô Phương bước lên đối chất

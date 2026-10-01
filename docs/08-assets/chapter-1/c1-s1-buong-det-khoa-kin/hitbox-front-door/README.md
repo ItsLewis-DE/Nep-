@@ -1,5 +1,3 @@
-File: docs/08-assets/chapter-1/c1-s1-buong-det-khoa-kin/hitbox-front-door/README.md
-
 # Điểm Chạm: Cửa Chính Bị Xích Khóa (`hitbox-front-door`)
 
 - **Tên tiếng Việt:** Cửa chính bằng gỗ ván ghép bị xích sắt khóa chặt phía ngoài

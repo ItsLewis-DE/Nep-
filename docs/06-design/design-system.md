@@ -1,82 +1,103 @@
-File: docs/06-design/design-system.md
-
 # Hệ Thống Thiết Kế Tiệm May Nếp (Design System)
 
-Tài liệu này xác lập toàn bộ quy chuẩn về bảng màu, kiểu chữ, tỷ lệ đồ họa pixel art, kỹ thuật phóng to không vỡ nét và quy tắc thẩm mỹ khi vẽ mặt trái của khung cảnh trong cơ chế Lật vải (Fabric Flip).
+Tài liệu này xác lập toàn bộ quy chuẩn về bảng màu giao diện, bảng màu truyền thống cho vải áo, kiểu chữ, tỷ lệ đồ họa pixel art, cấu trúc khung pixel 3 lớp và quy tắc thẩm mỹ trong cơ chế Lật vải (Fabric Flip).
 
-## 1. Bảng màu chủ đạo (Color Palette)
+## 1. Bảng màu giao diện (UI Color Palette)
 
-Bảng màu của Tiệm May Nếp được lấy cảm hứng trực tiếp từ chất liệu thủ công và màu sắc tự nhiên trong đời sống truyền thống của người Kinh:
+Bảng màu giao diện được trích xuất và đo đạc chuẩn xác từ bản thiết kế mục tiêu (target mock-up) của sảnh chính sân nhà, mang âm hưởng hoàng hôn ấm áp, hoàng gia và quý phái:
 
-### 1.1. Màu nền và giao diện cơ sở
-- Màu Giấy Dó (Dó Paper Base): `#F5EFEB`. Tông màu ngà ấm áp, có độ xốp nhẹ như mặt giấy dó thủ công, dùng làm màu nền cho toàn bộ ứng dụng, tạo cảm giác mộc mạc, gần gũi và giảm mỏi mắt trên màn hình điện thoại.
-- Màu Gỗ Mộc (Wood Dark): `#3D261A`. Màu gỗ lim, gỗ gụ lâu năm, dùng cho các đường viền khung, thanh tiêu đề gáy sách và chân tường tiệm may.
-- Màu Sợi Thô (Unbleached Hemp): `#D9CEB2`. Tông màu của sợi đay, sợi gai dệt vải thô, dùng cho các nút bấm phụ và thanh trượt.
+| Token | Mã màu Hex | Tên gọi & Vai trò sử dụng |
+| :--- | :--- | :--- |
+| `cream-50` | `#FDEACE` | Nền thẻ sáng nhất, hiệu ứng sáng viền trong |
+| `cream-100` | `#FDE5C8` | Nền bảng thẻ hành động, nền hộp thoại chính |
+| `peach-300` | `#F3C098` | Viền ngoài sáng, viền phản quang của gỗ |
+| `rose-400` | `#D37C74` | Viền trong của khung thẻ, đường kẻ phân cách phụ |
+| `pink-500` | `#E75788` | Màu nút hành động chính (nút hồng sen), hoa sen điểm nhấn |
+| `rose-600` | `#A53556` | Bóng nổi đổ dưới chân nút bấm chính (dày 4px) |
+| `rose-700` | `#7B3248` | Màu chữ phụ, chú thích, phụ đề trên thẻ |
+| `plum-700` | `#5C223D` | Màu chữ trên các biển gỗ điều hướng |
+| `plum-800` | `#411D3A` | Viền ngoài đậm nhất của khung thẻ, khung viền logo |
+| `plum-900` | `#251728` | Nền thanh HUD chỉ số, bóng tối sâu, thanh trạng thái |
+| `ink-900` | `#1E1523` | Tiêu đề chính, văn bản có độ tương phản tối đa |
+| `gold-500` | `#E09B5A` | Viền kim loại vàng đồng (lớp viền giữa của khung pixel) |
+| `sky-300` | `#FB9A99` | Tông màu nền trời hoàng hôn rực rỡ |
 
-### 1.2. Màu sắc điểm nhấn văn hóa
-- Màu Đỏ Son (Vermilion Red): `#B83A24`. Lấy cảm hứng từ mực chu sa, câu đối Tết và cánh kiến đỏ. Dùng cho các điểm nhấn quan trọng, nút hành động chính (Call-to-Action), nhãn thông báo hỷ sự và vạt áo nổi bật.
-- Màu Xanh Ngọc Bích (Jade Green): `#2D6A5D`. Tông màu ngọc bích trầm, gợi nhớ men gốm hoa lam và ngọc quý xưa. Dùng cho huy hiệu hoàn thành, thẻ bảo tàng đã đọc và các điểm nhấn may mắn.
-- Màu Vàng Hoàng Thổ (Ochre Yellow): `#CFA449`. Màu đất sét nung và ánh vàng trên tơ tằm thô. Dùng cho biểu tượng đồng xu thưởng, viền khóa rương cũ và điểm xếp hạng màu sắc.
-- Màu Chàm Đen (Indigo Black): `#1E2A38`. Chiết xuất từ lá chàm ngâm ủ, mang sắc xanh đen sẫm sâu thẳm. Dùng làm màu tóc nhân vật, nếp gấp bóng tối và phông nền cho các cảnh đêm hoặc mặt trái tấm vải.
+## 2. Bảng màu truyền thống cho vải áo (Heritage Garment Palette)
 
-## 2. Quy chuẩn kiểu chữ (Typography)
+> **Lưu ý đặc biệt:** Bảng màu này **chỉ dùng cho chất liệu vải, hoa văn và vạt áo trong Phòng phối đồ**, tuyệt đối không dùng làm màu cho các khung thẻ giao diện hệ thống.
 
-Nhóm mình đặt ra nguyên tắc khắt khe về hiển thị chữ để bảo đảm tính thẩm mỹ và dễ đọc trên thiết bị di động:
+Bảng màu này được chắt lọc từ các kỹ thuật nhuộm truyền thống trong lịch sử của người Kinh:
+- **Màu Củ Nâu (Brown Bark):** `#6B4423`. Màu nhuộm từ củ nâu truyền thống vùng đồng bằng Bắc Bộ, bền màu, mộc mạc cho áo tứ thân, ngũ thân lao động.
+- **Màu Chàm (Indigo):** `#1E2A38` / `#2D3E50`. Chiết xuất từ lá chàm ủ vôi, sắc xanh đen thẫm biểu trưng cho sự bền bỉ.
+- **Màu Điều / Son (Vermilion Red):** `#B83A24`. Lấy từ cánh kiến đỏ, dùng cho áo lễ hội, hỷ sự và phục sức hoàng gia.
+- **Màu Hoàng Yến (Ochre / Gold):** `#CFA449`. Sắc vàng tơ tằm óng ả, màu thổ hoàng ấm áp.
+- **Màu Men Lam (Ceramic Blue):** `#2D6A5D`. Men gốm cổ truyền, dùng cho hoa văn ngọc bích và viền gấm.
+- **Màu Giấy Dó (Dó Silk White):** `#F5EFEB`. Trắng ngà tự nhiên của sợi tơ thô và giấy dó cổ truyền.
 
-### 2.1. Phông chữ nội dung đọc (Body & UI text)
-- Phông chữ bắt buộc: Sử dụng `Be Vietnam Pro` hoặc hệ phông sans-serif chuẩn của hệ thống (`system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto`).
-- Lý do: Chữ nội dung bắt buộc phải hiển thị đầy đủ 100% các ký tự có dấu thanh tiếng Việt (ngã, hỏi, nặng, huyền, sắc, ơ, ư, đ), dấu mũ và dấu móc không bị lệch hay nhảy phông.
-- Cấm tuyệt đối: Không dùng phông chữ pixel (bitmap / pixel font) cho các đoạn văn bản dài, thẻ thông tin bảo tàng hay hộp thoại cốt truyện. Phông pixel tiếng Việt thường bị vỡ dấu, méo chữ hoặc khó đọc trên màn hình điện thoại có mật độ điểm ảnh cao (Retina display).
+## 3. Khung giao diện (UI Frames & Components)
 
-### 2.2. Phông chữ tiêu đề và điểm nhấn số (Headings & Counters)
-- Tiêu đề màn hình và số lượng xu: Có thể dùng phông mang phong cách retro nhẹ hoặc phông có chân mang hơi hướng văn học cổ điển (như `Playfair Display` hoặc `Merriweather`) cho các tiêu đề lớn của tiệm may để tạo vẻ hoài niệm.
-- Cỡ chữ tối thiểu trên điện thoại: Văn bản nội dung không được nhỏ hơn 14px; tiêu đề phân khu từ 18px đến 22px; khoảng cách dòng (line-height) duy trì từ 1.5 đến 1.6 để bảo đảm mắt người đọc không bị mỏi.
+Toàn bộ các bảng thông tin, thẻ hành động và hộp thoại tuân theo quy chuẩn khung pixel 3 lớp đặc trưng của Tiệm May Nếp:
+- **Cấu trúc khung pixel 3 lớp:**
+  - Lớp viền ngoài cùng: Độ dày 2px đến 4px bằng màu mận đậm `plum-800`.
+  - Lớp viền ở giữa: Độ dày 2px bằng màu vàng đồng `gold-500` tạo cảm giác dát vàng óng ánh.
+  - Lớp viền trong cùng: Độ dày 1px đến 2px bằng màu hồng ngọc `rose-400`.
+  - Nền bên trong khung: Sử dụng màu kem đào `cream-100`.
+- **Góc cắt bậc (Stepped Corner):** Các góc khung không dùng bo tròn tròn mượt của CSS hiện đại mà cắt bậc vuông pixel 4px theo phong cách retro pixel art.
+- **Quy chuẩn nút bấm chính (Primary Button):**
+  - Mặt nút: Màu hồng sen `pink-500`.
+  - Bóng dưới chân nút (Bottom Shadow): Màu đỏ mận `rose-600` dày đúng 4px, tạo cảm giác bấm nổi cơ học dạng 3D pixel.
+  - Chữ trên nút: Màu trắng tinh khôi hoặc kem sáng, in đậm sắc nét.
 
-## 3. Kích thước Pixel gốc và tỷ lệ đồ họa
+## 4. Quy chuẩn kiểu chữ (Typography)
 
-Toàn bộ tài nguyên đồ họa pixel art trong app được vẽ theo độ phân giải gốc cố định (Native Pixel Resolution), sau đó phóng to tỷ lệ nguyên (Integer Scaling) để hiển thị sắc nét trên mọi loại màn hình.
+Nhóm mình đặt ra nguyên tắc khắt khe về hiển thị chữ để bảo đảm tính thẩm mỹ, phong cách hoài niệm nhưng luôn sắc nét và đọc chuẩn tiếng Việt:
 
-| Thành phần đồ họa | Kích thước gốc (Native Width × Height) | Mục đích sử dụng | Tỷ lệ hiển thị trên mobile |
+### 4.1. Phông chữ tiêu đề và Logo (Display & Title)
+- **Phông chữ chỉ định:** Sử dụng phông `VT323` cho tiêu đề và logo nhận diện.
+- **Phông dự phòng (Fallback):** Sử dụng `Departure Mono Viet`.
+- **Điều kiện kiểm tra phông (Font Verification Gate):** Phông tiêu đề chỉ được kích hoạt sử dụng nếu hiển thị chính xác và tròn trịa chuỗi ký tự tiếng Việt mẫu:
+  `"Tiệm May Nếp ẶẫỢữđ"`
+- **Trường hợp không đạt chuẩn:** Nếu cả hai phông trên không hiển thị đủ dấu tiếng Việt chuẩn mực, hệ thống bắt buộc chuyển sang dùng phông `Be Vietnam Pro` (trọng số 800 - ExtraBold) để đảm bảo không bao giờ bị lỗi dấu thanh hay bể phông.
+
+### 4.2. Phông chữ nội dung đọc (Body & UI Text)
+- **Phông chữ bắt buộc:** Sử dụng `Be Vietnam Pro` cho toàn bộ văn bản nội dung, lời thoại nhân vật, thẻ bảo tàng và danh mục phụ kiện.
+- **Nguyên tắc:** Cấm tuyệt đối dùng phông pixel cho các đoạn văn bản dài vì dễ gây mỏi mắt và vỡ dấu trên màn hình điện thoại có mật độ điểm ảnh cao. Cỡ chữ tối thiểu từ 14px, chiều cao dòng 1.5 - 1.6.
+
+## 5. Kích thước Pixel gốc và tỷ lệ đồ họa
+
+Toàn bộ tài nguyên đồ họa trong app tuân thủ nguyên tắc pixel art thật (Authentic Pixel Art), vẽ trên lưới độ phân giải gốc cố định, hiển thị sắc nét bằng kỹ thuật phóng to tỷ lệ nguyên lần (Integer Scaling), đồng nhất hoàn toàn giữa cảnh nền, nhân vật, chú mèo Nếp và các biểu tượng:
+
+| Thành phần đồ họa | Kích thước lưới gốc (Native Width × Height) | Tỷ lệ khung hình | Mục đích & Quy cách hiển thị |
 | :--- | :--- | :--- | :--- |
-| Khung cảnh sảnh tiệm (Hub) | 320 × 480 pixel | Toàn cảnh tiệm may và bốn góc tương tác | Chiếm trọn khung nhìn (fit to viewport) |
-| Cảnh game rương cũ (Journey) | 320 × 240 pixel | Khung hình chữ nhật màn chơi point-and-click | Tỷ lệ 4:3 nằm ở nửa trên màn hình |
-| Nhân vật người chơi (Protagonist) | 64 × 96 pixel | Khung nhân vật đứng thẳng trên bục thử đồ | Phóng to 3x hoặc 4x (192×288 hoặc 256×384 px) |
-| Mèo mướp Nếp (Assistant) | 32 × 32 pixel | Sprite mèo nằm ngủ, vẫy đuôi hoặc cầm bảng | Phóng to 3x (96×96 px) |
-| Biểu tượng vật phẩm & phụ kiện | 24 × 24 hoặc 32 × 32 pixel | Ô lưới túi đồ, biểu tượng nút bấm phụ | Phóng to 2x (48×48 hoặc 64×64 px) |
+| **Nền Sảnh ngang (Desktop/Tablet)** | **480 × 270 pixel** | **16:9** | Pixel art thật, phóng nguyên lần vừa vặn màn hình ngang |
+| **Nền Sảnh dọc (Mobile Portrait)** | **270 × 480 pixel** | **9:16** | Bố cục chuyên biệt: HUD ghim trên, bottom sheet thẻ ở dưới |
+| **Khung cảnh Cốt truyện (Journey)** | 320 × 240 pixel | 4:3 | Khung hình màn chơi giải đố point-and-click |
+| **Nhân vật người chơi (Protagonist)** | 64 × 96 pixel | Đứng thẳng | Nhân vật pixel art chuẩn, phóng nguyên lần 2x - 4x |
+| **Mèo mướp Nếp (Assistant)** | 32 × 32 pixel | Nằm / Ngủ / Ngồi | Phóng nguyên lần đồng bộ với cảnh nền sảnh |
+| **Biểu tượng Sen Ngọc & Phụ kiện** | 24 × 24 hoặc 32 × 32 pixel | Vuông 1:1 | Icon pixel ngọc sen hồng, thước gỗ, hoa cài |
 
-## 4. Kỹ thuật phóng to không làm mờ ảnh (Pixel Crisp Rendering)
+## 6. Kỹ thuật phóng to không làm mờ ảnh (Pixel Crisp Rendering)
 
-Khi phóng to hình ảnh pixel trên trình duyệt hiện đại, cơ chế khử răng cưa mặc định (Bilinear Interpolation) sẽ làm các cạnh pixel bị nhòe mờ. Để giữ các đường pixel luôn sắc cạnh và vuông vức như đồ họa cổ điển, nhóm mình áp dụng bắt buộc các quy tắc kỹ thuật sau:
+Khi phóng to trên trình duyệt, để tránh cơ chế làm mờ điểm ảnh (Bilinear Interpolation), áp dụng bắt buộc thuộc tính:
 
-### 4.1. Quy chuẩn CSS toàn cục
-Áp dụng thuộc tính dựng hình điểm ảnh cho toàn bộ thẻ `<img>`, `<canvas>` và hình nền pixel trong `src/index.css`:
 ```css
 .pixel-art {
-  image-rendering: pixelated; /* Chuẩn hiện đại trên Chrome, Edge, Safari */
-  image-rendering: -moz-crisp-edges; /* Tương thích Firefox cũ */
+  image-rendering: pixelated; /* Chuẩn Chrome, Edge, Safari hiện đại */
+  image-rendering: -moz-crisp-edges; /* Firefox */
   image-rendering: crisp-edges;
 }
 ```
 
-### 4.2. Quy chuẩn thẻ Canvas
-Khi vẽ các lớp sprite hoặc hoán đổi bảng màu bằng Javascript:
+Trong canvas dựng hình:
 ```javascript
 const ctx = canvas.getContext('2d');
-ctx.imageSmoothingEnabled = false; // Tắt tính năng làm mịn làm mờ điểm ảnh
+ctx.imageSmoothingEnabled = false; // Tắt khử răng cưa
 ```
 
-## 5. Quy tắc mỹ thuật khi vẽ mặt trái của cảnh (Cơ chế Lật Vải)
+## 7. Quy tắc mỹ thuật khi vẽ mặt trái của cảnh (Cơ chế Lật Vải)
 
-Cơ chế "Lật vải" (Fabric Flip) là điểm nhấn nghệ thuật độc đáo của phần game Cái rương cũ. Khi người chơi bấm nút lật vải, không gian chuyển từ thế giới thực tế sang mặt trái của tấm vải ký ức. Để tạo sự tương phản mạnh mẽ mà không mang màu sắc kinh dị ma mị, nhóm mình tuân theo các quy tắc vẽ sau:
-
-1. Chuyển đổi bảng màu sang chất liệu dệt thô:
-   - Mặt phải (Thế giới thực): Dùng bảng màu ấm áp của gỗ mộc, nắng chiều, giấy dó và màu lụa tươi tắn.
-   - Mặt trái (Ký ức ẩn giấu): Chuyển toàn bộ sang tông màu sợi dệt thô mộc gồm màu xám tro của củi tàn (`#4A4A4A`), màu chàm lạnh ngả xanh đen (`#1A2530`) và màu sợi đay ố vàng (`#8C826A`).
-
-2. Hiển thị các đường chỉ ràng buộc (Tangle Threads):
-   - Ở mặt trái, các mối quan hệ xã hội cũ và lề thói định kiến được trực quan hóa thành những sợi chỉ thêu màu xám chằng chịt, nối từ các góc khuất vào đồ vật hoặc nhân vật.
-   - Nơi nào có manh mối hoặc sự thật cần tháo gỡ, sợi chỉ sẽ phát sáng ánh chỉ tơ vàng (`#F2C94C`) hoặc đỏ son (`#EB5757`).
-
-3. Vết cắt và chữ viết ẩn:
-   - Các dòng thư bị che giấu hoặc những bản hương ước khắt khe sẽ lộ ra dưới dạng những đường dệt nổi hoặc vết kim thêu thủng trên nền vải chàm.
-   - Đồ họa giữ phong cách trang nhã của nghệ thuật tranh khắc gỗ dân gian, tuyệt đối không vẽ máu me, không rùng rợn và không gây sợ hãi cho lứa tuổi học sinh, sinh viên.
+Cơ chế "Lật vải" (Fabric Flip) là điểm nhấn nghệ thuật của game Cốt truyện (chiếc rương cũ):
+- **Mặt phải (Thế giới thực):** Ánh hoàng hôn ấm áp của sân nhà, gỗ mộc, vải lụa rạng ngời.
+- **Mặt trái (Ký ức ẩn giấu):** Chuyển sang tông màu dệt thô gồm xám tro củi tàn (`#4A4A4A`), chàm lạnh ngả xanh đen (`#1A2530`) và sợi đay ố vàng (`#8C826A`).
+- **Đường chỉ ràng buộc (Tangle Threads):** Nối từ các góc định kiến, khi có manh mối sẽ phát sáng ánh chỉ tơ vàng (`#F2C94C`) hoặc đỏ son (`#EB5757`).
+- **Nghệ thuật:** Đồ họa giữ phong thái trang nhã, giàu sức gợi của tranh khắc gỗ dân gian, không vẽ máu me hay gây hoảng sợ.

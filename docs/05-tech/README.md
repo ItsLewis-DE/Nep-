@@ -1,5 +1,3 @@
-File: docs/05-tech/README.md
-
 # Thư Mục Thiết Kế Kỹ Thuật (05-tech)
 
 Thư mục này ghi lại kiến trúc hệ thống, quy trình tích hợp mô hình trí tuệ nhân tạo và thiết kế dữ liệu của ứng dụng Tiệm May Nếp trên nền tảng Google AI Studio.

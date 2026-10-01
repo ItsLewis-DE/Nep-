@@ -1,5 +1,3 @@
-File: docs/08-assets/chapter-4/c4-s1-can-ho-tap-the/bg-mat-phai/README.md
-
 # Nền Căn Hộ Tập Thể Nam Định Mặt Phải (`bg-mat-phai`)
 
 - **Tên tiếng Việt:** Nền căn hộ tập thể công nhân dệt Nam Định năm 1982 (Mặt Phải)

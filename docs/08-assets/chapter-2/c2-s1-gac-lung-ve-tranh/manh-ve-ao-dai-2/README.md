@@ -1,5 +1,3 @@
-File: docs/08-assets/chapter-2/c2-s1-gac-lung-ve-tranh/manh-ve-ao-dai-2/README.md
-
 # Vật Phẩm Ghép Hình: Mảnh Bản Vẽ 2 (`manh-ve-ao-dai-2`)
 
 - **Tên tiếng Việt:** Mảnh bản vẽ 2: Phần eo lượn ôm sát đường cong cơ thể

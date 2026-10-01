@@ -1,5 +1,3 @@
-File: docs/07-game/characters/truong-toc-bui/profile.md
-
 # Hồ Sơ Nhân Vật: Trưởng Tộc Bùi Văn Thân
 
 ## 1. Thông tin căn bản

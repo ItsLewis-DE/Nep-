@@ -1,5 +1,3 @@
-File: docs/08-assets/prologue/c0-s2-gac-xep-chiec-ruong/bg-mat-phai/README.md
-
 # Nền Gác Xép Thế Giới Thực (`bg-mat-phai`)
 
 - **Tên tiếng Việt:** Nền gác xép cổ và chiếc rương bọc đồng (Mặt Phải)

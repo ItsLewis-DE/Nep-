@@ -1,5 +1,3 @@
-File: docs/08-assets/chapter-4/c4-s2-tu-duong-ho-nguyen/README.md
-
 # Phân Cảnh: Gian Nhà Từ Đường Họ Nguyễn (`c4-s2-tu-duong-ho-nguyen`)
 
 Gian chính giữa của ngôi nhà gỗ cổ năm gian của dòng họ Nguyễn ngoại thành Nam Định năm 1982. Nơi đây cất giữ cuốn gia phả tộc bọc vải điều dày cộp trong chiếc tráp gỗ sơn son khóa 4 vòng số, nơi diễn ra màn giải đố Lật Vải tìm lại những trang sử ghi công đức phụ nữ bị cố tình xé rời.

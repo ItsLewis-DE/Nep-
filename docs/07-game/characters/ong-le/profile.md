@@ -1,5 +1,3 @@
-File: docs/07-game/characters/ong-le/profile.md
-
 # Hồ Sơ Nhân Vật: Thực Thể Ông Lệ
 
 ## 1. Thông tin căn bản

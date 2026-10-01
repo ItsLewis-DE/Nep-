@@ -1,5 +1,3 @@
-File: docs/08-assets/prologue/c0-s1-tiem-may-chieu/hitbox-stairs/README.md
-
 # Điểm Chạm: Cầu Thang Gỗ Lim Lên Gác Xép (`hitbox-stairs`)
 
 - **Tên tiếng Việt:** Lối cầu thang gỗ lim dẫn lên gác xép

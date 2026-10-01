@@ -1,5 +1,3 @@
-File: docs/07-game/characters/chu-suu/profile.md
-
 # Hồ Sơ Nhân Vật: Chú Họ Nguyễn Văn Sửu
 
 ## 1. Thông tin căn bản

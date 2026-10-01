@@ -1,5 +1,3 @@
-File: docs/08-assets/prologue/c0-s1-tiem-may-chieu/bg-mat-phai/README.md
-
 # Nền Sảnh Tiệm May Chiều (`bg-mat-phai`)
 
 - **Tên tiếng Việt:** Nền sảnh tiệm may Nếp trong ánh chiều thu
@@ -12,7 +10,7 @@ File: docs/08-assets/prologue/c0-s1-tiem-may-chieu/bg-mat-phai/README.md
 - **Thay đổi khi lật vải:** Cảnh này không có mặt trái.
 
 ## 1. Mô tả hình dáng cho họa sĩ pixel
-Không gian nội thất sảnh tầng một của một tiệm may đo áo dài cổ điển trên phố Hàng Gai, Hà Nội. Ánh nắng chiều muộn vàng ruộm hắt xiên qua ô cửa kính kiểu Pháp, in bóng chấn song lên sàn lát gạch bông hoa văn cổ điển. Ở giữa phòng là chiếc bàn cắt may bằng gỗ sẫm màu có cuộn vải lụa tơ tằm trắng đang mở dở, hộp đựng phấn may và cây kéo may bằng đồng. Phía bên phải là chân cầu thang gỗ lim tối màu uốn cong dẫn lên gác xép. Phía bên trái là tấm gương đứng viền gỗ lim lớn soi bóng góc tiệm. Không khí hoài niệm, ấm áp và tĩnh lặng.
+Không gian nội thất sảnh tầng một của một tiệm may đo áo dài cổ điển trên phố Hàng Đào, Hà Nội. Ánh nắng chiều muộn vàng ruộm hắt xiên qua ô cửa kính kiểu Pháp, in bóng chấn song lên sàn lát gạch bông hoa văn cổ điển. Ở giữa phòng là chiếc bàn cắt may bằng gỗ sẫm màu có cuộn vải lụa tơ tằm trắng đang mở dở, hộp đựng phấn may và cây kéo may bằng đồng. Phía bên phải là chân cầu thang gỗ lim tối màu uốn cong dẫn lên gác xép. Phía bên trái là tấm gương đứng viền gỗ lim lớn soi bóng góc tiệm. Không khí hoài niệm, ấm áp và tĩnh lặng.
 
 ## 2. Prompt tiếng Anh (Dán sau Khối Style Chung)
 ```text

@@ -1,5 +1,3 @@
-File: docs/08-assets/chapter-2/c2-s2-kho-vai-hang-dao/hitbox-iron-safe/README.md
-
 # Điểm Chạm: Két Sắt Bọc Thép Cổ Của Cả Nghị (`hitbox-iron-safe`)
 
 - **Tên tiếng Việt:** Chiếc két sắt bọc thép cổ lỗ nặng trịch của Cả Nghị

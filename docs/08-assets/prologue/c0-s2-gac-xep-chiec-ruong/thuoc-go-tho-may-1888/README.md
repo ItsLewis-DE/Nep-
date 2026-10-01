@@ -1,5 +1,3 @@
-File: docs/08-assets/prologue/c0-s2-gac-xep-chiec-ruong/thuoc-go-tho-may-1888/README.md
-
 # Vật Phẩm Cốt Truyện: Thước Gỗ Thợ May 1888 (`thuoc-go-tho-may-1888`)
 
 - **Tên tiếng Việt:** Chiếc thước gỗ thợ may cổ chia khắc chữ Nho (Kỷ vật năm 1888)

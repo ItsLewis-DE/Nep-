@@ -1,5 +1,3 @@
-File: docs/08-assets/chapter-1/c1-s1-buong-det-khoa-kin/README.md
-
 # Phân Cảnh: Gian Buồng Dệt Khóa Then (`c1-s1-buong-det-khoa-kin`)
 
 Gian buồng hẹp vách đất trát rơm nứt nẻ nơi cụ Cầm bị giam lỏng để ép thủ tiết vào mùa đông năm 1888. Cửa chính phía trước bị xích sắt khóa chặt, cụ Cầm phải tìm cách mở then cửa chớp phía sau để thoát ra nhà thờ họ.

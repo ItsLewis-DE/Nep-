@@ -1,5 +1,3 @@
-File: docs/07-game/prologue/setup.md
-
 # Thiết Lập Kỹ Thuật Và Mỹ Thuật: Màn Mở Đầu (Prologue)
 
 Tài liệu này xác định thông số kỹ thuật, mô tả mỹ thuật pixel art cho từng phân cảnh, danh sách tọa độ điểm chạm (hitboxes) theo tỷ lệ phần trăm, danh mục nhân vật và prompt tiếng Anh chuẩn hóa để tạo hình ảnh nền cho Màn Mở Đầu.

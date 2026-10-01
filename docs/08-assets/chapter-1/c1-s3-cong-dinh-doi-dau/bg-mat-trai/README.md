@@ -1,5 +1,3 @@
-File: docs/08-assets/chapter-1/c1-s3-cong-dinh-doi-dau/bg-mat-trai/README.md
-
 # Nền Sân Đình Làng Mặt Trái (`bg-mat-trai`)
 
 - **Tên tiếng Việt:** Nền sân đình làng cõi Lật Vải (Mặt Trái)

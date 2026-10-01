@@ -1,5 +1,3 @@
-File: docs/08-assets/chapter-1/c1-s1-buong-det-khoa-kin/that-lung-lua-cham/README.md
-
 # Vật Phẩm: Thắt Lưng Lụa Chàm (`that-lung-lua-cham`)
 
 - **Tên tiếng Việt:** Dải thắt lưng vải lụa nhuộm chàm bện tơ dai

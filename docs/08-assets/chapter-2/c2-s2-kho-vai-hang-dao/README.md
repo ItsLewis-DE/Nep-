@@ -1,5 +1,3 @@
-File: docs/08-assets/chapter-2/c2-s2-kho-vai-hang-dao/README.md
-
 # Phân Cảnh: Kho Vải Ngầm Tiệm Tơ Lụa Hàng Đào (`c2-s2-kho-vai-hang-dao`)
 
 Gian kho kiên cố ngầm dưới tiệm vải gấm lụa Hàng Đào của thương gia Cả Nghị năm 1935. Cụ Loan đột nhập vào kho để tìm lại tờ biên lai thu nợ gốc do cha mình đã trả hết, nhằm bẻ gãy âm mưu ép gả làm vợ lẽ trừ nợ.

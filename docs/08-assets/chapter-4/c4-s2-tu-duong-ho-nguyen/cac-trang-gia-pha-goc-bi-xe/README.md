@@ -1,5 +1,3 @@
-File: docs/08-assets/chapter-4/c4-s2-tu-duong-ho-nguyen/cac-trang-gia-pha-goc-bi-xe/README.md
-
 # Vật Phẩm Chứng Cứ: Các Trang Gia Phả Gốc Bị Xé (`cac-trang-gia-pha-goc-bi-xe`)
 
 - **Tên tiếng Việt:** Các trang giấy dó chữ Nôm ghi công đức bị xé giấu khỏi gia phả

@@ -1,5 +1,3 @@
-File: docs/08-assets/chapter-2/c2-s3-phong-trien-lam-doi-dau/bg-mat-phai/README.md
-
 # Nền Phòng Triển Lãm Báo Ngày Nay (`bg-mat-phai`)
 
 - **Tên tiếng Việt:** Nền phòng khánh tiết triển lãm nghệ thuật Tràng Tiền năm 1935

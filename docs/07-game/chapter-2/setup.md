@@ -1,5 +1,3 @@
-File: docs/07-game/chapter-2/setup.md
-
 # Thiết Lập Kỹ Thuật Và Mỹ Thuật: Chương 2 (Năm 1935)
 
 Tài liệu này xác định chi tiết các thông số kỹ thuật, mô tả mỹ thuật pixel art cho từng phân cảnh, danh sách tọa độ điểm chạm (hitboxes) theo tỷ lệ phần trăm chính xác, danh mục nhân vật, vật phẩm và prompt tiếng Anh chuẩn hóa để tạo hình nền pixel cho Chương 2.
@@ -88,7 +86,7 @@ pixel art background, 320x240 resolution, inverse spiritual fabric plane of a si
 - `hitbox-exhibition-podium`: Bục trưng bày áo dài nơi cụ Loan đứng tỏa sáng. Tọa độ: `x: 18%, y: 38%, w: 26%, h: 50%`.
 
 ### 3.3. Nhân vật xuất hiện
-- Cụ Loan: Sprite lộng lẫy trong tà áo dài Lê Phổ vàng mỡ gà, cổ đeo chuỗi ngọc trai, thần thái tự tin kiêu hãnh.
+- Cụ Loan: Sprite lộng lẫy trong tà áo dài tân thời cổ đứng, không vai bồng vàng mỡ gà, cổ đeo chuỗi ngọc trai, thần thái tự tin kiêu hãnh.
 - Thực thể Ông Lệ: Bóng đen tro tàn khổng lồ co rúm lại trước ánh đèn flash máy ảnh và sự thật.
 - Ông Cả Nghị: Sprite ôm đầu lùi dần về góc cửa thoát hiểm.
 - Quan khách và ký giả: Đám đông trí thức tiến bộ nhiệt liệt hoan hô.

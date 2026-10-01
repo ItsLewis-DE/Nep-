@@ -1,5 +1,3 @@
-File: docs/08-assets/chapter-3/c3-s2-phong-phong-thuy/thu-tay-thoa-thuan-boi-toan/README.md
-
 # Vật Phẩm Chứng Cứ: Thư Tay Thỏa Thuận Bói Toán (`thu-tay-thoa-thuan-boi-toan`)
 
 - **Tên tiếng Việt:** Bức thư tay bà Hội đồng Vĩnh thuê thầy Ba Càn bói quẻ lừa đảo

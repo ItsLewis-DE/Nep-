@@ -1,5 +1,3 @@
-File: docs/08-assets/chapter-2/c2-s1-gac-lung-ve-tranh/manh-ve-ao-dai-4/README.md
-
 # Vật Phẩm Ghép Hình: Mảnh Bản Vẽ 4 (`manh-ve-ao-dai-4`)
 
 - **Tên tiếng Việt:** Mảnh bản vẽ 4: Chiếc quần lụa trắng ống suông và đôi guốc mộc

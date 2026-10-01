@@ -1,5 +1,3 @@
-File: docs/07-game/characters/hoang-lam/profile.md
-
 # Hồ Sơ Nhân Vật: Hoàng Lâm
 
 ## 1. Thông tin căn bản

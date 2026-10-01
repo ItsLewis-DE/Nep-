@@ -1,8 +1,6 @@
-File: docs/07-game/chapter-3/script.md
-
 # Kịch Bản Chi Tiết: Chương 3 - Đường Chỉ Xuyên Năm Tháng (Năm 1962)
 
-Chương 3 đưa người chơi vào không gian sôi động, phóng khoáng của Sài Gòn đầu thập niên 1960. Câu chuyện xoay quanh Bà Ngoại Lê Thị Mai (22 tuổi, cháu ngoại cụ Cầm), một thợ cắt may sắc sảo tại tiệm may nức tiếng vùng Đa Kao. Bà đang phải đối mặt với sự quy chụp tàn nhẫn của trò bói toán tướng số: bị gán mác *"gò má cao mang số sát phu"* và âm mưu ép bà phải làm phận vợ lẽ hèn mọn, dâng toàn bộ gia sản tiệm may cho gia đình danh gia vọng tộc.
+Chương 3 đưa người chơi vào không gian sôi động, phóng khoáng của Sài Gòn đầu thập niên 1960. Câu chuyện xoay quanh Bà Ngoại Lê Thị Mai (22 tuổi, con gái cụ Loan, cháu cố cụ Cầm), một thợ cắt may sắc sảo tại tiệm may nức tiếng vùng Đa Kao. Bà đang phải đối mặt với sự quy chụp tàn nhẫn của trò bói toán tướng số: bị gán mác *"gò má cao mang số sát phu"* và âm mưu ép bà phải làm phận vợ lẽ hèn mọn, dâng toàn bộ gia sản tiệm may cho gia đình danh gia vọng tộc.
 
 ---
 
@@ -121,7 +119,7 @@ Sau ngày hôm ấy, tiệm may Mai Sài Gòn trở thành biểu tượng thờ
 
 ## 4. Phần thưởng và giá trị giáo dục lịch sử
 
-- **Phần thưởng tài nguyên:** 150 xu thưởng.
+- **Phần thưởng tài nguyên:** 150 Sen Ngọc thưởng.
 - **Mở khóa 2 mẫu áo độc quyền vào Tủ đồ:**
   1. `ao_dai_raglan_hoa_nhi`: Áo dài tay raglan ráp xéo hoa nhí tươi tắn của phụ nữ Sài Gòn thập niên 1960, giải phóng hoàn toàn nếp nhăn nách áo.
   2. `ao_dai_co_thuyen_ngoc_bich`: Áo dài cổ thuyền khoét rộng thanh thoát, tôn vinh chiếc cổ cao và bờ vai thanh tú của người phụ nữ tự do.

@@ -1,5 +1,3 @@
-File: docs/08-assets/chapter-3/c3-s1-tiem-may-da-kao/hitbox-fabric-attic/README.md
-
 # Điểm Chạm: Gác Lửng Phơi Vải Lấy Biên Nhận (`hitbox-fabric-attic`)
 
 - **Tên tiếng Việt:** Giá gỗ phơi vải trên cao phía trên bàn cắt

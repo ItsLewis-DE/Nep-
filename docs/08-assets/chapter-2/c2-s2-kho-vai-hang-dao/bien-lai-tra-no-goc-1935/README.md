@@ -1,5 +1,3 @@
-File: docs/08-assets/chapter-2/c2-s2-kho-vai-hang-dao/bien-lai-tra-no-goc-1935/README.md
-
 # Vật Phẩm Chứng Cứ: Biên Lai Trả Nợ Gốc 1935 (`bien-lai-tra-no-goc-1935`)
 
 - **Tên tiếng Việt:** Tờ biên lai thu tiền gốc năm trăm đồng bạc Đông Dương

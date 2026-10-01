@@ -1,5 +1,3 @@
-File: docs/08-assets/chapter-3/c3-s1-tiem-may-da-kao/hitbox-bonsai-pot/README.md
-
 # Điểm Chạm: Chậu Cây Mai Chiếu Thủy Giấu Bùa (`hitbox-bonsai-pot`)
 
 - **Tên tiếng Việt:** Chậu gốm cây mai chiếu thủy trước hiên tiệm

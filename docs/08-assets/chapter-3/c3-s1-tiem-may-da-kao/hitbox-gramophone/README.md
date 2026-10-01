@@ -1,5 +1,3 @@
-File: docs/08-assets/chapter-3/c3-s1-tiem-may-da-kao/hitbox-gramophone/README.md
-
 # Điểm Chạm: Máy Hát Đĩa Than Cổ Đang Chạy (`hitbox-gramophone`)
 
 - **Tên tiếng Việt:** Máy hát đĩa than kèn đồng cổ phong cách Sài Gòn 1960

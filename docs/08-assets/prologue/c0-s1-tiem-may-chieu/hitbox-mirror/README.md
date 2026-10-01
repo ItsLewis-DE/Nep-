@@ -1,5 +1,3 @@
-File: docs/08-assets/prologue/c0-s1-tiem-may-chieu/hitbox-mirror/README.md
-
 # Điểm Chạm: Gương Soi Đứng Viền Gỗ (`hitbox-mirror`)
 
 - **Tên tiếng Việt:** Tấm gương soi lớn khung gỗ lim

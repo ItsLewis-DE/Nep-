@@ -1,5 +1,3 @@
-File: docs/08-assets/chapter-1/c1-s2-ban-tho-nha-tho-ho/hitbox-incense-burner/README.md
-
 # Điểm Chạm: Lư Hương Đồng Kỳ Lân (`hitbox-incense-burner`)
 
 - **Tên tiếng Việt:** Đỉnh trầm / Lư hương đồng hình kỳ lân nhả khói

@@ -1,5 +1,3 @@
-File: docs/08-assets/prologue/README.md
-
 # Màn Mở Đầu: Tiếng Thước Chiều Thu (Prologue - Năm 2026)
 
 Thư mục này quản lý toàn bộ các tài nguyên đồ họa pixel art cần tạo cho Màn Mở Đầu của trò chơi "Cái Rương Cũ", đặt trong bối cảnh thực tại năm 2026 tại Tiệm May Nếp ở phố cổ Hà Nội.

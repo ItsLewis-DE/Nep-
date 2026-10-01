@@ -1,5 +1,3 @@
-File: docs/08-assets/chapter-3/c3-s1-tiem-may-da-kao/bg-mat-trai/README.md
-
 # Nền Tiệm May Đa Kao Mặt Trái (`bg-mat-trai`)
 
 - **Tên tiếng Việt:** Nền tiệm may cõi Lật Vải (Mặt Trái)

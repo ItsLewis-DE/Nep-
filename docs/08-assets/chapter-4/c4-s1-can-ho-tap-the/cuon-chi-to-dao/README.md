@@ -1,5 +1,3 @@
-File: docs/08-assets/chapter-4/c4-s1-can-ho-tap-the/cuon-chi-to-dao/README.md
-
 # Vật Phẩm: Cuộn Chỉ Tơ Đào (`cuon-chi-to-dao`)
 
 - **Tên tiếng Việt:** Cuộn chỉ tơ tằm màu hồng hoa đào

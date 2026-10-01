@@ -1,16 +1,14 @@
-File: docs/03-features/journey.md
-
-# Đặc Tả Tính Năng Trò Chơi Giải Đố Cái Rương Cũ (Journey)
+# Đặc Tả Tính Năng Game Cốt Truyện (Journey)
 
 ## 1. Mục đích của khu vực
 
-Cái rương cũ là phân khu trò chơi giải đố theo thể loại tương tác tĩnh (point-and-click) kết hợp visual novel ngắn. Tính năng này mang lại tính sáng tạo độc đáo cho ứng dụng, dẫn dắt người chơi vào hành trình khám phá ký ức của các thế hệ phụ nữ qua từng thời kỳ áo dài. Thông qua cơ chế tương tác và tính năng cốt lõi "Lật vải" (Fabric Flip), người chơi tự mình tháo gỡ các khúc mắc định kiến trong đời sống mà không có yếu tố kinh dị hay áp lực thời gian.
+Cốt truyện (Journey, được mở ra từ biển gỗ gắn trên cổng vòm ở giữa sân nhà, gắn liền với hành trình khám phá chiếc rương cũ trên gác xép) là phân khu trò chơi giải đố theo thể loại tương tác tĩnh (point-and-click) kết hợp visual novel ngắn. Tính năng này mang lại tính sáng tạo độc đáo cho ứng dụng, dẫn dắt người chơi vào hành trình khám phá ký ức của các thế hệ phụ nữ qua từng thời kỳ áo dài. Thông qua cơ chế tương tác và tính năng cốt lõi "Lật vải" (Fabric Flip), người chơi tự mình tháo gỡ các khúc mắc định kiến trong đời sống mà không có yếu tố kinh dị hay áp lực thời gian.
 
 ## 2. Các bước người dùng thao tác
 
-Bước 1: Người chơi chạm vào chiếc rương cũ bọc đồng ở góc sảnh tiệm may để mở giao diện trò chơi.
+Bước 1: Người chơi chạm vào biển gỗ "Cốt truyện" (hoặc cổng vòm giữa sân tiệm) để mở giao diện trò chơi.
 
-Bước 2: Xem đoạn mở đầu ngắn (có nút "Bỏ qua"). Người chơi trong vai người cháu tìm thấy cuốn sổ ghi chép may đo của bà và mở nắp rương, để lộ chiếc áo dài đầu tiên thuộc Chương 1.
+Bước 2: Xem đoạn mở đầu ngắn (có nút "Bỏ qua"). Người chơi trong vai người cháu tiếp quản tiệm may, bước lên gác xép tìm thấy cuốn sổ ghi chép may đo của bà và mở nắp chiếc rương cũ, để lộ chiếc áo dài đầu tiên thuộc Chương 1.
 
 Bước 3: Khám phá khung cảnh point-and-click:
 - Chạm vào các đồ vật trên màn hình (khung cửi, cuộn chỉ, bức thư ố vàng, chiếc kéo đồng) để thu thập vật phẩm vào thanh túi đồ (Inventory) ở đáy màn hình.
@@ -27,7 +25,7 @@ Bước 5: Vượt qua chướng ngại định kiến (Thực thể Ông Lệ):
 
 Bước 6: Thử thách phối đồ cuối chương:
 - Sau khi giải xong câu đố cốt truyện, người chơi thực hiện bài tập phối lại chiếc áo cho người phụ nữ trong chương đó theo đúng bối cảnh lịch sử.
-- Hoàn thành thử thách, người chơi nhận được chiếc áo độc quyền của chương đó vào Tủ đồ và được thưởng 100 xu.
+- Hoàn thành thử thách, người chơi nhận được chiếc áo độc quyền của chương đó vào Tủ đồ và được thưởng 100 Sen Ngọc.
 
 ## 3. Các trạng thái màn hình
 
@@ -54,5 +52,5 @@ Trò chơi point-and-click được lập trình hoàn toàn bằng logic trạn
 - Hoàn thành trọn vẹn Chương 1 của trò chơi với đầy đủ cốt truyện và câu đố.
 - Cơ chế nút bấm "Lật vải" hoạt động mượt mà, chuyển đổi qua lại giữa hai mặt cảnh vật mà không bị lỗi giao diện.
 - Hệ thống túi đồ cho phép nhặt, chọn và sử dụng ít nhất 3 vật phẩm khác nhau để giải đố.
-- Màn hình kết chương có thử thách phối đồ và mở khóa thành công mẫu áo thưởng vào Tủ đồ chính của app.
+- Màn hình kết chương có thử thách phối đồ, thưởng 100 Sen Ngọc và mở khóa thành công mẫu áo thưởng vào Tủ đồ chính của app.
 - Lưu lại tiến trình chơi vào localStorage (nếu người dùng thoát ra giữa chừng, khi quay lại vẫn tiếp tục đúng bước đang dở).

@@ -1,5 +1,3 @@
-File: docs/08-assets/prologue/c0-s2-gac-xep-chiec-ruong/README.md
-
 # Phân Cảnh: Căn Gác Xép Và Chiếc Rương Cũ (`c0-s2-gac-xep-chiec-ruong`)
 
 Căn gác xép áp mái ngói rêu phong của Tiệm May Nếp năm 2026. Nơi đây cất giữ chiếc rương gỗ lim bọc đồng của năm thế hệ phụ nữ trong gia đình. Cảnh này là nơi người chơi lần đầu tiên kích hoạt và làm quen với cơ chế tâm linh cốt lõi "Lật Vải".

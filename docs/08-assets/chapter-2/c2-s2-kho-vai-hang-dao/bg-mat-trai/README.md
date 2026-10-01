@@ -1,5 +1,3 @@
-File: docs/08-assets/chapter-2/c2-s2-kho-vai-hang-dao/bg-mat-trai/README.md
-
 # Nền Kho Vải Hàng Đào Mặt Trái (`bg-mat-trai`)
 
 - **Tên tiếng Việt:** Nền kho vải cõi Lật Vải (Mặt Trái)

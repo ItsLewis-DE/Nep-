@@ -1,5 +1,3 @@
-File: docs/08-assets/chapter-4/c4-s1-can-ho-tap-the/bg-mat-trai/README.md
-
 # Nền Căn Hộ Tập Thể Mặt Trái (`bg-mat-trai`)
 
 - **Tên tiếng Việt:** Nền căn hộ tập thể cõi Lật Vải (Mặt Trái)
