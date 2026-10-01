@@ -2,17 +2,39 @@
 
 Thư mục này chứa đặc tả hình ảnh kệ sách gỗ cổ điển, gáy các cuốn sổ tay văn hóa qua năm thời kỳ lịch sử, khung thẻ đọc tư liệu và con dấu trích dẫn chính sử cho phân khu Bảo tàng (`museum`).
 
-Màn hình áp dụng hai bố cục: **Bố cục ngang 8:5 là bố cục chính** (800×500 px, hiển thị 1600×1000 px) và **Bố cục dọc 9:16 là bố cục phụ** (320×480 px cho di động).
+Màn hình áp dụng hai bố cục: **Bố cục ngang 8:5 là bố cục chính** (800×500 px, hiển thị 1600×1000 px) và **Bố cục dọc 2:3 là bố cục phụ** (320×480 px cho di động). Giữ kích thước riêng của Museum; nhãn 9:16 trước đây không khớp với kích thước này.
 
-## Danh sách tệp cần bổ sung
+## Danh sách tệp
 
 | Tên tệp | Loại asset | Kích thước chuẩn | Trạng thái | Quy cách & Đặc tả kỹ thuật | Tài liệu tham chiếu |
 | :--- | :--- | :---: | :---: | :--- | :--- |
-| `bookshelf-view--landscape.png` | `screen-background-landscape` | 800 × 500 px | Chưa có | Nền bảo tàng kệ sách ngang toàn cảnh; gen ở 16:9, crop bố cục 8:5 về 800 × 500 px; không người, không chữ | `docs/03-features/museum.md` |
-| `bookshelf-view--portrait.png` | `screen-background-portrait` | 320 × 480 px | Chưa có | Nền kệ sách bảo tàng dọc (bố cục phụ); giữ nguyên kích thước dọc hiện có; không người, không chữ | `docs/03-features/museum.md` |
-| `card-modal--9slice.png` | `ui-frame-9slice` | 64 × 64 px | Chưa có | Khung thẻ đọc tư liệu văn hóa viền gỗ mộc giấy dó; 9-slice: góc 16px, cạnh 16px; dùng chung hai hướng (ruột nội dung do UI dựng) | `docs/03-features/museum.md` |
-| `museum-filter-bar--3slice.png` | `ui-bar-3slice` | 120 × 40 px | Chưa có | Thanh dải lọc 5 mốc thời kỳ lịch sử; 3-slice: 2 đầu 14px, thân co giãn ngang; dùng chung hai hướng | `docs/03-features/museum.md` |
-| `citation-seal.png` | `item-icon` | 32 × 32 px | Chưa có | Biểu tượng con dấu triện son xác thực nguồn trích dẫn lịch sử; dùng chung hai hướng | `docs/04-culture/bibliography.md` |
+| `bookshelf-view--landscape.png` | `screen-background-landscape` | 800 × 500 px | 🟨 nháp AI — QA kỹ thuật đạt | Nền bảo tàng kệ sách ngang; kệ 12 sổ bên trái, khoảng trống cho thẻ đọc bên phải; không người, không chữ | `docs/03-features/museum.md` |
+| `bookshelf-view--portrait.png` | `screen-background-portrait` | 320 × 480 px | 🟨 nháp AI — QA kỹ thuật đạt | Kệ 12 sổ bố cục dọc, vùng phía trên dành cho HUD/dải lọc; không người, không chữ | `docs/03-features/museum.md` |
+| `card-modal--9slice.png` | `ui-frame-9slice` | 64 × 64 px | 🟨 nháp AI — QA kỹ thuật đạt | Viền gỗ lim, mép giấy dó và sen ở góc; góc/cạnh 16px, tâm trong suốt; nền giấy và nội dung do UI dựng | `docs/03-features/museum.md` |
+| `museum-filter-bar--3slice.png` | `ui-bar-3slice` | 120 × 40 px | 🟨 nháp AI — QA kỹ thuật đạt | Dải lọc nền giấy dó, hai đầu nụ sen 14px; thân lặp ngang; nhãn thời kỳ do UI dựng | `docs/03-features/museum.md` |
+| `citation-seal.png` | `item-icon` | 32 × 32 px | 🟨 nháp AI — QA kỹ thuật đạt | Dấu son vuông với biểu tượng sen không chữ; ký hiệu UI trang trí, không sao chép ấn lịch sử | `docs/04-culture/bibliography.md` |
+
+## Bộ hình đã tạo và cách sử dụng
+
+Bộ hình được tạo ngày 01/10/2026 bằng công cụ `image_gen` tích hợp, tham chiếu phong cách của nền Studio. Nét Việt thể hiện qua khung nhà và kệ gỗ lim, mành tre, nền gạch đất nung, tường vôi, sổ đóng chỉ bọc lụa, giấy dó, gốm men lam và hoa sen. Ánh sáng ấm, bảng màu cổ kính giữ sự liên tục với các phân khu đã có.
+
+- PNG chuẩn hóa nằm ngay trong thư mục này; ảnh gốc nằm trong [`_raw/`](./_raw/).
+- Toàn bộ prompt và các quyết định xử lý đặc tả nằm trong [`_raw/generation.json`](./_raw/generation.json). Công cụ tích hợp được dùng theo bộ Main-shop/Studio hiện có, khác quy trình Google AI Studio trong tài liệu toàn cục.
+- [`Ảnh xem trước`](./_raw/preview.png) hiển thị hai nền, khung đọc kéo giãn, thanh lọc kéo dài và dấu son phóng lớn. Phần nền kem trong khung đọc ở ảnh xem trước là lớp minh họa do UI dựng, không nằm trong PNG khung.
+- [`asset-manifest.json`](./asset-manifest.json) ghi nguồn ảnh, kích thước, số màu RGBA, alpha, vùng slice và SHA-256. Nền dùng tối đa 32 màu; khung/thanh tối đa 16 màu kể cả trong suốt; dấu son tối đa 12 màu. Màu được ánh xạ vào palette dự án trong `assets/README.md`.
+- Khi hiển thị, dùng nearest-neighbor / `image-rendering: pixelated`, giữ góc và hai đầu ở kích thước nguyên. Các dải giữa đã được làm liền mạch để lặp; tâm khung đọc trong suốt.
+- 12 cuốn sổ trong nền là hình trang trí. Hitbox, tên thẻ, thời kỳ, trạng thái mở khóa/đã đọc, nội dung tư liệu, trích dẫn và nút hành động cần được UI dựng riêng. Dấu sen không thay thế việc kiểm chứng nguồn tài liệu.
+- Giữ hai ngoại lệ kích thước của đặc tả Museum: nền dọc và dấu trích dẫn. Đặc tả toàn cục hiện ghi kích thước khác cho các loại tương ứng.
+
+Chạy kiểm tra lại từ thư mục gốc dự án:
+
+```powershell
+powershell -NoProfile -ExecutionPolicy Bypass -File assets/screens/museum/_raw/prepare.ps1 -VerifyOnly
+```
+
+Bỏ `-VerifyOnly` để chuẩn hóa lại từ ảnh gốc. Nếu PNG đích đã có, cần truyền `-Overwrite` rõ ràng. Script kiểm tra đủ nguồn và tránh ghi đè mặc định.
+
+Bộ hình đã qua QA kỹ thuật và xem xét trực quan bằng AI. Trạng thái vẫn là **nháp AI**: chưa có sửa pixel thủ công và duyệt văn hóa bởi người. Chưa tích hợp vào ứng dụng; `src/App.tsx` hiện trả về `null` trên nhánh asset.
 
 ---
 
