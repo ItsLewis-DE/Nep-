@@ -30,6 +30,7 @@
 ### 4. Tỷ lệ hiển thị & Bố cục đa thiết bị (Responsive)
 - **Quyết định:** Ưu tiên tỉ lệ màn hình **NGANG 16:9** (laptop, tablet xoay ngang). Trên điện thoại dọc (mobile portrait), áp dụng bố cục chuyên biệt: ảnh nền dọc riêng, thanh HUD ghim cố định cạnh trên, các thẻ hành động hiển thị dưới dạng bottom sheet vuốt mở, tuyệt đối không co giãn méo hình từ giao diện ngang.
 - **Lý do:** Bảo toàn trọn vẹn mỹ thuật pixel art tinh xảo của bối cảnh sân nhà ngang mà vẫn giữ khả năng thao tác công thái học thuận tiện trên thiết bị di động.
+*(bổ sung bởi mục 27, 28)*
 
 ### 5. Luồng gia nhập người dùng mới (Onboarding)
 - **Quyết định:** Người dùng mới không phải bước qua màn hình onboarding tách rời; sảnh chính được mở ra ngay lập tức kèm thẻ nổi bật **"Bắt đầu câu chuyện của bạn"** với hai lựa chọn:
@@ -48,7 +49,7 @@
 - **Lý do:** Giúp chữ hiển thị sắc nét ở mọi độ phân giải, hỗ trợ dịch thuật / đa ngôn ngữ, chuẩn SEO, hỗ trợ bộ đọc màn hình và dễ dàng tinh chỉnh nội dung.
 
 ### 8. Quy chuẩn lưu trữ tài nguyên hình ảnh (Assets Management)
-- **Quyết định:** Tệp ảnh tĩnh cho game và UI sau khi sinh/tạo được lưu tại `public/assets/`. Toàn bộ mô tả thiết kế, thông số kỹ thuật và prompt tạo ảnh lưu tại `docs/08-assets/`. Xóa bỏ hoàn toàn thư mục `assets/` ở gốc dự án.
+- **Quyết định:** Tệp ảnh tĩnh cho game và UI sau khi sinh/tạo được lưu tại `public/assets/`. Toàn bộ mô tả thiết kế, thông số kỹ thuật và prompt tạo ảnh lưu tại `assets/`. Xóa bỏ hoàn toàn thư mục `assets/` ở gốc dự án.
 - **Lý do:** Chuẩn hóa cấu trúc thư mục tài nguyên theo đúng chuẩn Vite bundler và phân định rõ ràng giữa tài nguyên phân phối web và tài liệu lưu trữ prompt kỹ thuật.
 
 ### 9. Quyền riêng tư & Cơ chế nhận diện diện mạo (Privacy & Avatar Mapping)
@@ -90,4 +91,60 @@
 ### 17. Quy chuẩn tạo ảnh Lookbook trong Studio
 - **Quyết định:** Lookbook sinh 4 ảnh tương ứng với 4 góc nhìn: chính diện, nghiêng, sau lưng và cận chi tiết. Sử dụng người mẫu do AI tạo dựng, **tuyệt đối không dùng mặt người dùng**. Giao diện có thanh tiến độ thời gian thực. Ảnh nào hoàn thành trước thì hiển thị trước. Nếu quá thời gian chờ (45 giây) thì tự động chuyển sang thẻ pixel dự phòng.
 - **Lý do:** Tối ưu hóa trải nghiệm thị giác đa chiều, đảm bảo tính công thái học và giữ an toàn quyền riêng tư cá nhân.
+
+### 18. Kiểu chơi cốt truyện & tương tác thế giới
+- **Quyết định:** Giữ nguyên toàn bộ chương hồi, nhân vật, vật phẩm, câu đố từ `docs/07-game` nhưng tương tác theo thiết kế UI với cơ chế đi lại trong khu vực bằng phím, bấm E để tương tác với NPC/vật (hiểu theo hitbox trong `setup.md`), thu thập manh mối qua hội thoại vào sổ manh mối, câu đố nhiều bước có tính năng Hoàn tác/Làm lại và điều hướng qua bản đồ chương.
+- **Lý do:** Đảm bảo trải nghiệm nhập vai trực quan và nhất quán với thiết kế giao diện đồ họa mà vẫn bảo toàn trọn vẹn kịch bản văn hóa cùng chiều sâu câu đố đã định hình.
+
+### 19. Cơ chế Lật vải (Fabric Flip) & cờ tính năng
+- **Quyết định:** Cơ chế Lật vải được giữ trong core dưới cờ cấu hình `features.latVai` nhưng TẮT ở bản nộp 10/10 do UI chưa thiết kế, đồng thời hoãn sản xuất hình ảnh mặt trái sau 10/10 và chỉ cân nhắc bật lại cho vòng chung kết 03/11.
+- **Lý do:** Tránh nghẽn tiến độ hoàn thiện giao diện cho mốc nộp bài 10/10 trong khi vẫn đảm bảo mã nguồn lõi sẵn sàng kích hoạt lại mà không cần chỉnh sửa logic kiến trúc.
+
+### 20. Quy chuẩn tỷ lệ, kích thước khu vực & hệ tọa độ
+- **Quyết định:** Mỗi khu vực chuẩn hóa theo tỷ lệ 8:5, lưới logic 800×500 (hiển thị nhân đôi integer-scaling thành artboard 1600×1000), trong đó core engine chỉ nhận và xử lý tọa độ chuẩn hóa 0–1 và quy đổi ra pixel logic để tính toán khoảng cách.
+- **Lý do:** Đảm bảo tính toán logic độc lập tuyệt đối với độ phân giải màn hình hiển thị của UI mà vẫn giữ tỷ lệ pixel art sắc nét chuẩn mực.
+
+### 21. Quy tắc khoảng cách tương tác (NPC & Vật thể)
+- **Quyết định:** Tương tác phím E được kích hoạt khi khoảng cách logic từ người chơi tới NPC nằm trong bán kính mặc định 0.08 chiều rộng khu vực (tương đương 64 px logic), còn với vật thể thì dựa vào khung chữ nhật từ `setup.md` được nới rộng 0.02 mỗi phía (nếu vật không có khung sẽ áp dụng bán kính như NPC).
+- **Lý do:** Tạo vùng nhận lệnh tương tác tự nhiên, mượt mà cho người chơi khi di chuyển bằng phím mà không đòi hỏi độ chính xác tuyệt đối từng điểm ảnh.
+
+### 22. Quy chuẩn kích thước tài nguyên hình ảnh (Assets Sizing)
+- **Quyết định:** Chuẩn hóa kích thước sprite người chơi và NPC là 64×96 mỗi frame, chân dung (portrait) 128×128 (thẻ manh mối dùng bản thu nhỏ 64×64), thumbnail áo trong tủ đồ 96×96, biểu tượng vật phẩm và phụ kiện 48×48, còn biểu tượng UI 24×24 do team UI phụ trách.
+- **Lý do:** Tạo sự đồng bộ tỷ lệ mỹ thuật pixel art xuyên suốt các màn hình và phân định ranh giới trách nhiệm rõ ràng giữa chuỗi asset game và team giao diện.
+
+### 23. Cơ chế Lưu trữ tiến trình (Save Game)
+- **Quyết định:** Hệ thống áp dụng 1 slot lưu cục bộ trong `localStorage` với khóa có định danh phiên bản `"tiem-may-nep-save-v1"`, tự động lưu sau mỗi lệnh ghi vào cây game (giới hạn tối đa 200 nút lịch sử), tính năng "Chơi lại từ đầu" do UI xác nhận, xuất/nhập JSON chỉ mở ở chế độ gỡ lỗi (debug) và nếu tệp lưu bị hỏng sẽ thông báo bắt đầu mới thay vì gây treo ứng dụng.
+- **Lý do:** Bảo vệ an toàn dữ liệu chơi của người dùng, hạn chế tràn bộ nhớ trình duyệt và đảm bảo tính bền vững chịu lỗi của ứng dụng.
+
+### 24. Hệ thống Sự kiện gửi UI (UI Events)
+- **Quyết định:** Core engine phát các sự kiện một chiều tới UI gồm `clueCollected`, `itemPicked`, `puzzleSolved`, `puzzleFeedback`, `rewardGranted`, `outfitChanged`, `outfitSaved`, `areaEntered`, `stateRestored` (cùng `sideFlipped` khi bật tính năng Lật vải) với payload chỉ mang định danh (id).
+- **Lý do:** Duy trì khớp nối lỏng (loose coupling) tối đa giữa tầng logic và tầng giao diện, ngăn rò rỉ cấu trúc trạng thái phức tạp ra ngoài UI.
+
+### 25. Ranh giới trách nhiệm UI và Core Engine
+- **Quyết định:** UI chịu trách nhiệm quản lý vị trí tức thời của người chơi, camera, bắt phím, chuyển tab, cửa sổ modal và hoạt cảnh (animation); còn Core Engine giữ toàn bộ tiến trình cốt truyện, sổ manh mối, túi đồ, số dư Sen Ngọc, tủ đồ cá nhân và cây lịch sử trạng thái (cây lịch sử ẩn với người chơi và chỉ mở khi debug).
+- **Lý do:** Đảm bảo kiến trúc phân lớp trong sạch, cho phép logic game chạy độc lập, kiểm thử tự động toàn diện mà không phụ thuộc vào chu kỳ render của giao diện.
+
+### 26. Quy chuẩn phân định cấu trúc thư mục Asset
+- **Quyết định:** Tệp hình ảnh xuất ra của game được lưu tại `assets/game/<loai>/`, danh mục máy đọc lưu tại `data/asset-manifest.json`, còn toàn bộ tài liệu trong `assets/` đóng vai trò lưu trữ đặc tả thông số kỹ thuật và prompt tạo sinh.
+- **Lý do:** Tách bạch rành mạch giữa dữ liệu cấu hình máy đọc, tệp tài nguyên thực thi và tài liệu đặc tả thiết kế prompt.
+
+### 27. Bố cục chính khung ngang và bố cục phụ khung dọc (L1 - 01/10/2026)
+- **Quyết định (01/10/2026):** Khung ngang là bố cục chính, khung dọc là bố cục phụ; mọi màn hình đều có cả hai bố cục.
+- **Lý do:** Tối ưu hóa trải nghiệm thị giác điện ảnh và độ chi tiết của không gian pixel art theo tỷ lệ màn ảnh rộng mà vẫn bảo đảm tính linh hoạt công thái học trên thiết bị di động.
+
+### 28. Quy chuẩn nền màn hình ngang 8:5 và tạo sinh qua Gemini (L2 - 01/10/2026)
+- **Quyết định (01/10/2026):** Nền màn hình ngang chuẩn hóa theo tỷ lệ 8:5, lưới logic 800×500, hiển thị nhân đôi integer-scaling thành 1600×1000 (cùng lưới với khu vực game), tạo sinh bằng model AI theo tỷ lệ 16:9 rồi cắt biên hai bên về 8:5.
+- **Lý do:** Đồng bộ hóa hoàn hảo tỷ lệ hiển thị giữa các màn hình giao diện với không gian khu vực cốt truyện và khắc phục giới hạn Gemini không có tỷ lệ 8:5 trực tiếp.
+
+### 29. Quy cách đặt tên tệp nền ngang và nền dọc (L3 - 01/10/2026)
+- **Quyết định (01/10/2026):** Nền màn hình dọc giữ nguyên số hiện có; đổi tên file thành `<ten>--portrait.png`, còn bản ngang là `<ten>--landscape.png`.
+- **Lý do:** Chuẩn hóa quy cách gọi tên tệp rõ ràng, tách bạch hai biến thể bố cục cho cùng một màn hình mà không làm xáo trộn các thông số màn hình dọc đã thiết lập.
+
+### 30. Kỹ thuật 9-slice cho khung và 3-slice cho thanh (L4 - 01/10/2026)
+- **Quyết định (01/10/2026):** Khung modal, khung thẻ áp dụng kỹ thuật 9-slice; thanh HUD, thanh màu, dải chọn sự kiện áp dụng kỹ thuật 3-slice với duy nhất một file dùng cho cả hai hướng, ghi rõ kích thước góc/cạnh và không vẽ hai bản tách rời.
+- **Lý do:** Tiết kiệm tài nguyên đồ họa và bảo đảm khung viền co giãn mượt mà theo mọi tỷ lệ màn hình mà không bị méo chi tiết góc viền.
+
+### 31. Đặc tả hai bố cục trong README màn hình (L5 - 01/10/2026)
+- **Quyết định (01/10/2026):** README mỗi màn hình bắt buộc có hai đoạn "Bố cục ngang" và "Bố cục dọc" tả bằng lời vị trí các vùng (nền, nhân vật, bảng, HUD, nút chính).
+- **Lý do:** Cung cấp đặc tả giao diện trực quan, rành mạch để đội ngũ phát triển UI hiện thực hóa chính xác cả hai chế độ hiển thị mà không phụ thuộc vào diễn giải cảm tính.
 

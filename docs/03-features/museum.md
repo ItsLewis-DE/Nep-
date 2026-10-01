@@ -25,7 +25,12 @@ Bước 5: Người dùng có thể dùng thanh tìm kiếm nhanh ở đầu gia
 
 ## 3. Các trạng thái màn hình
 
-### Trạng thái bình thường
+### Bố cục ngang (chính)
+- **Cảnh nền:** Nền `bookshelf-view--landscape.png` trải rộng 800×500 px (tỷ lệ 8:5, hiển thị integer-scaling ×2 = 1600×1000 px) thể hiện không gian thư phòng khảo cứu cổ điển trang nhã, tường vôi trắng, kệ gỗ tối màu và ánh sáng dịu nhẹ.
+- **Nửa bên trái (khoảng 360–380 px):** Kệ sách gỗ cổ kính trưng bày 12 cuốn sổ tay văn hóa, phía trên có thanh dải lọc 5 mốc thời kỳ `museum-filter-bar--3slice.png` (Tất cả, 1888, 1934, 1962, 1982, 2026); các cuốn sổ tay gắn huy hiệu trạng thái đọc (Đã đọc / Mới mở khóa).
+- **Nửa bên phải (khoảng 400–420 px):** Khung thẻ đọc tư liệu `card-modal--9slice.png` mở sẵn hoặc hiển thị chi tiết cuốn sổ tay đang chọn, gồm tiêu đề cổ phục, ảnh minh họa phục dựng (128×128 px), nội dung khảo cứu, con dấu triện son `citation-seal.png` đính kèm trích dẫn chính sử, và nút "Đã hiểu (+15 Sen Ngọc)".
+
+### Bố cục dọc (phụ)
 Màn hình mô phỏng các ngăn kệ sách gỗ pixel art ấm áp. Mỗi cuốn sách có gáy màu khác nhau đại diện cho từng thời kỳ, kèm tiêu đề ngắn gọn và chỉ số tiến độ đọc (ví dụ: "Đã đọc 4/8 thẻ").
 
 ### Trạng thái đang tải (Loading)

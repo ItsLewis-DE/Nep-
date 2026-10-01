@@ -26,7 +26,18 @@ Bước 6: Thao tác nâng cao:
 
 ## 3. Các trạng thái màn hình
 
-### Trạng thái bình thường
+### Bố cục ngang (chính)
+- **Cảnh nền:** Nền `workbench-ui--landscape.png` trải rộng 800×500 px (tỷ lệ 8:5, hiển thị integer-scaling ×2 = 1600×1000 px) thể hiện không gian xưởng may Studio ấm cúng với kệ cuộn vải lụa, giá treo thước gỗ và ánh sáng tự nhiên từ cửa sổ bên.
+- **Nửa bên trái (khoảng 380 px):** Sân khấu bục đứng ma-nơ-canh Paperdoll thử đồ đặt chính giữa, hiển thị bóng chân và vòng hào quang lấp lánh khi đổi đồ, phía dưới có các nút xoay góc nhìn hoặc lật mặt vải áo.
+- **Nửa bên phải (khoảng 400 px):** Bảng điều khiển tab được bao bọc bởi khung `studio-panel-frame--9slice.png`:
+  - Hàng trên: Dải chọn sự kiện `event-selector-strip--3slice.png` (Tết, Lễ cưới, Bế giảng, Đi lễ chùa, Tang lễ, Dạo phố).
+  - Thanh tab chuyển danh mục: "Dáng áo", "Màu sắc", "Phụ kiện", "Họa tiết".
+  - Khu vực danh mục: Lưới các ô biểu tượng áo hoặc phụ kiện (icon 48×48 px).
+  - Khi chọn tab màu: Hiển thị thanh màu truyền thống `color-palette-bar--3slice.png` với các nút mẫu màu (củ nâu, chàm, điều, hoàng yến...).
+  - Dưới cùng của bảng: Cụm nút hành động chính gồm "Lưu bộ phối", "Tạo Lookbook AI" và "Mặc thử ngay".
+- **Cửa sổ Lookbook AI:** Khi bấm tạo Lookbook, khung modal `lookbook-modal--9slice.png` mở nổi căn giữa màn hình (kích thước khoảng 560×420 px), hiển thị lưới 4 ảnh AI chân thực theo 4 góc nhìn kèm thanh tiến độ 45 giây.
+
+### Bố cục dọc (phụ)
 Màn hình chia làm hai phần: nửa trên là bục đứng của nhân vật pixel phản hồi tức thì mỗi khi thay đổi trang phục, kèm chỉ số điểm màu sắc; nửa dưới là các thanh trượt theo tab (Dáng áo, Màu sắc, Phụ kiện, Sự kiện).
 
 ### Trạng thái đang tải (Loading)

@@ -1,0 +1,339 @@
+{
+  "chapter": {
+    "id": "c5",
+    "title": "Chương 5: Nếp Áo Hồi Sinh",
+    "year": 2026,
+    "historicalPeriod": "hien_dai",
+    "summary": "An và Mèo Nếp tại Tiệm May Nếp năm 2026 bóc tách hàng nhái trục lợi, hợp nhất sức mạnh 5 thế hệ phụ nữ trên sàn diễn thời trang di sản.",
+    "reward": {
+      "id": "reward-c5",
+      "chapterId": "c5",
+      "senNgoc": 200,
+      "garmentIds": ["ao-tu-than", "ao-ngu-than-remix-2026"],
+      "cardIds": ["card-viet-phuc-remix-tuong-lai", "card-tong-ket-nam-the-he-phu-nu"]
+    }
+  },
+  "areas": [
+    {
+      "id": "c5-s1-tiem-may-bao-mang",
+      "chapterId": "c5",
+      "title": "Sảnh tiệm may trong cơn bão mạng",
+      "aspect": "8:5",
+      "logicalSize": { "w": 800, "h": 500 },
+      "notes": "đo lại khi có nền 800×500",
+      "spawn": { "x": 0.15, "y": 0.50 },
+      "sides": { "phai": true, "trai": true },
+      "exits": { "attic": "c5-s2-tran-dia-chi-vang" },
+      "interactables": [
+        {
+          "id": "hitbox-cat-nep-keyboard",
+          "kind": "npc",
+          "pos": { "x": 0.49, "y": 0.74 },
+          "radius": 0.08,
+          "rect": { "x": 0.42, "y": 0.65, "w": 0.14, "h": 0.18 },
+          "side": "phai",
+          "action": { "type": "dialogue", "targetId": "d-c5-cat-audio" }
+        },
+        {
+          "id": "hitbox-livestream-screen",
+          "kind": "object",
+          "pos": { "x": 0.26, "y": 0.62 },
+          "radius": 0.08,
+          "rect": { "x": 0.15, "y": 0.48, "w": 0.22, "h": 0.28 },
+          "side": "phai",
+          "action": { "type": "dialogue", "targetId": "d-c5-livestream" }
+        },
+        {
+          "id": "hitbox-digital-workshop-scanner",
+          "kind": "object",
+          "pos": { "x": 0.78, "y": 0.68 },
+          "radius": 0.08,
+          "rect": { "x": 0.68, "y": 0.52, "w": 0.20, "h": 0.32 },
+          "side": "phai",
+          "action": { "type": "puzzle", "targetId": "p-c5-scanner-diagnose" }
+        },
+        {
+          "id": "hitbox-attic-stairway",
+          "kind": "object",
+          "pos": { "x": 0.90, "y": 0.45 },
+          "radius": 0.08,
+          "rect": { "x": 0.82, "y": 0.20, "w": 0.16, "h": 0.50 },
+          "side": "phai",
+          "action": { "type": "dialogue", "targetId": "d-c5-stairway" }
+        }
+      ]
+    },
+    {
+      "id": "c5-s2-tran-dia-chi-vang",
+      "chapterId": "c5",
+      "title": "Không gian Lật Vải toàn phần",
+      "aspect": "8:5",
+      "logicalSize": { "w": 800, "h": 500 },
+      "notes": "đo lại khi có nền 800×500",
+      "spawn": { "x": 0.50, "y": 0.50 },
+      "sides": { "phai": true, "trai": true },
+      "exits": { "catwalk": "c5-s3-doi-chat-hoi-sinh", "back": "c5-s1-tiem-may-bao-mang" },
+      "interactables": [
+        {
+          "id": "hitbox-ancestor-east",
+          "kind": "npc",
+          "pos": { "x": 0.17, "y": 0.425 },
+          "radius": 0.08,
+          "rect": { "x": 0.08, "y": 0.25, "w": 0.18, "h": 0.35 },
+          "side": "phai",
+          "action": { "type": "dialogue", "targetId": "d-c5-cam-spirit" }
+        },
+        {
+          "id": "hitbox-ancestor-south",
+          "kind": "npc",
+          "pos": { "x": 0.83, "y": 0.425 },
+          "radius": 0.08,
+          "rect": { "x": 0.74, "y": 0.25, "w": 0.18, "h": 0.35 },
+          "side": "phai",
+          "action": { "type": "dialogue", "targetId": "d-c5-loan-spirit" }
+        },
+        {
+          "id": "hitbox-ancestor-west",
+          "kind": "npc",
+          "pos": { "x": 0.19, "y": 0.775 },
+          "radius": 0.08,
+          "rect": { "x": 0.10, "y": 0.60, "w": 0.18, "h": 0.35 },
+          "side": "phai",
+          "action": { "type": "dialogue", "targetId": "d-c5-mai-spirit" }
+        },
+        {
+          "id": "hitbox-ancestor-north",
+          "kind": "npc",
+          "pos": { "x": 0.81, "y": 0.775 },
+          "radius": 0.08,
+          "rect": { "x": 0.72, "y": 0.60, "w": 0.18, "h": 0.35 },
+          "side": "phai",
+          "action": { "type": "dialogue", "targetId": "d-c5-phuong-spirit" }
+        },
+        {
+          "id": "hitbox-an-center",
+          "kind": "npc",
+          "pos": { "x": 0.50, "y": 0.575 },
+          "radius": 0.08,
+          "rect": { "x": 0.42, "y": 0.40, "w": 0.16, "h": 0.35 },
+          "side": "phai",
+          "action": { "type": "dialogue", "targetId": "d-c5-an-center" }
+        },
+        {
+          "id": "hitbox-golden-matrix",
+          "kind": "object",
+          "pos": { "x": 0.50, "y": 0.50 },
+          "radius": 0.08,
+          "rect": { "x": 0.20, "y": 0.20, "w": 0.60, "h": 0.60 },
+          "side": "phai",
+          "action": { "type": "puzzle", "targetId": "p-c5-golden-weave-matrix" }
+        }
+      ]
+    },
+    {
+      "id": "c5-s3-doi-chat-hoi-sinh",
+      "chapterId": "c5",
+      "title": "Tuần lễ thời trang di sản Hà Nội 2026",
+      "aspect": "8:5",
+      "logicalSize": { "w": 800, "h": 500 },
+      "notes": "đo lại khi có nền 800×500",
+      "spawn": { "x": 0.10, "y": 0.60 },
+      "sides": { "phai": true, "trai": true },
+      "exits": { "exit": "prologue" },
+      "interactables": [
+        {
+          "id": "hitbox-led-screen",
+          "kind": "object",
+          "pos": { "x": 0.50, "y": 0.325 },
+          "radius": 0.08,
+          "rect": { "x": 0.25, "y": 0.15, "w": 0.50, "h": 0.35 },
+          "side": "phai",
+          "action": { "type": "puzzle", "targetId": "p-c5-present-dossier" }
+        },
+        {
+          "id": "hitbox-lam-confession",
+          "kind": "npc",
+          "pos": { "x": 0.86, "y": 0.72 },
+          "radius": 0.08,
+          "rect": { "x": 0.78, "y": 0.52, "w": 0.16, "h": 0.40 },
+          "side": "phai",
+          "action": { "type": "dialogue", "targetId": "d-c5-lam-apology" }
+        },
+        {
+          "id": "hitbox-catwalk-an",
+          "kind": "object",
+          "pos": { "x": 0.50, "y": 0.70 },
+          "radius": 0.08,
+          "rect": { "x": 0.40, "y": 0.45, "w": 0.20, "h": 0.50 },
+          "side": "phai",
+          "action": { "type": "puzzle", "targetId": "p-c5-styling-an" }
+        }
+      ]
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "d-c5-cat-audio",
+      "speaker": "Băng ghi âm Bà Mai",
+      "nodes": [
+        {
+          "id": "node-1",
+          "text": "Nếp áo không sợ thời gian, nếp áo chỉ sợ lòng người quên mất gốc rễ. Hãy thấu hiểu nỗi đau để thấy sức mạnh tiền nhân."
+        }
+      ]
+    },
+    {
+      "id": "d-c5-livestream",
+      "speaker": "An",
+      "nodes": [
+        {
+          "id": "node-1",
+          "text": "Phiên livestream rao bán áo ngũ thân nhái may vải nilon rẻ tiền, cắt cúp sai lệch lịch sử để câu view!",
+          "clueId": "clue-ao-nhai-livestream"
+        }
+      ]
+    },
+    {
+      "id": "d-c5-stairway",
+      "speaker": "An",
+      "nodes": [
+        {
+          "id": "node-1",
+          "text": "Gió thu thổi bùng căn gác xép, chiếc rương gia bảo đang phát sáng triệu hồi sức mạnh 5 thế hệ."
+        }
+      ]
+    },
+    {
+      "id": "d-c5-cam-spirit",
+      "speaker": "Cụ Cầm",
+      "nodes": [
+        {
+          "id": "node-1",
+          "text": "Nếp áo Vạn Phúc của cụ gửi trao sự cần cù và tự do bất khuất!"
+        }
+      ]
+    },
+    {
+      "id": "d-c5-loan-spirit",
+      "speaker": "Cụ Loan",
+      "nodes": [
+        {
+          "id": "node-1",
+          "text": "Tà áo tân thời của cụ mang theo tri thức và lòng kiên định không khuất phục!"
+        }
+      ]
+    },
+    {
+      "id": "d-c5-mai-spirit",
+      "speaker": "Bà Mai",
+      "nodes": [
+        {
+          "id": "node-1",
+          "text": "Đường may raglan của bà là nụ cười kiêu hãnh của phụ nữ tự chủ giữa phố thị!"
+        }
+      ]
+    },
+    {
+      "id": "d-c5-phuong-spirit",
+      "speaker": "Mẹ Phương",
+      "nodes": [
+        {
+          "id": "node-1",
+          "text": "Cành hoa đào của mẹ đượm tình người và lòng thủy chung son sắt qua năm tháng khó khăn!"
+        }
+      ]
+    },
+    {
+      "id": "d-c5-an-center",
+      "speaker": "An",
+      "nodes": [
+        {
+          "id": "node-1",
+          "text": "Cháu sẽ kết nối 5 ngọn lửa tiền nhân để hồi sinh trọn vẹn tà áo Việt!"
+        }
+      ]
+    },
+    {
+      "id": "d-c5-ho-so",
+      "speaker": "An",
+      "nodes": [
+        {
+          "id": "node-1",
+          "text": "Hồ sơ giám định chỉ rõ 3 điểm sai phạm: nút bấm kim loại Tây, thiếu vạt con che chở, vải nilon dễ cháy!",
+          "clueId": "clue-ho-so-giam-dinh-2026"
+        }
+      ]
+    },
+    {
+      "id": "d-c5-lam-apology",
+      "speaker": "Hoàng Lâm",
+      "nodes": [
+        {
+          "id": "node-1",
+          "text": "Tôi xin lỗi công chúng... Tôi đã sai khi xem nhẹ chiều sâu văn hóa truyền thống của tà áo dân tộc."
+        }
+      ]
+    }
+  ],
+  "puzzles": [
+    {
+      "id": "p-c5-scanner-diagnose",
+      "type": "find",
+      "title": "Bóc tách 3 điểm sai phạm hình thái trên Xưởng may số hóa",
+      "hasSession": true,
+      "hints": [
+        "Phom áo ngũ thân có quy tắc nghiêm ngặt về khuy cài, cấu trúc vạt và chất liệu dệt.",
+        "Xác định 3 điểm sai: khuy bấm kim loại Tây phương, thiếu tà con (tiểu khang), vải nilon dễ cháy in hoa văn lai căng.",
+        "Quét đủ 3 điểm trên máy quét để xuất Hồ sơ giám định y phục 2026."
+      ],
+      "solution": {
+        "points": ["khuy_bam_kim_loai", "thieu_vat_con", "vai_nilon_lai_cang"],
+        "rewardItemId": "ho_so_giam_dinh_y_phuc_2026",
+        "dialogueTriggerId": "d-c5-ho-so"
+      }
+    },
+    {
+      "id": "p-c5-golden-weave-matrix",
+      "type": "order",
+      "title": "Dệt ma trận chỉ vàng kết nối 5 thế hệ",
+      "hasSession": true,
+      "hints": [
+        "Bốn góc phòng là 4 ngọn đuốc tinh thần tiền nhân.",
+        "Nối chỉ theo thứ tự niên đại: Cụ Cầm (1888, Đông) -> Cụ Loan (1935, Nam) -> Bà Mai (1962, Tây) -> Mẹ Phương (1982, Bắc) -> An (2026, Trung tâm).",
+        "Kéo dải chỉ từ 4 góc về chiếc thước gỗ thợ may 1888 để dệt thành tấm lưới phong ấn Ông Lệ."
+      ],
+      "solution": {
+        "sequence": ["hitbox-ancestor-east", "hitbox-ancestor-south", "hitbox-ancestor-west", "hitbox-ancestor-north", "hitbox-an-center"],
+        "unlocksAreaId": "c5-s3-doi-chat-hoi-sinh"
+      }
+    },
+    {
+      "id": "p-c5-present-dossier",
+      "type": "present",
+      "title": "Chiếu hồ sơ giám định lên màn hình LED tuần lễ thời trang",
+      "hasSession": false,
+      "hints": [
+        "Màn hình LED lớn phía sau sân khấu đang truyền hình trực tiếp cho hàng triệu khán giả.",
+        "Trình chiếu tài liệu khoa học bóc tách sự thật.",
+        "Kéo hồ sơ giám định y phục 2026 thả vào màn hình LED."
+      ],
+      "solution": { "presentedItemId": "ho_so_giam_dinh_y_phuc_2026" }
+    },
+    {
+      "id": "p-c5-styling-an",
+      "type": "styling",
+      "title": "Thử thách phối Việt phục Remix 2026 cho An",
+      "hasSession": true,
+      "hints": [
+        "Thiết kế y phục ngũ thân Remix 2026 năng động, hiện đại nhưng chuẩn mực.",
+        "Màu sắc rực rỡ đương đại phối hợp hài hòa.",
+        "Cầm chiếc thước gỗ thợ may 1888 tự hào sải bước trên sàn catwalk."
+      ],
+      "solution": {
+        "silhouette": "ngu_than_tay_chen",
+        "garmentId": "ao-ngu-than-remix-2026",
+        "handheldId": "quat-lua"
+      }
+    }
+  ]
+}

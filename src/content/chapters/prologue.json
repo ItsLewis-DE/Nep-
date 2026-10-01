@@ -1,0 +1,258 @@
+{
+  "chapter": {
+    "id": "prologue",
+    "title": "Màn Mở Đầu: Căn Gác Thu 2026",
+    "year": 2026,
+    "historicalPeriod": "hien_dai",
+    "summary": "An tiếp quản tiệm may của bà ngoại tại số nhà cổ phố Hàng Đào, khám phá chiếc rương gia bảo trên gác xép.",
+    "reward": {
+      "id": "reward-prologue",
+      "chapterId": "prologue",
+      "senNgoc": 50,
+      "itemIds": ["thuoc_go_tho_may_1888"],
+      "cardIds": ["card-tiem-may-nep-origins"]
+    }
+  },
+  "areas": [
+    {
+      "id": "c0-s1-tiem-may-chieu",
+      "chapterId": "prologue",
+      "title": "Sảnh chính Tiệm May Nếp trong nắng chiều",
+      "aspect": "8:5",
+      "logicalSize": { "w": 800, "h": 500 },
+      "notes": "đo lại khi có nền 800×500",
+      "spawn": { "x": 0.15, "y": 0.56 },
+      "sides": { "phai": true, "trai": false },
+      "exits": { "stairs": "c0-s2-gac-xep-chiec-ruong" },
+      "interactables": [
+        {
+          "id": "hitbox-cat",
+          "kind": "npc",
+          "pos": { "x": 0.79, "y": 0.77 },
+          "radius": 0.08,
+          "rect": { "x": 0.72, "y": 0.68, "w": 0.14, "h": 0.18 },
+          "side": "phai",
+          "action": { "type": "dialogue", "targetId": "d-c0-cat" }
+        },
+        {
+          "id": "hitbox-stairs",
+          "kind": "object",
+          "pos": { "x": 0.86, "y": 0.475 },
+          "radius": 0.08,
+          "rect": { "x": 0.75, "y": 0.20, "w": 0.22, "h": 0.55 },
+          "side": "phai",
+          "action": { "type": "dialogue", "targetId": "d-c0-stairs" }
+        },
+        {
+          "id": "hitbox-table",
+          "kind": "object",
+          "pos": { "x": 0.48, "y": 0.71 },
+          "radius": 0.08,
+          "rect": { "x": 0.28, "y": 0.55, "w": 0.40, "h": 0.32 },
+          "side": "phai",
+          "action": { "type": "item", "targetId": "phan_may_mau_xanh" }
+        },
+        {
+          "id": "hitbox-mirror",
+          "kind": "object",
+          "pos": { "x": 0.15, "y": 0.56 },
+          "radius": 0.08,
+          "rect": { "x": 0.06, "y": 0.30, "w": 0.18, "h": 0.52 },
+          "side": "phai",
+          "action": { "type": "dialogue", "targetId": "d-c0-mirror" }
+        }
+      ]
+    },
+    {
+      "id": "c0-s2-gac-xep-chiec-ruong",
+      "chapterId": "prologue",
+      "title": "Căn gác xép phủ bụi và chiếc rương cũ",
+      "aspect": "8:5",
+      "logicalSize": { "w": 800, "h": 500 },
+      "notes": "đo lại khi có nền 800×500",
+      "spawn": { "x": 0.10, "y": 0.60 },
+      "sides": { "phai": true, "trai": true },
+      "exits": { "back": "c0-s1-tiem-may-chieu" },
+      "interactables": [
+        {
+          "id": "hitbox-chest-cloth",
+          "kind": "object",
+          "pos": { "x": 0.50, "y": 0.61 },
+          "radius": 0.08,
+          "rect": { "x": 0.34, "y": 0.48, "w": 0.32, "h": 0.26 },
+          "side": "phai",
+          "action": { "type": "puzzle", "targetId": "p-c0-cloth" }
+        },
+        {
+          "id": "hitbox-wall-key",
+          "kind": "object",
+          "pos": { "x": 0.16, "y": 0.42 },
+          "radius": 0.08,
+          "rect": { "x": 0.12, "y": 0.35, "w": 0.08, "h": 0.14 },
+          "side": "phai",
+          "action": { "type": "dialogue", "targetId": "d-c0-wall-key" }
+        },
+        {
+          "id": "hitbox-sewing-basket",
+          "kind": "object",
+          "pos": { "x": 0.86, "y": 0.625 },
+          "radius": 0.08,
+          "rect": { "x": 0.80, "y": 0.55, "w": 0.12, "h": 0.15 },
+          "side": "phai",
+          "action": { "type": "item", "targetId": "kim_gut_bang_bac" }
+        },
+        {
+          "id": "hitbox-mannequin-hand",
+          "kind": "object",
+          "pos": { "x": 0.25, "y": 0.66 },
+          "radius": 0.08,
+          "rect": { "x": 0.20, "y": 0.60, "w": 0.10, "h": 0.12 },
+          "side": "phai",
+          "action": { "type": "puzzle", "targetId": "p-c0-mannequin-hand" }
+        },
+        {
+          "id": "hitbox-chest-lock",
+          "kind": "object",
+          "pos": { "x": 0.51, "y": 0.62 },
+          "radius": 0.08,
+          "rect": { "x": 0.46, "y": 0.56, "w": 0.10, "h": 0.12 },
+          "side": "phai",
+          "action": { "type": "puzzle", "targetId": "p-c0-chest-unlock" }
+        },
+        {
+          "id": "hitbox-sewing-hoop",
+          "kind": "object",
+          "pos": { "x": 0.88, "y": 0.695 },
+          "radius": 0.08,
+          "rect": { "x": 0.82, "y": 0.62, "w": 0.12, "h": 0.15 },
+          "side": "phai",
+          "action": { "type": "dialogue", "targetId": "d-c0-hoop" }
+        },
+        {
+          "id": "vfx-ong-le-shadow",
+          "kind": "npc",
+          "pos": { "x": 0.875, "y": 0.275 },
+          "radius": 0.08,
+          "rect": { "x": 0.80, "y": 0.15, "w": 0.15, "h": 0.25 },
+          "side": "trai",
+          "action": { "type": "dialogue", "targetId": "d-c0-ong-le-whisper" }
+        }
+      ]
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "d-c0-cat",
+      "speaker": "Mèo Nếp",
+      "nodes": [
+        {
+          "id": "node-1",
+          "text": "Mèo Nếp cọ đầu vào mắt cá chân An, kêu 'Ngoao' ngắn rồi hướng ánh mắt lên cầu thang gỗ."
+        }
+      ]
+    },
+    {
+      "id": "d-c0-stairs",
+      "speaker": "An",
+      "nodes": [
+        {
+          "id": "node-1",
+          "text": "Từng bậc gỗ lim mòn nhẵn thời gian dẫn lên gác xép, nơi bà dặn gửi gắm linh hồn nếp áo."
+        }
+      ]
+    },
+    {
+      "id": "d-c0-mirror",
+      "speaker": "An",
+      "nodes": [
+        {
+          "id": "node-1",
+          "text": "An đứng trước gương vuốt phẳng tà áo dài trắng: 'Con sẽ không để tiệm may của bà bị mai một'."
+        }
+      ]
+    },
+    {
+      "id": "d-c0-wall-key",
+      "speaker": "An",
+      "nodes": [
+        {
+          "id": "node-1",
+          "text": "Chiếc móc treo trên vách chỉ còn sợi chỉ đỏ sờn, chìa khóa không còn ở đây."
+        }
+      ]
+    },
+    {
+      "id": "d-c0-hoop",
+      "speaker": "An",
+      "nodes": [
+        {
+          "id": "node-1",
+          "text": "Khung thêu tròn để dở cạnh chồng báo cũ thập niên 1980, lưu giữ nếp kim mũi chỉ thân thương."
+        }
+      ]
+    },
+    {
+      "id": "d-c0-ong-le-whisper",
+      "speaker": "Bóng mờ Ông Lệ",
+      "nodes": [
+        {
+          "id": "node-1",
+          "text": "Mở làm gì... chuyện cũ đã chôn... lệ xưa đã định..."
+        }
+      ]
+    },
+    {
+      "id": "d-c0-ba-dan-do",
+      "speaker": "Bà Ngoại",
+      "nodes": [
+        {
+          "id": "node-1",
+          "text": "Chiếc rương này giữ năm nếp áo của năm thế hệ phụ nữ nhà ta. Mỗi chiếc áo là một vết thương đã lành, một lề thói cũ đã bị bẻ gãy.",
+          "clueId": "clue-ba-dan-do"
+        }
+      ]
+    }
+  ],
+  "puzzles": [
+    {
+      "id": "p-c0-cloth",
+      "type": "use",
+      "title": "Gỡ tấm vải bố phủ trên nắp rương",
+      "hasSession": false,
+      "hints": [
+        "Tấm vải thô màu đay che kín nắp rương gia bảo.",
+        "Gạt tấm vải sang một bên để lộ ổ khóa đồng hoa cúc.",
+        "Chạm trực tiếp vào tấm vải để gỡ xuống sàn."
+      ],
+      "solution": { "action": "interact" }
+    },
+    {
+      "id": "p-c0-mannequin-hand",
+      "type": "use",
+      "title": "Mở khớp tay tượng gỗ lấy chìa khóa",
+      "hasSession": false,
+      "hints": [
+        "Tượng gỗ thợ may ở góc phòng đang nắm chặt một vật bằng đồng sáng lấp lánh.",
+        "Các khớp ngón tay bị kẹt nếp chỉ, cần một vật nhọn kim loại để nới lỏng.",
+        "Dùng kim gút bằng bạc cắm vào khớp ngón tay để nhặt chìa khóa đồng ba chấu."
+      ],
+      "solution": { "requiredItemId": "kim_gut_bang_bac", "rewardItemId": "chia_khoa_dong_ba_chau" }
+    },
+    {
+      "id": "p-c0-chest-unlock",
+      "type": "use",
+      "title": "Tra chìa mở nắp rương gỗ lim",
+      "hasSession": false,
+      "hints": [
+        "Ổ khóa ba then cài hình hoa cúc khép cánh trên nắp rương.",
+        "Cần chiếc chìa khóa ba chấu vừa khớp với ổ hoa cúc.",
+        "Kéo chìa khóa đồng ba chấu vào ổ khóa để mở nắp rương."
+      ],
+      "solution": {
+        "requiredItemId": "chia_khoa_dong_ba_chau",
+        "rewardItemId": "thuoc_go_tho_may_1888",
+        "dialogueTriggerId": "d-c0-ba-dan-do"
+      }
+    }
+  ]
+}

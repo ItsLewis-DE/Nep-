@@ -1,0 +1,62 @@
+{
+  "generatedWith": "built-in image_gen",
+  "technicalQA": "passed",
+  "artReview": "pending human pixel cleanup and cultural review",
+  "rendering": "nearest-neighbor / image-rendering: pixelated",
+  "assets": [
+    {
+      "file": "background--landscape.png",
+      "kind": "screen-background-landscape",
+      "width": 800,
+      "height": 500,
+      "rgbaColors": 32,
+      "alpha": "opaque"
+    },
+    {
+      "file": "background--portrait.png",
+      "kind": "screen-background-portrait",
+      "width": 320,
+      "height": 480,
+      "rgbaColors": 32,
+      "alpha": "opaque"
+    },
+    {
+      "file": "ui-hud--3slice.png",
+      "kind": "ui-bar-3slice",
+      "width": 120,
+      "height": 40,
+      "rgbaColors": 6,
+      "alpha": "binary",
+      "slice": {
+        "left": 16,
+        "right": 16,
+        "repeat": "horizontal"
+      }
+    },
+    {
+      "file": "action-card-frame--9slice.png",
+      "kind": "ui-frame-9slice",
+      "width": 64,
+      "height": 64,
+      "rgbaColors": 8,
+      "alpha": "binary",
+      "slice": {
+        "top": 12,
+        "right": 12,
+        "bottom": 12,
+        "left": 12,
+        "repeat": "edges",
+        "center": "#FFF1DF"
+      }
+    },
+    {
+      "file": "door-entrance-glow.png",
+      "kind": "vfx",
+      "width": 64,
+      "height": 96,
+      "rgbaColors": 16,
+      "alpha": "transparent and partial alpha",
+      "frames": 1
+    }
+  ]
+}

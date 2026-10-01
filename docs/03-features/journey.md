@@ -15,6 +15,7 @@ Bước 3: Khám phá khung cảnh point-and-click:
 - Ghép nối hoặc sử dụng vật phẩm vào đúng vị trí để mở khóa các chi tiết tiếp theo.
 
 Bước 4: Sử dụng cơ chế "Lật vải" (Fabric Flip):
+Tắt ở bản nộp 10/10 — xem decisions.md
 - Chạm vào nút biểu tượng "Lật vải" ở góc màn hình. Khung cảnh lập tức đổi sang mặt trái của tấm vải (màu sắc đảo sang tông trầm lạnh, hiển thị các đường chỉ ràng buộc và những dòng chữ định kiến ẩn giấu).
 - Thu thập manh mối ở mặt trái tấm vải mà mặt phải không nhìn thấy được.
 - Bấm "Lật vải" lần nữa để quay lại mặt phải và dùng manh mối vừa tìm được để giải câu đố.

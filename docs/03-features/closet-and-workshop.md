@@ -28,7 +28,17 @@ Bước 3: Hiển thị kết quả:
 
 ## 3. Các trạng thái màn hình
 
-### Trạng thái bình thường
+### Bố cục ngang (chính)
+- **Phân khu Tủ đồ (`wardrobe`):**
+  - **Cảnh nền:** Nền `closet-shelf--landscape.png` trải rộng 800×500 px (tỷ lệ 8:5, hiển thị integer-scaling ×2 = 1600×1000 px) thể hiện phòng phục trang gỗ lim ấm áp và gương soi toàn thân.
+  - **Nửa bên trái (khoảng 350 px):** Bục đứng nhân vật mặc thử Paperdoll, hiển thị ngay diện mạo khi bấm chọn đồ trong tủ; phía dưới có nút "Mặc bộ này ra sảnh" và "Chuyển sang Studio tạo dáng".
+  - **Nửa bên phải (khoảng 430 px):** Bảng tủ đồ bọc trong khung `wardrobe-panel--9slice.png`, chứa thanh tab `wardrobe-tab-bar--3slice.png` ("Áo dài đã có", "Bộ phối đã lưu", "Cửa hàng phụ kiện") và lưới ô đồ `item-slot-frame.png`. Khi chuyển sang Cửa hàng, khung `coin-shop--9slice.png` hiển thị danh sách phụ kiện kèm giá Sen Ngọc.
+- **Phân khu Xưởng may (`workshop`):**
+  - **Cảnh nền:** Nền `sewing-machine--landscape.png` trải rộng 800×500 px tái hiện bàn máy may gang cổ điển kết hợp thiết bị quang học số hóa.
+  - **Nửa bên trái (khoảng 380 px):** Khung thả ảnh `upload-zone-frame--9slice.png` để tải lên ảnh áo dài thật, hiển thị hoạt ảnh tia quét laser `analysis-scan-ui.png` và thanh tiến độ `workshop-progress-bar--3slice.png`.
+  - **Nửa bên phải (khoảng 400 px):** Bảng kết quả phân tích AI hiển thị dáng áo, thời kỳ, đặc điểm nẹp/cổ áo, nút mở popup đối chiếu `differentiation-popup--9slice.png` với sườn xám/hanbok, và nút "May áo vào Tủ đồ (+50 Sen Ngọc)".
+
+### Bố cục dọc (phụ)
 Ngăn tủ đồ hiển thị dạng lưới các ô vuông pixel (mỗi ô là một trang phục hoặc phụ kiện). Góc trên cùng luôn hiển thị số Sen Ngọc hiện có.
 
 ### Trạng thái đang tải (Loading)

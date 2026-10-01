@@ -1,0 +1,308 @@
+{
+  "chapter": {
+    "id": "c3",
+    "title": "Chương 3: Đường Chỉ Xuyên Năm Tháng",
+    "year": 1962,
+    "historicalPeriod": "hien_dai",
+    "summary": "Bà Lê Thị Mai tại tiệm may Đa Kao Sài Gòn đập tan định kiến bói toán gò má cao sát phu và âm mưu ép làm vợ lẽ, mở ra tà áo raglan hiện đại.",
+    "reward": {
+      "id": "reward-c3",
+      "chapterId": "c3",
+      "senNgoc": 150,
+      "garmentIds": ["ao-dai-raglan", "ao-dai-co-thuyen"],
+      "cardIds": ["card-ky-thuat-ao-dai-raglan-1960", "card-phe-phan-hu-tuc-boi-toan"]
+    }
+  },
+  "areas": [
+    {
+      "id": "c3-s1-tiem-may-da-kao",
+      "chapterId": "c3",
+      "title": "Tiệm may Mai Sài Gòn tại Đa Kao",
+      "aspect": "8:5",
+      "logicalSize": { "w": 800, "h": 500 },
+      "notes": "đo lại khi có nền 800×500",
+      "spawn": { "x": 0.15, "y": 0.50 },
+      "sides": { "phai": true, "trai": true },
+      "exits": { "street": "c3-s2-phong-phong-thuy" },
+      "interactables": [
+        {
+          "id": "hitbox-gramophone",
+          "kind": "object",
+          "pos": { "x": 0.80, "y": 0.44 },
+          "radius": 0.08,
+          "rect": { "x": 0.74, "y": 0.35, "w": 0.12, "h": 0.18 },
+          "side": "phai",
+          "action": { "type": "dialogue", "targetId": "d-c3-gramophone" }
+        },
+        {
+          "id": "hitbox-bonsai-pot",
+          "kind": "object",
+          "pos": { "x": 0.89, "y": 0.775 },
+          "radius": 0.08,
+          "rect": { "x": 0.82, "y": 0.65, "w": 0.14, "h": 0.25 },
+          "side": "phai",
+          "action": { "type": "item", "targetId": "bua_chu_tru_yeu_1" }
+        },
+        {
+          "id": "hitbox-sewing-machine-base",
+          "kind": "object",
+          "pos": { "x": 0.31, "y": 0.725 },
+          "radius": 0.08,
+          "rect": { "x": 0.22, "y": 0.55, "w": 0.18, "h": 0.35 },
+          "side": "phai",
+          "action": { "type": "item", "targetId": "bua_chu_tru_yeu_2" }
+        },
+        {
+          "id": "hitbox-fabric-attic",
+          "kind": "object",
+          "pos": { "x": 0.225, "y": 0.26 },
+          "radius": 0.08,
+          "rect": { "x": 0.10, "y": 0.15, "w": 0.25, "h": 0.22 },
+          "side": "phai",
+          "action": { "type": "item", "targetId": "bien_nhan_tien_thay_boi" }
+        },
+        {
+          "id": "hitbox-street-exit",
+          "kind": "object",
+          "pos": { "x": 0.525, "y": 0.89 },
+          "radius": 0.08,
+          "rect": { "x": 0.45, "y": 0.80, "w": 0.15, "h": 0.18 },
+          "side": "phai",
+          "action": { "type": "dialogue", "targetId": "d-c3-street-exit" }
+        }
+      ]
+    },
+    {
+      "id": "c3-s2-phong-phong-thuy",
+      "chapterId": "c3",
+      "title": "Gian phòng phong thủy Thầy Ba Càn",
+      "aspect": "8:5",
+      "logicalSize": { "w": 800, "h": 500 },
+      "notes": "đo lại khi có nền 800×500",
+      "spawn": { "x": 0.10, "y": 0.60 },
+      "sides": { "phai": true, "trai": true },
+      "exits": { "mansion": "c3-s3-dinh-thu-doi-dau", "back": "c3-s1-tiem-may-da-kao" },
+      "interactables": [
+        {
+          "id": "hitbox-incense-bowl",
+          "kind": "object",
+          "pos": { "x": 0.33, "y": 0.555 },
+          "radius": 0.08,
+          "rect": { "x": 0.28, "y": 0.48, "w": 0.10, "h": 0.15 },
+          "side": "phai",
+          "action": { "type": "dialogue", "targetId": "d-c3-incense-smoke" }
+        },
+        {
+          "id": "hitbox-bagua-mirror",
+          "kind": "object",
+          "pos": { "x": 0.52, "y": 0.24 },
+          "radius": 0.08,
+          "rect": { "x": 0.46, "y": 0.15, "w": 0.12, "h": 0.18 },
+          "side": "phai",
+          "action": { "type": "dialogue", "targetId": "d-c3-bagua" }
+        },
+        {
+          "id": "hitbox-bagua-chest",
+          "kind": "object",
+          "pos": { "x": 0.52, "y": 0.525 },
+          "radius": 0.08,
+          "rect": { "x": 0.42, "y": 0.40, "w": 0.20, "h": 0.25 },
+          "side": "trai",
+          "action": { "type": "puzzle", "targetId": "p-c3-bagua-lock" }
+        }
+      ]
+    },
+    {
+      "id": "c3-s3-dinh-thu-doi-dau",
+      "chapterId": "c3",
+      "title": "Dinh thự Hội đồng Vĩnh",
+      "aspect": "8:5",
+      "logicalSize": { "w": 800, "h": 500 },
+      "notes": "đo lại khi có nền 800×500",
+      "spawn": { "x": 0.10, "y": 0.60 },
+      "sides": { "phai": true, "trai": true },
+      "exits": { "exit": "prologue" },
+      "interactables": [
+        {
+          "id": "hitbox-salon-table",
+          "kind": "object",
+          "pos": { "x": 0.50, "y": 0.70 },
+          "radius": 0.08,
+          "rect": { "x": 0.32, "y": 0.55, "w": 0.36, "h": 0.30 },
+          "side": "phai",
+          "action": { "type": "puzzle", "targetId": "p-c3-present-evidence" }
+        },
+        {
+          "id": "hitbox-vinh-support",
+          "kind": "npc",
+          "pos": { "x": 0.26, "y": 0.625 },
+          "radius": 0.08,
+          "rect": { "x": 0.18, "y": 0.40, "w": 0.16, "h": 0.45 },
+          "side": "phai",
+          "action": { "type": "dialogue", "targetId": "d-c3-vinh-stand" }
+        },
+        {
+          "id": "hitbox-ong-le-crystal",
+          "kind": "npc",
+          "pos": { "x": 0.525, "y": 0.255 },
+          "radius": 0.10,
+          "rect": { "x": 0.40, "y": 0.08, "w": 0.25, "h": 0.35 },
+          "side": "phai",
+          "action": { "type": "dialogue", "targetId": "d-c3-ong-le-defeat" }
+        },
+        {
+          "id": "hitbox-styling-mai",
+          "kind": "object",
+          "pos": { "x": 0.50, "y": 0.55 },
+          "radius": 0.08,
+          "rect": { "x": 0.40, "y": 0.40, "w": 0.20, "h": 0.30 },
+          "side": "phai",
+          "action": { "type": "puzzle", "targetId": "p-c3-styling-mai" }
+        }
+      ]
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "d-c3-gramophone",
+      "speaker": "Bà Mai",
+      "nodes": [
+        {
+          "id": "node-1",
+          "text": "Tiếng nhạc bolero du dương trên chiếc máy hát đĩa than, nhưng ngoài cửa tiệm rình rập những âm mưu chiếm đoạt."
+        }
+      ]
+    },
+    {
+      "id": "d-c3-street-exit",
+      "speaker": "Bà Mai",
+      "nodes": [
+        {
+          "id": "node-1",
+          "text": "Phố xá Đa Kao nhộn nhịp, mình phải đến tận sào huyệt của thầy Ba Càn tìm cho ra cuốn sổ tử vi gốc."
+        }
+      ]
+    },
+    {
+      "id": "d-c3-incense-smoke",
+      "speaker": "Bà Mai",
+      "nodes": [
+        {
+          "id": "node-1",
+          "text": "Mùi khói nhang thuốc bắc ngột ngạt bao trùm căn phòng bói toán lừa bịp."
+        }
+      ]
+    },
+    {
+      "id": "d-c3-bagua",
+      "speaker": "Bà Mai",
+      "nodes": [
+        {
+          "id": "node-1",
+          "text": "Đường may raglan ráp xéo 45 độ từ cổ xuống nách ứng với quẻ Tốn (Đông Nam) và quẻ Càn (Tây Bắc) trên gương bát quái!",
+          "clueId": "clue-bagua-hint"
+        }
+      ]
+    },
+    {
+      "id": "d-c3-mua-chuoc",
+      "speaker": "Bà Mai",
+      "nodes": [
+        {
+          "id": "node-1",
+          "text": "Tờ biên nhận 2000 đồng của bà Hội đồng thuê vu khống gò má cao sát phu!",
+          "clueId": "clue-mua-chuoc-thay-boi"
+        }
+      ]
+    },
+    {
+      "id": "d-c3-so-tu-vi",
+      "speaker": "Bà Mai",
+      "nodes": [
+        {
+          "id": "node-1",
+          "text": "Giờ sinh thật của Vinh là giờ Thìn đại cát, thầy bói đã tráo thành giờ Dần để lừa đảo.",
+          "clueId": "clue-so-tu-vi-goc"
+        }
+      ]
+    },
+    {
+      "id": "d-c3-thoa-thuan",
+      "speaker": "Bà Mai",
+      "nodes": [
+        {
+          "id": "node-1",
+          "text": "Bức thư tay thỏa thuận ép tôi làm vợ lẽ đi cửa sau để cướp trắng căn nhà tiệm may Đa Kao!",
+          "clueId": "clue-thoa-thuan-boi-toan"
+        }
+      ]
+    },
+    {
+      "id": "d-c3-vinh-stand",
+      "speaker": "Vinh",
+      "nodes": [
+        {
+          "id": "node-1",
+          "text": "Mai ơi, anh sẽ rời khỏi dinh thự này để cùng em xây dựng hạnh phúc bằng lao động chân chính!"
+        }
+      ]
+    },
+    {
+      "id": "d-c3-ong-le-defeat",
+      "speaker": "Bà Mai",
+      "nodes": [
+        {
+          "id": "node-1",
+          "text": "Gò má cao là nụ cười kiêu hãnh của phụ nữ tự chủ, không phải cái cớ để các người ép làm lẽ!"
+        }
+      ]
+    }
+  ],
+  "puzzles": [
+    {
+      "id": "p-c3-bagua-lock",
+      "type": "code",
+      "title": "Xoay ổ khóa Bát quái Càn - Tốn",
+      "hasSession": true,
+      "hints": [
+        "Ổ khóa tráp của thầy bói xoay tròn theo 8 quẻ Dịch.",
+        "Quy luật ráp tay raglan chéo 45 độ ứng với hướng Đông Nam và Tây Bắc.",
+        "Xoay hai vòng khóa về đúng hai quẻ Càn và Tốn để mở tráp."
+      ],
+      "solution": {
+        "combination": "CAN_TON",
+        "rewardItemIds": ["so_tu_vi_nguyen_ban_1962", "thu_tay_thoa_thuan_boi_toan"],
+        "dialogueTriggerIds": ["d-c3-so-tu-vi", "d-c3-thoa-thuan"]
+      }
+    },
+    {
+      "id": "p-c3-present-evidence",
+      "type": "present",
+      "title": "Vạch trần âm mưu ép làm vợ lẽ tại tiệm rượu",
+      "hasSession": false,
+      "hints": [
+        "Khách khứa và luật sư đang tề tựu tại phòng khách dinh thự.",
+        "Ném bằng chứng sổ tử vi thật và thư tay thỏa thuận lên bàn salon.",
+        "Kéo sổ tử vi gốc vào bàn salon để đập tan trò mê tín dị đoan."
+      ],
+      "solution": { "presentedItemId": "so_tu_vi_nguyen_ban_1962" }
+    },
+    {
+      "id": "p-c3-styling-mai",
+      "type": "styling",
+      "title": "Thử thách phối áo dài Sài Gòn thập niên 1960 cho Bà Mai",
+      "hasSession": true,
+      "hints": [
+        "Phom dáng áo dài tay raglan ráp xéo hoặc áo dài cổ thuyền Décolleté kiêu sa.",
+        "Màu xanh ngọc bích quý phái hoặc lụa hoa nhí tươi tắn miền nhiệt đới.",
+        "Phối kính mát mắt mèo thời thượng, guốc mộc sơn bóng quai nhung."
+      ],
+      "solution": {
+        "silhouette": "tan_thoi",
+        "garmentId": "ao-dai-raglan",
+        "jewelryId": "kinh-mat-meo",
+        "footwearId": "guoc-moc"
+      }
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+[
+  {
+    "id": "clue-ba-dan-do",
+    "chapterId": "prologue",
+    "title": "Lời dặn của Bà Ngoại",
+    "description": "Dòng chữ Nôm thêu chìm trên nắp rương: 'Mỗi chiếc áo là một vết thương đã lành, một lề thói cũ đã bị bẻ gãy'.",
+    "discoveredInDialogueId": "d-c0-ba-dan-do"
+  },
+  {
+    "id": "clue-tiet-hanh-kha-phong",
+    "chapterId": "c1",
+    "title": "Tấm biển Tiết Hạnh Khả Phong",
+    "description": "Tấm biển gỗ thếp vàng sơn son mới tinh, vỏ bọc danh dự dòng họ thực chất là chiếc lồng son giam cầm thanh xuân.",
+    "discoveredInDialogueId": "d-c1-tiet-hanh"
+  },
+  {
+    "id": "clue-thu-chong-cu-cam",
+    "chapterId": "c1",
+    "title": "Bức thư của chồng Cụ Cầm",
+    "description": "Lá thư dặn dò vợ không phải thủ tiết theo lệ làng hà khắc mà hãy tự do sống cuộc đời mình.",
+    "discoveredInDialogueId": "d-c1-thu-chong"
+  },
+  {
+    "id": "clue-van-tu-ban-dat",
+    "chapterId": "c1",
+    "title": "Văn tự gán ruộng của Trưởng tộc",
+    "description": "Bằng chứng Trưởng tộc Bùi Văn Thân đem gán 2 sào ruộng dệt bên sông Đáy của Cụ Cầm lấy tiền trả nợ đánh bạc.",
+    "discoveredInDialogueId": "d-c1-van-tu"
+  },
+  {
+    "id": "clue-ban-ve-lemur-mat-ma",
+    "chapterId": "c2",
+    "title": "Mật mã trên bản vẽ Lemur",
+    "description": "Dòng chữ chì than góc bản vẽ: 'Giao kèo bán tạ - Hòm sắt tiệm vải Hàng Đào - Chìa giấu sau đồng hồ quả lắc'.",
+    "discoveredInDialogueId": "d-c2-mat-ma"
+  },
+  {
+    "id": "clue-bien-lai-goc-1935",
+    "chapterId": "c2",
+    "title": "Biên lai trả nợ gốc năm 1935",
+    "description": "Biên lai thu tiền gốc chứng minh khoản nợ 500 đồng bạc Đông Dương đã được cha Cụ Loan trả hết từ 6 tháng trước.",
+    "discoveredInDialogueId": "d-c2-bien-lai"
+  },
+  {
+    "id": "clue-giao-keo-ep-hon",
+    "chapterId": "c2",
+    "title": "Bản giao kèo ép hôn Cụ Loan",
+    "description": "Văn bản Cả Nghị giấu kín để ép Cụ Loan làm kế thất quan Huyện hòng giành độc quyền thầu vải sợi.",
+    "discoveredInDialogueId": "d-c2-giao-keo"
+  },
+  {
+    "id": "clue-mua-chuoc-thay-boi",
+    "chapterId": "c3",
+    "title": "Biên nhận mua chuộc thầy bói",
+    "description": "Tờ biên nhận 2000 đồng của bà Hội đồng Vĩnh chi cho thầy Ba Càn ngụy tạo quẻ bói 'gò má cao sát phu'.",
+    "discoveredInDialogueId": "d-c3-mua-chuoc"
+  },
+  {
+    "id": "clue-bagua-hint",
+    "chapterId": "c3",
+    "title": "Quy luật quẻ Càn - Tốn",
+    "description": "Đường may raglan ráp xéo 45 độ từ cổ xuống nách tương ứng phương vị Đông Nam (quẻ Tốn) và Tây Bắc (quẻ Càn).",
+    "discoveredInDialogueId": "d-c3-bagua"
+  },
+  {
+    "id": "clue-so-tu-vi-goc",
+    "chapterId": "c3",
+    "title": "Lá số tử vi nguyên bản 1962",
+    "description": "Giờ sinh thật của Vinh là giờ Thìn đại cát, bị thầy bói cố ý tráo thành giờ Dần để vu khống xung sát.",
+    "discoveredInDialogueId": "d-c3-so-tu-vi"
+  },
+  {
+    "id": "clue-thoa-thuan-boi-toan",
+    "chapterId": "c3",
+    "title": "Thư tay âm mưu ép làm vợ lẽ",
+    "description": "Thư tay hé lộ âm mưu ép Bà Mai đi cửa sau làm vợ lẽ để nhà họ Vĩnh thâu tóm tiệm may mặt tiền Đa Kao.",
+    "discoveredInDialogueId": "d-c3-thoa-thuan"
+  },
+  {
+    "id": "clue-ao-cuoi-vai-phin",
+    "chapterId": "c4",
+    "title": "Ý nghĩa nếp áo cưới vải phin",
+    "description": "Chiếc áo cưới may từ vải phin tem phiếu tích lũy 3 năm lao động tiên tiến của cô công nhân dệt Nam Định.",
+    "discoveredInDialogueId": "d-c4-ao-cuoi"
+  },
+  {
+    "id": "clue-nam-1845",
+    "chapterId": "c4",
+    "title": "Niên đại khắc trên xà nóc 1845",
+    "description": "Dòng chữ Hán 'Ất Tỵ niên chế - 1845' khắc trên xà nóc nhà từ đường, là mật mã mở chiếc tráp gia phả.",
+    "discoveredInDialogueId": "d-c4-nam-1845"
+  },
+  {
+    "id": "clue-cong-duc-cu-loan-ba-mai",
+    "chapterId": "c4",
+    "title": "Công đức của phụ nữ họ Nguyễn",
+    "description": "Trang gia phả Nôm ghi Cụ Loan dốc vàng cứu đói năm 1945 và Bà Mai phụng dưỡng từ đường qua chiến tranh.",
+    "discoveredInDialogueId": "d-c4-cong-duc"
+  },
+  {
+    "id": "clue-ao-nhai-livestream",
+    "chapterId": "c5",
+    "title": "Thủ đoạn của Cổ Phục Siêu Rẻ",
+    "description": "Áo ngũ thân nhái may vải nilon rẻ tiền, cắt cúp sai lệch lịch sử để trục lợi và miệt thị truyền thống.",
+    "discoveredInDialogueId": "d-c5-livestream"
+  },
+  {
+    "id": "clue-ho-so-giam-dinh-2026",
+    "chapterId": "c5",
+    "title": "Bằng chứng giám định 2026",
+    "description": "Hồ sơ bóc tách 3 lỗi nghiêm trọng: nút bấm kim loại Tây, thiếu vạt con che chở, vải nilon dễ cháy in hoa văn lai căng.",
+    "discoveredInDialogueId": "d-c5-ho-so"
+  }
+]

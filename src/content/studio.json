@@ -1,0 +1,250 @@
+{
+  "garments": [
+    {
+      "id": "ao-tu-than",
+      "name": "Áo tứ thân",
+      "silhouette": "tu_than",
+      "historicalPeriod": "thoi_nguyen",
+      "defaultColorPalette": ["#C4A482", "#8B5A2B", "#5C3A21", "#2C1608"],
+      "supportedEvents": ["dao_pho", "le_chua", "tet"],
+      "culturalSummary": "Áo tứ thân truyền thống chất liệu vải thô nhuộm củ nâu hoặc mớ ba mớ bảy, gắn liền với hình ảnh người phụ nữ lao động và trẩy hội Bắc Bộ.",
+      "spriteBasePath": "assets/game/garments/ao-tu-than"
+    },
+    {
+      "id": "ao-ngu-than-tay-chen",
+      "name": "Áo ngũ thân tay chẽn",
+      "silhouette": "ngu_than_tay_chen",
+      "historicalPeriod": "thoi_nguyen",
+      "defaultColorPalette": ["#E6A1B0", "#C25975", "#802D45", "#3A0D1B"],
+      "supportedEvents": ["tet", "dam_cuoi", "be_giang", "dao_pho", "le_chua"],
+      "culturalSummary": "Áo ngũ thân lập lĩnh tay chẽn kín đáo, năm thân áo tượng trưng cho tứ thân phụ mẫu và bản thân người mặc.",
+      "spriteBasePath": "assets/game/garments/ao-ngu-than-tay-chen"
+    },
+    {
+      "id": "ao-ngu-than-tay-thung",
+      "name": "Áo tấc tay thụng",
+      "silhouette": "ngu_than_tay_thung",
+      "historicalPeriod": "thoi_nguyen",
+      "defaultColorPalette": ["#E8C547", "#C49B18", "#7D620A", "#382B02"],
+      "supportedEvents": ["dam_cuoi", "le_chua", "tet", "vieng_tang"],
+      "culturalSummary": "Lễ phục tay thụng rộng uy nghiêm triều Nguyễn, chuyên dùng cho các nghi lễ trang trọng, tế tự và hôn lễ.",
+      "spriteBasePath": "assets/game/garments/ao-ngu-than-tay-thung"
+    },
+    {
+      "id": "ao-dai-lemur",
+      "name": "Áo dài Lemur 1934",
+      "silhouette": "tan_thoi",
+      "historicalPeriod": "nam_1934",
+      "defaultColorPalette": ["#FFCCD5", "#FB6F92", "#C9365F", "#5E0E27"],
+      "supportedEvents": ["dao_pho"],
+      "culturalSummary": "Thiết kế cách tân nổi tiếng của họa sĩ Cát Tường đăng báo Phong Hóa năm 1934, nổi bật với cổ lá sen và vai bồng.",
+      "spriteBasePath": "assets/game/garments/ao-dai-lemur"
+    },
+    {
+      "id": "ao-dai-tan-thoi-vang-mo-ga",
+      "name": "Áo dài tân thời cổ đứng",
+      "silhouette": "tan_thoi",
+      "historicalPeriod": "nam_1934",
+      "defaultColorPalette": ["#FFF3B0", "#E9D8A6", "#9B8342", "#3D3315"],
+      "supportedEvents": ["be_giang", "dao_pho", "dam_cuoi"],
+      "culturalSummary": "Áo dài tân thời cổ đứng không vai bồng giai đoạn sau Lemur cuối thập niên 1930, tiền thân của áo dài truyền thống hôm nay.",
+      "spriteBasePath": "assets/game/garments/ao-dai-tan-thoi-vang-mo-ga"
+    },
+    {
+      "id": "ao-dai-raglan",
+      "name": "Áo dài tay raglan 1960",
+      "silhouette": "tan_thoi",
+      "historicalPeriod": "hien_dai",
+      "defaultColorPalette": ["#A8DADC", "#457B9D", "#1D3557", "#0D1B2A"],
+      "supportedEvents": ["dao_pho", "be_giang", "tet"],
+      "culturalSummary": "Sáng kiến ráp tay raglan của tiệm may Dung Đakao Sài Gòn thập niên 1960, giải phóng hoàn toàn nếp nhăn nách áo.",
+      "spriteBasePath": "assets/game/garments/ao-dai-raglan"
+    },
+    {
+      "id": "ao-dai-co-thuyen",
+      "name": "Áo dài cổ thuyền",
+      "silhouette": "tan_thoi",
+      "historicalPeriod": "hien_dai",
+      "defaultColorPalette": ["#90E0EF", "#00B4D8", "#0077B6", "#03045E"],
+      "supportedEvents": ["dao_pho", "dam_cuoi"],
+      "culturalSummary": "Áo dài cổ thuyền Décolleté khoét rộng thanh thoát, tôn vinh chiếc cổ cao và bờ vai thanh tú của người phụ nữ tự do.",
+      "spriteBasePath": "assets/game/garments/ao-dai-co-thuyen"
+    },
+    {
+      "id": "ao-dai-cuoi-phin",
+      "name": "Áo dài cưới vải phin 1982",
+      "silhouette": "tan_thoi",
+      "historicalPeriod": "hien_dai",
+      "defaultColorPalette": ["#FFFFFF", "#F0EFEB", "#D6CCC2", "#8D8175"],
+      "supportedEvents": ["dam_cuoi"],
+      "culturalSummary": "Chiếc áo cưới giản dị thời bao cấp dệt Nam Định, thêu cành hoa đào nhỏ, biểu trưng cho tình yêu thủy chung son sắt.",
+      "spriteBasePath": "assets/game/garments/ao-dai-cuoi-phin"
+    },
+    {
+      "id": "ao-dai-popolin",
+      "name": "Áo dài popolin hoa cúc",
+      "silhouette": "tan_thoi",
+      "historicalPeriod": "hien_dai",
+      "defaultColorPalette": ["#E9EDC9", "#CCD5AE", "#D4A373", "#606C38"],
+      "supportedEvents": ["be_giang", "dao_pho"],
+      "culturalSummary": "Mẫu áo dài họa tiết hoa cúc dại nền nã may từ vải pô-pơ-lin công nghiệp dệt Nam Định thập niên 1980.",
+      "spriteBasePath": "assets/game/garments/ao-dai-popolin"
+    },
+    {
+      "id": "ao-ngu-than-remix-2026",
+      "name": "Áo ngũ thân Remix 2026",
+      "silhouette": "ngu_than_tay_chen",
+      "historicalPeriod": "hien_dai",
+      "defaultColorPalette": ["#FFD166", "#EF476F", "#06D6A0", "#118AB2"],
+      "supportedEvents": ["tet", "dao_pho", "be_giang", "dam_cuoi"],
+      "culturalSummary": "Thiết kế độc quyền của An kết hợp phom dáng ngũ thân tay chẽn chuẩn mực với tinh thần năng động hiện đại.",
+      "spriteBasePath": "assets/game/garments/ao-ngu-than-remix-2026"
+    }
+  ],
+  "accessories": [
+    {
+      "id": "khan-van-den",
+      "name": "Khăn vấn nhung đen",
+      "category": "headwear",
+      "senNgocPrice": 0,
+      "culturalNote": "Khăn vấn đen đội trùm quanh trán, giữ nếp tóc gọn gàng chuẩn mực phụ nữ truyền thống.",
+      "genderCompatibility": "female"
+    },
+    {
+      "id": "khan-van-hoang-yen",
+      "name": "Khăn vấn hoàng yến",
+      "category": "headwear",
+      "senNgocPrice": 25,
+      "culturalNote": "Khăn vấn vàng hoàng yến sang trọng, tôn nét đài các trong lễ tiết cổ truyền.",
+      "genderCompatibility": "female"
+    },
+    {
+      "id": "khan-mo-qua",
+      "name": "Khăn mỏ quạ",
+      "category": "headwear",
+      "senNgocPrice": 15,
+      "culturalNote": "Khăn vuông the thâm gấp chéo hình mỏ quạ đặc trưng của phụ nữ Kinh Bắc khi mặc áo tứ thân.",
+      "genderCompatibility": "female"
+    },
+    {
+      "id": "non-quai-thao",
+      "name": "Nón ba tầm quai thao",
+      "category": "headwear",
+      "senNgocPrice": 30,
+      "culturalNote": "Nón tròn rộng vành dệt lá cọ trắng bóng, quai thao bằng tơ tằm buông rủ ngang ngực.",
+      "genderCompatibility": "female"
+    },
+    {
+      "id": "non-la",
+      "name": "Nón lá chóp nhọn",
+      "category": "headwear",
+      "senNgocPrice": 10,
+      "culturalNote": "Nón lá truyền thống che mưa che nắng, biểu tượng thân thương của người phụ nữ Việt Nam.",
+      "genderCompatibility": "unisex"
+    },
+    {
+      "id": "guoc-moc",
+      "name": "Guốc mộc quai nhung",
+      "category": "footwear",
+      "senNgocPrice": 0,
+      "culturalNote": "Guốc mộc tiện bằng gỗ mỡ nhẹ, gót thanh thoát tạo âm thanh lốc cốc vui tai.",
+      "genderCompatibility": "unisex"
+    },
+    {
+      "id": "hai-theu",
+      "name": "Hài thêu hoa sen",
+      "category": "footwear",
+      "senNgocPrice": 35,
+      "culturalNote": "Đôi hài mũi cong thêu hoa sen chỉ ngũ sắc, lễ phục trang nhã trong ngày cưới.",
+      "genderCompatibility": "female"
+    },
+    {
+      "id": "kieng-bac",
+      "name": "Kiềng bạc chạm hoa",
+      "category": "jewelry",
+      "senNgocPrice": 35,
+      "culturalNote": "Kiềng bạc nguyên chất chạm khắc hoa lá cổ truyền, điểm xuyết thanh tao cho cổ áo ngũ thân.",
+      "genderCompatibility": "female"
+    },
+    {
+      "id": "kinh-mat-meo",
+      "name": "Kính mắt mèo thời thượng",
+      "category": "jewelry",
+      "senNgocPrice": 20,
+      "culturalNote": "Kính râm gọng mắt mèo thập niên 1960 Sài Gòn, tôn nét cá tính hiện đại.",
+      "genderCompatibility": "female"
+    },
+    {
+      "id": "quat-lua",
+      "name": "Quạt lụa thêu hoa",
+      "category": "handheld",
+      "senNgocPrice": 20,
+      "culturalNote": "Quạt lụa tròn thanh thoát thêu hoa mai cúc trúc, phụ kiện duyên dáng khi dạo phố.",
+      "genderCompatibility": "female"
+    }
+  ],
+  "motifs": [
+    {
+      "id": "motif-hoa-cuc-day",
+      "name": "Hoa cúc dây",
+      "category": "botanical",
+      "culturalSummary": "Họa tiết hoa cúc dây triều Nguyễn tượng trưng cho sự trường thọ, thanh cao và nếp nhà bình an."
+    },
+    {
+      "id": "motif-chim-phuong-von-may",
+      "name": "Phượng vờn mây",
+      "category": "mythological",
+      "culturalSummary": "Họa tiết phượng hoàng uốn lượn giữa mây trời, biểu trưng cho đức hạnh và vẻ đẹp tôn quý của người phụ nữ."
+    },
+    {
+      "id": "motif-hoa-sen-lien-hoa",
+      "name": "Hoa sen liên hoa",
+      "category": "botanical",
+      "culturalSummary": "Biểu tượng của sự tinh khiết, thanh cao 'gần bùn mà chẳng hôi tanh mùi bùn'."
+    }
+  ],
+  "events": [
+    {
+      "id": "tet",
+      "title": "Chúc Tết Đầu Xuân",
+      "recommendedSilhouettes": ["ngu_than_tay_chen", "ngu_than_tay_thung", "tan_thoi", "tu_than"],
+      "prohibitedColorTones": ["#000000", "#FFFFFF"],
+      "weatherPresets": ["Mưa xuân se lạnh", "Nắng ấm đầu năm"]
+    },
+    {
+      "id": "dam_cuoi",
+      "title": "Hôn Lễ Trang Trọng",
+      "recommendedSilhouettes": ["ngu_than_tay_thung", "ngu_than_tay_chen", "tan_thoi"],
+      "prohibitedColorTones": ["#000000", "#555555"],
+      "weatherPresets": ["Nắng thu rực rỡ"]
+    },
+    {
+      "id": "be_giang",
+      "title": "Lễ Bế Giảng Trường Học",
+      "recommendedSilhouettes": ["tan_thoi", "ngu_than_tay_chen"],
+      "prohibitedColorTones": ["#D62828", "#800000"],
+      "weatherPresets": ["Nắng hè chói chang"]
+    },
+    {
+      "id": "le_chua",
+      "title": "Đi Lễ Chùa Thanh Tịnh",
+      "recommendedSilhouettes": ["tu_than", "ngu_than_tay_chen", "ngu_than_tay_thung"],
+      "prohibitedColorTones": ["#FF0055", "#E63946"],
+      "weatherPresets": ["Khói hương trầm mặc"]
+    },
+    {
+      "id": "vieng_tang",
+      "title": "Viếng Tang Trang Nghiêm",
+      "recommendedSilhouettes": ["ngu_than_tay_thung", "ngu_than_tay_chen"],
+      "prohibitedColorTones": ["#D62828", "#FFB703", "#FB6F92"],
+      "weatherPresets": ["U trầm se lạnh"]
+    },
+    {
+      "id": "dao_pho",
+      "title": "Dạo Phố Cuối Tuần",
+      "recommendedSilhouettes": ["tu_than", "ngu_than_tay_chen", "tan_thoi"],
+      "prohibitedColorTones": [],
+      "weatherPresets": ["Gió mát chiều thu"]
+    }
+  ]
+}
