@@ -1,19 +1,38 @@
 # Giao Diện Bàn May Studio (assets/screens/studio)
 
-Thư mục này chứa đặc tả hình ảnh nền bàn may xưởng may Studio cổ phong, khung điều khiển phối đồ, thước đo màu sắc truyền thống, dải chọn sự kiện và cửa sổ Lookbook AI.
+Thư mục này chứa hình ảnh nền phòng phối đồ Studio cổ phong, khung điều khiển phối đồ, thanh màu truyền thống, dải chọn sự kiện và khung cửa sổ Lookbook AI.
 
-Màn hình áp dụng hai bố cục: **Bố cục ngang 8:5 là bố cục chính** (800×500 px, hiển thị 1600×1000 px) và **Bố cục dọc 9:16 là bố cục phụ** (320×480 px cho di động).
+Màn hình áp dụng hai bố cục: **Bố cục ngang 8:5 là bố cục chính** (800×500 px, hiển thị 1600×1000 px) và **Bố cục dọc 2:3 là bố cục phụ** (320×480 px cho di động). Giữ kích thước dọc riêng của Studio; nhãn 9:16 trước đây không khớp với 320×480.
 
-## Danh sách tệp cần bổ sung
+## Danh sách tệp
 
 | Tên tệp | Loại asset | Kích thước chuẩn | Trạng thái | Quy cách & Đặc tả kỹ thuật | Tài liệu tham chiếu |
 | :--- | :--- | :---: | :---: | :--- | :--- |
-| `workbench-ui--landscape.png` | `screen-background-landscape` | 800 × 500 px | Chưa có | Nền phòng may Studio ngang; gen 16:9 crop 8:5 về 800 × 500 px; chừa trống bục đứng trái và bảng phải; không người, không chữ | `docs/03-features/studio.md` |
-| `workbench-ui--portrait.png` | `screen-background-portrait` | 320 × 480 px | Chưa có | Nền bàn may Studio dọc (bố cục phụ); giữ nguyên kích thước dọc hiện có; không người, không chữ | `docs/03-features/studio.md` |
-| `lookbook-modal--9slice.png` | `ui-frame-9slice` | 64 × 64 px | Chưa có | Khung cửa sổ hiển thị Lookbook 4 ảnh AI; 9-slice: góc 16px, cạnh 16px; dùng chung hai hướng (ruột ảnh và thanh tiến độ do UI dựng) | `docs/03-features/studio.md` |
-| `studio-panel-frame--9slice.png` | `ui-frame-9slice` | 48 × 48 px | Chưa có | Khung viền bọc bảng điều khiển tab; 9-slice: góc 10px, cạnh 10px; dùng chung hai hướng | `docs/03-features/studio.md` |
-| `color-palette-bar--3slice.png` | `ui-bar-3slice` | 120 × 48 px | Chưa có | Thanh dải màu truyền thống; 3-slice: 2 đầu cố định 16px, thân giữa co giãn ngang; dùng chung hai hướng | `docs/03-features/studio.md` |
-| `event-selector-strip--3slice.png` | `ui-bar-3slice` | 120 × 40 px | Chưa có | Dải chọn sự kiện/bối cảnh (Dạo phố, Lễ cưới, Đi hội...); 3-slice: 2 đầu 14px, thân co giãn; dùng chung hai hướng | `docs/03-features/studio.md` |
+| `workbench-ui--landscape.png` | `screen-background-landscape` | 800 × 500 px | 🟨 nháp AI — QA kỹ thuật đạt | Nền phòng phối đồ ngang; chuẩn hóa crop 8:5 về 800 × 500 px; chừa trống bục đứng trái và bảng phải; không người, không chữ | `docs/03-features/studio.md` |
+| `workbench-ui--portrait.png` | `screen-background-portrait` | 320 × 480 px | 🟨 nháp AI — QA kỹ thuật đạt | Nền phòng phối đồ dọc; bục đứng trong vùng trên, chừa phần dưới cho bottom sheet; không người, không chữ | `docs/03-features/studio.md` |
+| `lookbook-modal--9slice.png` | `ui-frame-9slice` | 64 × 64 px | 🟨 nháp AI — QA kỹ thuật đạt | Khung gỗ chạm hoa sen cho Lookbook 4 ảnh AI; góc/cạnh 16px; tâm trong suốt; ruột ảnh và tiến độ do UI dựng | `docs/03-features/studio.md` |
+| `studio-panel-frame--9slice.png` | `ui-frame-9slice` | 48 × 48 px | 🟨 nháp AI — QA kỹ thuật đạt | Khung bảng điều khiển, nụ sen và nét dệt lụa; góc/cạnh 10px; tâm trong suốt | `docs/03-features/studio.md` |
+| `color-palette-bar--3slice.png` | `ui-bar-3slice` | 120 × 48 px | 🟨 nháp AI — QA kỹ thuật đạt | Thanh chọn màu, hai đầu chạm sen và cuộn chỉ; đầu cố định 16px, thân nền kem lặp ngang; mẫu màu do UI dựng | `docs/03-features/studio.md` |
+| `event-selector-strip--3slice.png` | `ui-bar-3slice` | 120 × 40 px | 🟨 nháp AI — QA kỹ thuật đạt | Dải chọn sự kiện, hai đầu nụ sen trên nền chàm; đầu cố định 14px, thân nền kem lặp ngang; nhãn sự kiện do UI dựng | `docs/03-features/studio.md` |
+
+## Bộ hình đã tạo và cách sử dụng
+
+Bộ hình được tạo ngày 01/10/2026 bằng công cụ `image_gen` tích hợp. Nét Việt thể hiện qua khung nhà gỗ lim, mành tre, nền gạch đất nung, gốm men lam, hoa sen, kệ lụa màu chàm/đỏ điều/hoàng yến và dụng cụ may bằng gỗ, đồng. Hoa văn tập trung ở góc khung và hai đầu thanh để không méo khi co giãn. Không vẽ người, chữ hoặc nút điều khiển vào ảnh nền.
+
+- PNG chuẩn hóa nằm ngay trong thư mục này. Ảnh gốc và các lần chỉnh bố cục nằm trong `_raw/`; prompt đầy đủ ở `_raw/generation.json` và `portrait-layout-edit*.json`. Nền dọc dùng bản `workbench-ui--portrait-v3.png` để bục đứng nằm gọn trong vùng trên khoảng 45% chiều cao.
+- Xem toàn bộ bộ hình cùng khung được kéo giãn trong `_raw/preview.png`.
+- Thông số tích hợp, slice, số màu và SHA-256 nằm trong `asset-manifest.json`.
+- Nền giới hạn 32 màu; khung/thanh tối đa 16 màu RGBA, alpha chỉ 0 hoặc 255. Các cạnh lặp đã được làm phẳng, tâm hai khung để trong suốt.
+- Khi render, dùng nearest-neighbor / `image-rendering: pixelated` và giữ góc/hai đầu nguyên kích thước. Màu mẫu, chữ, tab, ảnh Lookbook và thanh tiến độ được vẽ bằng UI phía trên.
+- Bộ hình đã qua kiểm tra kỹ thuật và xem xét trực quan bằng AI. Trạng thái vẫn là **nháp AI**: chưa sửa pixel thủ công, chưa có duyệt văn hóa bởi người và chưa tích hợp vào app (`src/App.tsx` hiện trả về `null`).
+
+Chạy lại kiểm tra và dựng ảnh xem trước từ thư mục gốc dự án:
+
+```powershell
+powershell -NoProfile -ExecutionPolicy Bypass -File assets/screens/studio/_raw/prepare.ps1 -VerifyOnly
+```
+
+Để chuẩn hóa lại từ ảnh gốc, bỏ `-VerifyOnly`; nếu PNG đích đã tồn tại, cần truyền `-Overwrite` rõ ràng. Script kiểm tra đủ nguồn trước khi ghi.
 
 ---
 
