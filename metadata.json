@@ -1,6 +1,6 @@
 {
-  "name": "Tiệm May Nếp",
-  "description": "Ứng dụng khám phá và phối trang phục truyền thống Việt Nam",
+  "name": "Remix Tiem May Nep",
+  "description": "Imported from GitHub",
   "requestFramePermissions": [],
   "majorCapabilities": [
     "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"

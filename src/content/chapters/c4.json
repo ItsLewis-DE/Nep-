@@ -1,0 +1,298 @@
+{
+  "chapter": {
+    "id": "c4",
+    "title": "Chương 4: Tấm Lụa Đáy Rương",
+    "year": 1982,
+    "historicalPeriod": "hien_dai",
+    "summary": "Cô Nguyễn Mai Phương tại thành phố dệt Nam Định thời bao cấp đấu tranh chống định kiến trọng nam khinh nữ, bảo vệ tên tuổi phụ nữ trong gia phả dòng họ.",
+    "reward": {
+      "id": "reward-c4",
+      "chapterId": "c4",
+      "senNgoc": 150,
+      "garmentIds": ["ao-dai-cuoi-phin", "ao-dai-popolin"],
+      "cardIds": ["card-ao-dai-thoi-bao-cap-1980", "card-phe-phan-trong-nam-khinh-nu"]
+    }
+  },
+  "areas": [
+    {
+      "id": "c4-s1-can-ho-tap-the",
+      "chapterId": "c4",
+      "title": "Căn hộ tập thể dệt Nam Định",
+      "aspect": "8:5",
+      "logicalSize": { "w": 800, "h": 500 },
+      "notes": "đo lại khi có nền 800×500",
+      "spawn": { "x": 0.15, "y": 0.50 },
+      "sides": { "phai": true, "trai": true },
+      "exits": { "door": "c4-s2-tu-duong-ho-nguyen" },
+      "interactables": [
+        {
+          "id": "hitbox-cassette-player",
+          "kind": "object",
+          "pos": { "x": 0.525, "y": 0.50 },
+          "radius": 0.08,
+          "rect": { "x": 0.45, "y": 0.40, "w": 0.15, "h": 0.20 },
+          "side": "phai",
+          "action": { "type": "item", "targetId": "nam_cham_loa_dai" }
+        },
+        {
+          "id": "hitbox-floor-crack",
+          "kind": "object",
+          "pos": { "x": 0.41, "y": 0.825 },
+          "radius": 0.08,
+          "rect": { "x": 0.35, "y": 0.75, "w": 0.12, "h": 0.15 },
+          "side": "phai",
+          "action": { "type": "puzzle", "targetId": "p-c4-magnet-needle" }
+        },
+        {
+          "id": "hitbox-yarn-basket",
+          "kind": "object",
+          "pos": { "x": 0.86, "y": 0.745 },
+          "radius": 0.08,
+          "rect": { "x": 0.78, "y": 0.62, "w": 0.16, "h": 0.25 },
+          "side": "phai",
+          "action": { "type": "item", "targetId": "cuon_chi_to_dao" }
+        },
+        {
+          "id": "hitbox-phin-fabric",
+          "kind": "object",
+          "pos": { "x": 0.25, "y": 0.66 },
+          "radius": 0.08,
+          "rect": { "x": 0.12, "y": 0.50, "w": 0.26, "h": 0.32 },
+          "side": "phai",
+          "action": { "type": "puzzle", "targetId": "p-c4-embroider-flower" }
+        }
+      ]
+    },
+    {
+      "id": "c4-s2-tu-duong-ho-nguyen",
+      "chapterId": "c4",
+      "title": "Gian nhà từ đường họ Nguyễn",
+      "aspect": "8:5",
+      "logicalSize": { "w": 800, "h": 500 },
+      "notes": "đo lại khi có nền 800×500",
+      "spawn": { "x": 0.10, "y": 0.60 },
+      "sides": { "phai": true, "trai": true },
+      "exits": { "courtyard": "c4-s3-san-tu-duong-doi-dau", "back": "c4-s1-can-ho-tap-the" },
+      "interactables": [
+        {
+          "id": "hitbox-roof-beam",
+          "kind": "object",
+          "pos": { "x": 0.50, "y": 0.155 },
+          "radius": 0.08,
+          "rect": { "x": 0.20, "y": 0.08, "w": 0.60, "h": 0.15 },
+          "side": "phai",
+          "action": { "type": "dialogue", "targetId": "d-c4-nam-1845" }
+        },
+        {
+          "id": "hitbox-altar-incense",
+          "kind": "object",
+          "pos": { "x": 0.50, "y": 0.34 },
+          "radius": 0.08,
+          "rect": { "x": 0.46, "y": 0.28, "w": 0.08, "h": 0.12 },
+          "side": "phai",
+          "action": { "type": "dialogue", "targetId": "d-c4-altar-incense" }
+        },
+        {
+          "id": "hitbox-pedestal-chest",
+          "kind": "object",
+          "pos": { "x": 0.53, "y": 0.575 },
+          "radius": 0.08,
+          "rect": { "x": 0.42, "y": 0.45, "w": 0.22, "h": 0.25 },
+          "side": "trai",
+          "action": { "type": "puzzle", "targetId": "p-c4-chest-code-1845" }
+        }
+      ]
+    },
+    {
+      "id": "c4-s3-san-tu-duong-doi-dau",
+      "chapterId": "c4",
+      "title": "Sân nhà từ đường họ Nguyễn",
+      "aspect": "8:5",
+      "logicalSize": { "w": 800, "h": 500 },
+      "notes": "đo lại khi có nền 800×500",
+      "spawn": { "x": 0.10, "y": 0.60 },
+      "sides": { "phai": true, "trai": true },
+      "exits": { "exit": "prologue" },
+      "interactables": [
+        {
+          "id": "hitbox-uncle-suu",
+          "kind": "npc",
+          "pos": { "x": 0.78, "y": 0.51 },
+          "radius": 0.08,
+          "rect": { "x": 0.68, "y": 0.32, "w": 0.20, "h": 0.38 },
+          "side": "phai",
+          "action": { "type": "dialogue", "targetId": "d-c4-uncle-suu" }
+        },
+        {
+          "id": "hitbox-ancestral-stone-step",
+          "kind": "object",
+          "pos": { "x": 0.29, "y": 0.70 },
+          "radius": 0.08,
+          "rect": { "x": 0.18, "y": 0.55, "w": 0.22, "h": 0.30 },
+          "side": "phai",
+          "action": { "type": "puzzle", "targetId": "p-c4-present-genealogy" }
+        },
+        {
+          "id": "hitbox-ong-le-patriarch",
+          "kind": "npc",
+          "pos": { "x": 0.49, "y": 0.525 },
+          "radius": 0.10,
+          "rect": { "x": 0.36, "y": 0.25, "w": 0.26, "h": 0.55 },
+          "side": "phai",
+          "action": { "type": "dialogue", "targetId": "d-c4-patriarch-defeat" }
+        },
+        {
+          "id": "hitbox-styling-phuong",
+          "kind": "object",
+          "pos": { "x": 0.50, "y": 0.55 },
+          "radius": 0.08,
+          "rect": { "x": 0.40, "y": 0.40, "w": 0.20, "h": 0.30 },
+          "side": "phai",
+          "action": { "type": "puzzle", "targetId": "p-c4-styling-phuong" }
+        }
+      ]
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "d-c4-nam-1845",
+      "speaker": "Cô Phương",
+      "nodes": [
+        {
+          "id": "node-1",
+          "text": "Trên xà nóc có khắc chữ Hán: 'Ất Tỵ niên chế - 1845', năm cụ tổ dựng nên từ đường!",
+          "clueId": "clue-nam-1845"
+        }
+      ]
+    },
+    {
+      "id": "d-c4-altar-incense",
+      "speaker": "Cô Phương",
+      "nodes": [
+        {
+          "id": "node-1",
+          "text": "Bàn thờ tổ uy nghiêm chứng giám cho lòng hiếu thảo của bao thế hệ con cháu."
+        }
+      ]
+    },
+    {
+      "id": "d-c4-ao-cuoi",
+      "speaker": "Cô Phương",
+      "nodes": [
+        {
+          "id": "node-1",
+          "text": "Chiếc áo dài phin trắng thêu cành đào nhỏ may từ tem phiếu khen thưởng lao động tiên tiến!",
+          "clueId": "clue-ao-cuoi-vai-phin"
+        }
+      ]
+    },
+    {
+      "id": "d-c4-cong-duc",
+      "speaker": "Cô Phương",
+      "nodes": [
+        {
+          "id": "node-1",
+          "text": "Cụ Loan dốc cạn bạc vàng dệt vải cứu đói năm 1945, mẹ Mai phụng dưỡng từ đường qua chiến tranh!",
+          "clueId": "clue-cong-duc-cu-loan-ba-mai"
+        }
+      ]
+    },
+    {
+      "id": "d-c4-uncle-suu",
+      "speaker": "Chú Sửu",
+      "nodes": [
+        {
+          "id": "node-1",
+          "text": "Nhất nam viết hữu, thập nữ viết vô! Con gái đi lấy chồng thì không có quyền lên tiếng về đất tổ!"
+        }
+      ]
+    },
+    {
+      "id": "d-c4-patriarch-defeat",
+      "speaker": "Cô Phương",
+      "nodes": [
+        {
+          "id": "node-1",
+          "text": "Con gái hay con trai đều là máu mủ cha ông, đều cống hiến cho đất nước và gia đình!"
+        }
+      ]
+    }
+  ],
+  "puzzles": [
+    {
+      "id": "p-c4-magnet-needle",
+      "type": "use",
+      "title": "Dùng nam châm hút kim thêu dưới khe gạch",
+      "hasSession": false,
+      "hints": [
+        "Chiếc kim thêu bị rơi kẹt sâu dưới khe sàn gạch xi măng.",
+        "Nam châm tháo từ loa đài cát-sét cũ có lực hút kim loại.",
+        "Kéo cục nam châm vào khe nứt để hút chiếc kim thêu thép sáng loáng."
+      ],
+      "solution": {
+        "requiredItemId": "nam_cham_loa_dai",
+        "rewardItemId": "kim_theu_thep"
+      }
+    },
+    {
+      "id": "p-c4-embroider-flower",
+      "type": "use",
+      "title": "Thêu cành hoa đào lên ngực áo cưới vải phin",
+      "hasSession": true,
+      "hints": [
+        "Cần có kim thêu và cuộn chỉ tơ hồng đào.",
+        "Xâu kim và thêu 5 cánh hoa đào nhỏ lên ngực áo dài phin trắng.",
+        "Hoàn thành mũi thêu để nhận chiếc áo dài cưới vải phin hoàn chỉnh."
+      ],
+      "solution": {
+        "requiredItemIds": ["kim_theu_thep", "cuon_chi_to_dao"],
+        "rewardItemId": "chiec_ao_dai_cuoi_vai_phin",
+        "dialogueTriggerId": "d-c4-ao-cuoi"
+      }
+    },
+    {
+      "id": "p-c4-chest-code-1845",
+      "type": "code",
+      "title": "Mở tráp gia phả và Lật Vải tìm trang bị xé",
+      "hasSession": true,
+      "hints": [
+        "Mật mã 4 số là năm thành lập làng dệt cổ truyền khắc trên xà nóc.",
+        "Nhập mã số 1845 để mở tráp sơn son.",
+        "Bật 'Lật Vải' dùng kéo may cắt chỉ xám dưới chân sập gụ để lấy các trang gia phả gốc bị xé."
+      ],
+      "solution": {
+        "combination": "1845",
+        "rewardItemId": "cac_trang_gia_pha_goc_bi_xe",
+        "dialogueTriggerId": "d-c4-cong-duc"
+      }
+    },
+    {
+      "id": "p-c4-present-genealogy",
+      "type": "present",
+      "title": "Đòi lại danh dự cho phụ nữ trước hội đồng gia tộc",
+      "hasSession": false,
+      "hints": [
+        "Các bô lão và thanh niên trong họ đang tề tựu tại sân từ đường.",
+        "Giơ cao các trang gia phả gốc chữ Nôm ghi nhận công đức tiền nhân.",
+        "Kéo các trang gia phả gốc bị xé thả vào bậc thềm đá trước mặt hội đồng họ."
+      ],
+      "solution": { "presentedItemId": "cac_trang_gia_pha_goc_bi_xe" }
+    },
+    {
+      "id": "p-c4-styling-phuong",
+      "type": "styling",
+      "title": "Thử thách phối áo dài cưới thời bao cấp cho Cô Phương",
+      "hasSession": true,
+      "hints": [
+        "Phom dáng suông thời bao cấp may bằng vải phin hoặc popolin.",
+        "Màu trắng tinh khôi thêu hoa đào nhỏ, kết hợp quần lụa đen.",
+        "Phối dép nhựa Tiền Phong hoặc xăng-đan quai mảnh, tóc cặp ba lá."
+      ],
+      "solution": {
+        "silhouette": "tan_thoi",
+        "garmentId": "ao-dai-cuoi-phin",
+        "footwearId": "guoc-moc"
+      }
+    }
+  ]
+}

@@ -1,0 +1,234 @@
+[
+  {
+    "id": "phan_may_mau_xanh",
+    "name": "Phấn may màu xanh",
+    "description": "Viên phấn may hình tam giác màu xanh ngọc của bà ngoại, dùng để đánh dấu đường cắt may.",
+    "category": "tool",
+    "consumable": false,
+    "icon": "chalk"
+  },
+  {
+    "id": "kim_gut_bang_bac",
+    "name": "Kim gút bằng bạc",
+    "description": "Chiếc kim gút bằng bạc thon nhọn của thợ may xưa, dùng để định vị nếp vải hoặc chọc mở then chốt nhỏ.",
+    "category": "tool",
+    "consumable": false,
+    "icon": "needle"
+  },
+  {
+    "id": "chia_khoa_dong_ba_chau",
+    "name": "Chìa khóa đồng ba chấu",
+    "description": "Chìa khóa cổ bằng đồng chạm hình ba cánh hoa cúc, khớp với ổ khóa chiếc rương cũ trên gác xép.",
+    "category": "key",
+    "consumable": true,
+    "icon": "key"
+  },
+  {
+    "id": "thuoc_go_tho_may_1888",
+    "name": "Thước gỗ thợ may 1888",
+    "description": "Kỷ vật truyền đời của Cụ Cầm, thước gỗ chia khắc chữ Nho tinh xảo, biểu tượng của sự ngay thẳng.",
+    "category": "relic",
+    "consumable": false,
+    "icon": "ruler"
+  },
+  {
+    "id": "con_thoi_go_mun",
+    "name": "Con thoi gỗ mun",
+    "description": "Con thoi dệt lụa bằng gỗ mun mũi bịt sừng trâu uốn cong như chiếc lưỡi câu nhọn hoắt.",
+    "category": "tool",
+    "consumable": true,
+    "icon": "shuttle"
+  },
+  {
+    "id": "that_lung_lua_cham",
+    "name": "Thắt lưng lụa chàm bện chặt",
+    "description": "Dải thắt lưng vải tơ tằm dệt se đôi nhuộm chàm cực kỳ dai bền, không thể giật đứt bằng tay.",
+    "category": "material",
+    "consumable": true,
+    "icon": "belt"
+  },
+  {
+    "id": "dung_cu_moc_then_cua",
+    "name": "Dụng cụ móc then cửa",
+    "description": "Dụng cụ tự chế bằng cách buộc con thoi gỗ mun mũi móc sừng trâu vào dải thắt lưng lụa chàm dai chắc.",
+    "category": "tool",
+    "consumable": true,
+    "icon": "hook"
+  },
+  {
+    "id": "keo_may_bang_dong",
+    "name": "Kéo may bằng đồng",
+    "description": "Chiếc kéo cắt may bằng đồng rèn thủ công, lưỡi kéo sắc bén có thể cắt đứt những sợi chỉ định kiến.",
+    "category": "tool",
+    "consumable": false,
+    "icon": "scissors"
+  },
+  {
+    "id": "buc_thu_tay_chong_cu_Cam",
+    "name": "Bức thư tay của chồng Cụ Cầm",
+    "description": "Lá thư ố vàng mực Nho người chồng gửi lại, dặn Cụ Cầm tự do sống cuộc đời mình sau khi anh mất tích.",
+    "category": "evidence",
+    "consumable": false,
+    "icon": "letter"
+  },
+  {
+    "id": "to_van_tu_cam_co_dat",
+    "name": "Tờ văn tự cầm cố đất làng",
+    "description": "Văn tự có chữ ký và điểm chỉ của Trưởng tộc Bùi Văn Thân gán ruộng dệt của Cụ Cầm trả nợ cờ bạc.",
+    "category": "evidence",
+    "consumable": false,
+    "icon": "contract"
+  },
+  {
+    "id": "manh_ban_ve_ao_dai_1",
+    "name": "Mảnh bản vẽ 1: Cổ áo Lemur",
+    "description": "Mảnh giấy vẽ phác thảo phần cổ lá sen cách tân của áo dài Lemur.",
+    "category": "puzzle_piece",
+    "consumable": true,
+    "icon": "sketch"
+  },
+  {
+    "id": "manh_ban_ve_ao_dai_2",
+    "name": "Mảnh bản vẽ 2: Thân áo chiết eo",
+    "description": "Mảnh giấy vẽ phác thảo đường lượn eo và nách áo dài tân thời.",
+    "category": "puzzle_piece",
+    "consumable": true,
+    "icon": "sketch"
+  },
+  {
+    "id": "manh_ban_ve_ao_dai_3",
+    "name": "Mảnh bản vẽ 3: Tay bồng phương Tây",
+    "description": "Mảnh giấy vẽ phần vai bồng nữ tính kiểu Âu phục thập niên 1930.",
+    "category": "puzzle_piece",
+    "consumable": true,
+    "icon": "sketch"
+  },
+  {
+    "id": "manh_ban_ve_ao_dai_4",
+    "name": "Mảnh bản vẽ 4: Chữ ký và mật mã",
+    "description": "Mảnh giấy ghi chữ ký họa sĩ và dòng mật mã chỉ nơi giấu chìa khóa két sắt.",
+    "category": "puzzle_piece",
+    "consumable": true,
+    "icon": "sketch"
+  },
+  {
+    "id": "ban_ve_ao_dai_tan_thoi",
+    "name": "Bản vẽ áo dài tân thời hoàn chỉnh",
+    "description": "Bản thiết kế áo dài Lemur được ghép lại nguyên vẹn, minh chứng cho tài năng và khí tiết Cụ Loan.",
+    "category": "evidence",
+    "consumable": false,
+    "icon": "sketch"
+  },
+  {
+    "id": "chia_khoa_ket_sat_bang_thau",
+    "name": "Chìa khóa két sắt bằng thau",
+    "description": "Chiếc chìa khóa đồng thau nặng trịch giấu sau quả lắc chiếc đồng hồ đứng kiểu Pháp cao 2m.",
+    "category": "key",
+    "consumable": true,
+    "icon": "key"
+  },
+  {
+    "id": "bien_lai_tra_no_goc_1935",
+    "name": "Biên lai trả nợ gốc năm 1935",
+    "description": "Chứng từ chứng minh cha Cụ Loan đã trả hết món nợ 500 đồng bạc Đông Dương từ sáu tháng trước.",
+    "category": "evidence",
+    "consumable": false,
+    "icon": "receipt"
+  },
+  {
+    "id": "ban_giao_keo_ep_hon",
+    "name": "Bản giao kèo ép hôn",
+    "description": "Bản giao kèo bất chính giữa Cả Nghị và quan Huyện ép gả Cụ Loan làm vợ lẽ.",
+    "category": "evidence",
+    "consumable": false,
+    "icon": "contract"
+  },
+  {
+    "id": "bua_chu_tru_yeu_1",
+    "name": "Lọ bùa giấy vàng chậu cảnh",
+    "description": "Chiếc lọ sành nhỏ nhét lá bùa chữ son do thầy Ba Càn lén lút chôn trong chậu mai chiếu thủy.",
+    "category": "evidence",
+    "consumable": false,
+    "icon": "talisman"
+  },
+  {
+    "id": "bua_chu_tru_yeu_2",
+    "name": "Lá bùa đầu lâu chân máy may",
+    "description": "Lá bùa hung hiểm giấu dưới viên gạch bông cạy lỏng chân bàn máy khâu tiệm may Đa Kao.",
+    "category": "evidence",
+    "consumable": false,
+    "icon": "talisman"
+  },
+  {
+    "id": "bien_nhan_tien_thay_boi",
+    "name": "Biên nhận tiền thuê bói toán",
+    "description": "Giấy biên nhận 2000 đồng của bà Hội đồng Vĩnh chi cho thầy Ba Càn để vu khống số sát phu.",
+    "category": "evidence",
+    "consumable": false,
+    "icon": "receipt"
+  },
+  {
+    "id": "so_tu_vi_nguyen_ban_1962",
+    "name": "Sổ tử vi nguyên bản 1962",
+    "description": "Sổ lá số tử vi gốc ghi đúng ngày giờ sinh đại cát của Vinh, không hề xung khắc với Bà Mai.",
+    "category": "evidence",
+    "consumable": false,
+    "icon": "book"
+  },
+  {
+    "id": "thu_tay_thoa_thuan_boi_toan",
+    "name": "Thư tay thỏa thuận bói toán",
+    "description": "Bức thư tay hé lộ âm mưu ép Bà Mai làm vợ lẽ và chiếm đoạt tiệm may Đa Kao.",
+    "category": "evidence",
+    "consumable": false,
+    "icon": "letter"
+  },
+  {
+    "id": "nam_cham_loa_dai",
+    "name": "Cục nam châm loa đài cát-sét",
+    "description": "Cục nam châm nhỏ tháo ra từ loa chiếc đài cát-sét cũ, lực hút mạnh dùng để hút kim loại dưới khe sàn.",
+    "category": "tool",
+    "consumable": false,
+    "icon": "magnet"
+  },
+  {
+    "id": "kim_theu_thep",
+    "name": "Kim thêu thép sáng loáng",
+    "description": "Chiếc kim thêu bằng thép bền chắc của cô công nhân dệt Nam Định thời bao cấp.",
+    "category": "tool",
+    "consumable": true,
+    "icon": "needle"
+  },
+  {
+    "id": "cuon_chi_to_dao",
+    "name": "Cuộn chỉ tơ hồng đào",
+    "description": "Bó chỉ thêu tơ tằm màu hồng đào tươi thắm, dùng để thêu hoa đào trên ngực áo cưới.",
+    "category": "material",
+    "consumable": true,
+    "icon": "thread"
+  },
+  {
+    "id": "chiec_ao_dai_cuoi_vai_phin",
+    "name": "Chiếc áo dài cưới vải phin",
+    "description": "Chiếc áo cưới trắng tinh khôi thêu cành hoa đào nhỏ, biểu tượng tình yêu thủy chung thời bao cấp.",
+    "category": "garment",
+    "consumable": false,
+    "icon": "dress"
+  },
+  {
+    "id": "cac_trang_gia_pha_goc_bi_xe",
+    "name": "Các trang gia phả gốc bị xé",
+    "description": "Những trang giấy dó chữ Nôm ghi chép công đức cứu đói dòng họ năm 1945 của Cụ Loan và Bà Mai.",
+    "category": "evidence",
+    "consumable": false,
+    "icon": "pages"
+  },
+  {
+    "id": "ho_so_giam_dinh_y_phuc_2026",
+    "name": "Hồ sơ giám định y phục 2026",
+    "description": "Tài liệu khoa học bóc tách 3 điểm sai phạm hình thái nghiêm trọng trên mẫu áo ngũ thân nhái.",
+    "category": "evidence",
+    "consumable": false,
+    "icon": "dossier"
+  }
+]

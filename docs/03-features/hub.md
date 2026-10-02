@@ -6,6 +6,18 @@ Sảnh tiệm may là không gian trung tâm của ứng dụng, đóng vai trò
 
 ## 2. Bố cục trực quan và các thành phần trên giao diện
 
+### Bố cục ngang (chính)
+- **Tỷ lệ hiển thị:** Chuẩn 8:5 (lưới logic 800×500 px, hiển thị nguyên lần 1600×1000 px) trên nền `background--landscape.png`.
+- **Cảnh nền sân nhà:** Khung cảnh sân gạch đỏ cổ truyền lúc hoàng hôn vàng ấm:
+  - Bên trái: Dãy nhà ngói cổ dẫn vào **"Phòng phối đồ"** (`studio`).
+  - Bên phải: Dãy nhà ngói cổ đối xứng dẫn vào **"Tủ đồ"** (`closet`).
+  - Ở giữa phía sau: Cổng vòm gạch cổ dẫn vào **"Cốt truyện"** (`journey`) kèm hiệu ứng vầng sáng `door-entrance-glow.png`.
+  - Bên trái cổng vòm sát tường vôi trắng: Kệ sách gỗ dẫn vào **"Bảo tàng"** (`museum`).
+  - Góc sân: Bậc thềm gạch cạnh ao sen là nơi chú mèo Nếp nằm sưởi nắng.
+- **Thanh HUD:** Thanh `ui-hud--3slice.png` ghim cố định mép trên cùng (cách mép 8px, rộng 760–784 px, cao 40 px), hiển thị logo tiệm bên trái, số dư Sen Ngọc và nút Cài đặt bên phải.
+- **Thẻ hành động:** Khung thẻ `action-card-frame--9slice.png` hiển thị nổi ở góc dưới bên trái hoặc trung tâm sân gạch với hai nút: "Tạo nhân vật từ ảnh" và "Dạo quanh sân nhà".
+
+### Bố cục dọc (phụ)
 Khung cảnh được thiết kế theo tỉ lệ ngang 16:9 chuẩn (với bố cục chuyên biệt cho màn hình dọc), mô phỏng khoảng sân gạch đỏ truyền thống dưới ánh chiều hoàng hôn, bao gồm đầy đủ các thành phần trực quan:
 
 - **Góc trên bên trái:** Logo "Tiệm May Nếp" với dòng phụ "Việt phục Remix", được lồng trong khung hoa văn pixel cách điệu cánh hoa sen hồng nở rộ.

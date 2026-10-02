@@ -7,9 +7,12 @@
 export const AI_MODELS = {
   /**
    * Model đọc ảnh / xử lý thị giác (Vision & Structured Output)
-   * Sử dụng để phân tích thuộc tính tóc/kính từ selfie, nhận diện áo thật trong xưởng may
+   * Sử dụng để phân tích thuộc tính tóc/kính từ selfie, nhận diện áo thật trong xưởng may, và stylist.
+   * Lưu ý kỹ thuật: Đã chuyển đổi từ gemini-2.5-flash sang 'gemini-3.8-flash' - đây là bản Flash
+   * mới nhất hiện tại theo danh mục @google/genai Models của AI Studio Build.
+   * Tuyệt đối KHÔNG sử dụng gemini-2.5-flash-image hay các model cũ đã ngừng hỗ trợ.
    */
-  VISION_MODEL: 'gemini-2.5-flash',
+  VISION_MODEL: 'gemini-3.8-flash',
 
   /**
    * Model sinh ảnh (Image Generation)

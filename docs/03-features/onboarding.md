@@ -24,7 +24,10 @@ Luồng Khởi tạo nhân vật được tích hợp trực tiếp ngay tại S
 
 ## 3. Các trạng thái màn hình
 
-### Trạng thái bình thường
+### Bố cục ngang (chính)
+Thẻ "Bắt đầu câu chuyện của bạn" hiển thị nổi bật ở góc dưới bên trái hoặc trung tâm sân gạch đỏ trên nền `background--landscape.png` với khung viền `action-card-frame--9slice.png` (nền kem đào `cream-100`, viền ngoài mận chín `plum-800`, viền trong vàng đồng `gold-500` và hoa sen hai bên). Nút chính *"Tạo nhân vật từ ảnh ▶"* mang sắc hồng sen (`pink-500`) với bóng nổi dày 4px và liên kết phụ *"Dạo quanh sân nhà ▶"*.
+
+### Bố cục dọc (phụ)
 Thẻ "Bắt đầu câu chuyện của bạn" hiển thị nổi bật ở nửa dưới sảnh chính với nền kem đào (`cream-100`), viền ngoài mận chín (`plum-800`), viền trong vàng đồng (`gold-500`) và hoa sen hai bên. Nút chính *"Tạo nhân vật từ ảnh ▶"* mang sắc hồng sen (`pink-500`) với bóng nổi dày 4px.
 
 ### Trạng thái đang tải (Loading)

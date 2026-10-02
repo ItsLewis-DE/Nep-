@@ -1,0 +1,186 @@
+[
+  {
+    "id": "ao-tu-than",
+    "title": "Áo tứ thân",
+    "timePeriod": "Thế kỷ 18 đến đầu thế kỷ 20",
+    "historicalFact": "Bắt nguồn từ kiểu áo dài giao lĩnh xẻ tà, ghép từ 4 khổ vải hẹp thích nghi với lao động nông nghiệp Bắc Bộ.",
+    "officialName": "Áo tứ thân truyền thống",
+    "folkName": "Áo bốn thân, Áo cánh xẻ vạt"
+  },
+  {
+    "id": "ao-ngu-than-tay-chen",
+    "title": "Áo ngũ thân tay chẽn",
+    "timePeriod": "Triều Nguyễn (1802 - 1945)",
+    "historicalFact": "Định hình từ chúa Nguyễn Phúc Khoát (1744) và chuẩn hóa qua các đạo dụ Minh Mạng (1827-1837) thành quốc phục người Kinh.",
+    "officialName": "Áo ngũ thân lập lĩnh tay chẽn",
+    "folkName": "Áo chẽn, Áo năm thân"
+  },
+  {
+    "id": "ao-ngu-than-tay-thung",
+    "title": "Áo ngũ thân tay thụng (Áo tấc)",
+    "timePeriod": "Triều Nguyễn đến nay",
+    "historicalFact": "Lễ phục quy định trong hội điển triều Nguyễn, tay thụng rộng dài quá tà một tấc, dùng trong tế tự và hôn lễ.",
+    "officialName": "Áo ngũ thân lập lĩnh tay thụng",
+    "folkName": "Áo tấc, Áo thụng đại lễ"
+  },
+  {
+    "id": "ao-dai-tan-thoi-lemur",
+    "title": "Áo dài tân thời Lemur",
+    "timePeriod": "Năm 1934 - cuối thập niên 1930",
+    "historicalFact": "Họa sĩ Nguyễn Cát Tường công bố trên báo Phong Hóa số 90 ngày 23/3/1934, cách tân cổ lá sen và vai bồng.",
+    "officialName": "Áo dài tân thời Lemur",
+    "folkName": "Áo dài Cát Tường"
+  },
+  {
+    "id": "trang-phuc-hon-le-truyen-thong",
+    "title": "Trang phục hôn lễ truyền thống",
+    "timePeriod": "Thời Nguyễn đến hiện đại",
+    "historicalFact": "Tục lệ 'tân lang tân nương vi vương nhất nhật' cho phép thường dân ngày cưới mặc lễ phục áo tấc hoặc Nhật bình.",
+    "officialName": "Hôn phục truyền thống người Kinh",
+    "folkName": "Đồ cưới cổ truyền"
+  },
+  {
+    "id": "trang-phuc-tang-le-truyen-thong",
+    "title": "Trang phục tang lễ truyền thống",
+    "timePeriod": "Thời Lê sơ đến thời Nguyễn",
+    "historicalFact": "Quy chế Ngũ phục dùng vải xô gai để sổ gấu thể hiện lòng hiếu nghĩa tột cùng đối với đấng sinh thành.",
+    "officialName": "Tang phục truyền thống người Kinh",
+    "folkName": "Đồ đại tang, Áo xô gai"
+  },
+  {
+    "id": "ao-nhat-binh",
+    "title": "Áo Nhật bình",
+    "timePeriod": "Ban hành năm 1807 thời vua Gia Long",
+    "historicalFact": "Thường phục của Hoàng thái hậu, Hoàng hậu, Công chúa và triều phục của Cung tần mệnh phụ triều Nguyễn.",
+    "officialName": "Áo Đối khâm Nhật bình",
+    "folkName": "Áo phi phong xứ Huế"
+  },
+  {
+    "id": "ao-giao-linh",
+    "title": "Áo giao lĩnh",
+    "timePeriod": "Thời Lý, Trần, Lê (thế kỷ 11 - 18)",
+    "historicalFact": "Trang phục cổ xưa nhất của người Kinh, vạt trái đè chéo lên vạt phải (hữu nhậm), tượng trưng âm dương hòa hợp.",
+    "officialName": "Áo giao lĩnh Đại Việt",
+    "folkName": "Áo cổ chéo, Áo tràng vạt"
+  },
+  {
+    "id": "ao-yem",
+    "title": "Áo yếm",
+    "timePeriod": "Thời Lý - Trần đến giữa thế kỷ 20",
+    "historicalFact": "Nội y bất ly thân của phụ nữ Việt, gồm hai dáng yếm cổ xây kín đáo và yếm cánh sen duyên dáng.",
+    "officialName": "Áo yếm truyền thống",
+    "folkName": "Cái yếm lụa đào"
+  },
+  {
+    "id": "ao-dai-tay-raglan",
+    "title": "Áo dài tay raglan",
+    "timePeriod": "Ra đời khoảng năm 1960 tại Sài Gòn",
+    "historicalFact": "Sáng chế của nhà may Dung Đakao nối tay từ cổ chéo xuống nách giải phóng triệt để nếp nhăn nách áo.",
+    "officialName": "Áo dài ráp-lăng Sài Gòn",
+    "folkName": "Áo dài Đa Kao 1960"
+  },
+  {
+    "id": "ao-ba-ba",
+    "title": "Áo bà ba",
+    "timePeriod": "Thế kỷ 19 đến hiện nay",
+    "historicalFact": "Gắn liền văn hóa sông nước Nam Bộ, cải tiến từ trang phục người Baba để thích nghi lao động miệt vườn.",
+    "officialName": "Áo bà ba Nam Bộ",
+    "folkName": "Áo cánh xẻ ngực"
+  },
+  {
+    "id": "trang-phuc-hau-dong-tho-mau",
+    "title": "Trang phục hầu đồng Tín ngưỡng thờ Mẫu",
+    "timePeriod": "UNESCO vinh danh Di sản ngày 01/12/2016",
+    "historicalFact": "Hệ thống khăn chầu áo ngự 36 giá đồng tuân thủ nghiêm ngặt theo 4 phủ: đỏ (Thiên), xanh (Nhạc), trắng (Thoải), vàng (Địa).",
+    "officialName": "Lễ phục Tín ngưỡng thờ Mẫu Tam phủ",
+    "folkName": "Khăn chầu áo ngự"
+  },
+  {
+    "id": "card-tiem-may-nep-origins",
+    "title": "Nếp nhà và nghề may Hà Nội",
+    "timePeriod": "Năm 2026",
+    "historicalFact": "Lịch sử nếp nhà phố cổ Hàng Đào qua 5 thế hệ gìn giữ hồn cốt chiếc áo dài truyền thống.",
+    "officialName": "Di sản Tiệm May Nếp",
+    "folkName": "Tiệm May Nếp"
+  },
+  {
+    "id": "card-ngu-than-nguyen-dynasty",
+    "title": "Cấu trúc áo ngũ thân thời Nguyễn",
+    "timePeriod": "Năm 1888",
+    "historicalFact": "Quy chuẩn 5 thân áo, 5 khuy cài tượng trưng cho Nhân - Lễ - Nghĩa - Trí - Tín của triều Nguyễn.",
+    "officialName": "Quy chế ngũ thân thời Nguyễn",
+    "folkName": "Áo năm thân Đồng Khánh"
+  },
+  {
+    "id": "card-hu-tuc-ep-thu-tiet",
+    "title": "Khảo cứu hủ tục ép thủ tiết",
+    "timePeriod": "Cuối thế kỷ 19",
+    "historicalFact": "Lệ làng phong kiến ép phụ nữ góa thủ tiết giam mình để dòng họ đổi lấy biển Tiết hạnh khả phong.",
+    "officialName": "Hương ước và lệ thủ tiết làng xã",
+    "folkName": "Lệ thủ tiết thờ chồng"
+  },
+  {
+    "id": "card-phong-trao-ao-dai-lemur-1934",
+    "title": "Phong trào áo dài Lemur 1934",
+    "timePeriod": "Năm 1934 - 1935",
+    "historicalFact": "Cuộc cách tân y phục phụ nữ của nhóm Tự Lực Văn Đoàn trên báo Phong Hóa và Ngày Nay.",
+    "officialName": "Cải cách y phục Tự Lực Văn Đoàn",
+    "folkName": "Phong trào Lemur"
+  },
+  {
+    "id": "card-hu-tuc-tao-hon-ep-duyen",
+    "title": "Khảo cứu nạn ép duyên gán nợ",
+    "timePeriod": "Thập niên 1930",
+    "historicalFact": "Định kiến 'nữ nhi vô tài tiện thị đức' và thủ đoạn ép hôn gán nợ thời kỳ thuộc địa.",
+    "officialName": "Hủ tục hôn nhân môn đăng hộ đối",
+    "folkName": "Ép duyên gán nợ"
+  },
+  {
+    "id": "card-ky-thuat-ao-dai-raglan-1960",
+    "title": "Kỹ thuật ráp tay raglan 1960",
+    "timePeriod": "Năm 1962",
+    "historicalFact": "Bước đột phá trong kỹ thuật may áo dài tại khu vực Đa Kao Sài Gòn giúp tà áo phẳng phiu.",
+    "officialName": "Kỹ thuật tay raglan Sài Gòn",
+    "folkName": "Áo raglan Đa Kao"
+  },
+  {
+    "id": "card-phe-phan-hu-tuc-boi-toan",
+    "title": "Phê phán thủ đoạn bói toán trục lợi",
+    "timePeriod": "Thập niên 1960",
+    "historicalFact": "Vạch trần trò bói toán mê tín dị đoan vu khống 'gò má cao sát phu' để ép phụ nữ làm vợ lẽ.",
+    "officialName": "Phê phán mê tín dị đoan",
+    "folkName": "Bói toán sát phu"
+  },
+  {
+    "id": "card-ao-dai-thoi-bao-cap-1980",
+    "title": "Áo dài thời kỳ bao cấp",
+    "timePeriod": "Năm 1982",
+    "historicalFact": "Nét đẹp giản dị, thanh khiết của chiếc áo dài cưới vải phin và popolin công nghiệp dệt Nam Định.",
+    "officialName": "Y phục thời kỳ tem phiếu",
+    "folkName": "Áo dài cưới vải phin"
+  },
+  {
+    "id": "card-phe-phan-trong-nam-khinh-nu",
+    "title": "Phê phán tư tưởng trọng nam khinh nữ",
+    "timePeriod": "Thập niên 1980",
+    "historicalFact": "Đấu tranh chống lại định kiến 'nhất nam viết hữu, thập nữ viết vô' xóa tên phụ nữ khỏi phả tộc.",
+    "officialName": "Bình đẳng giới trong gia đình",
+    "folkName": "Xóa tên khỏi gia phả"
+  },
+  {
+    "id": "card-viet-phuc-remix-tuong-lai",
+    "title": "Tương lai của Việt phục Remix",
+    "timePeriod": "Năm 2026",
+    "historicalFact": "Đưa cổ phục bước vào đời sống đương đại với sự tôn trọng lịch sử và tinh thần sáng tạo trẻ trung.",
+    "officialName": "Bảo tồn di sản thời trang số",
+    "folkName": "Việt phục Remix"
+  },
+  {
+    "id": "card-tong-ket-nam-the-he-phu-nu",
+    "title": "Năm thế hệ phụ nữ kiên cường",
+    "timePeriod": "1888 - 2026",
+    "historicalFact": "Tổng kết hành trình qua 5 thế hệ Cụ Cầm, Cụ Loan, Bà Mai, Mẹ Phương và An trong dòng chảy văn hóa.",
+    "officialName": "Phả hệ nữ quyền Tiệm May Nếp",
+    "folkName": "Năm thế hệ nếp áo"
+  }
+]

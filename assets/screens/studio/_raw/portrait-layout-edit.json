@@ -1,0 +1,6 @@
+{
+  "tool": "built-in image_gen",
+  "target": "workbench-ui--portrait-v1.png",
+  "output": "workbench-ui--portrait-v2.png",
+  "prompt": "Edit target: this Vietnamese pixel-art tailor atelier portrait background. Change ONLY the vertical composition to make it usable as the mobile dress-up screen, preserving same pixel-art technique, Vietnamese wooden architecture, lotus motifs, silk shelves, colors and morning lighting. Final intended dimensions remain 320x480 (2:3 portrait). CRITICAL layout correction: move the circular wooden fitting podium UP so its standing surface is at exactly 40% of total image height (y=192 on logical 480 grid) and its bottom is above 45% height. The podium is centered horizontally, smaller than now, about 40% image width. Keep EMPTY lime-plaster wall above the podium for a character occupying y=9%-39%. Compact overhead beams into top 8% of image; keep window and vase at upper left edge and silk rolls at upper right edge, avoiding character area. LOWER 55% of the image must be open, quiet terracotta floor and subtle wood trim only, since bottom-sheet UI will cover that area. Preserve cultural Vietnamese craftsmanship and warm appearance; no people, mannequin, text, UI, modern objects, new lanterns or religious objects. No checkerboard. One complete opaque portrait background, hard crisp pixel art with no antialiasing."
+}
